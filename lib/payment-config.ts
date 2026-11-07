@@ -114,7 +114,14 @@ export type PaymentSettingsInput = {
 
 const BLOB_PATH = "payments/config.enc";
 
-let cache: { etag: string; config: StoredPaymentConfig } | null = null;
+// Hobby Blob includes 10,000 reads a month. Hold the decrypted config in
+// memory so storefront traffic does not call Blob on every page. A save on
+// this instance updates the copy immediately.
+const READ_TTL_MS = 60 * 60 * 1000;
+
+let memory: { config: StoredPaymentConfig | null; freshUntil: number } | null = null;
+let pendingRead: Promise<StoredPaymentConfig | null> | null = null;
+let revision = 0;
 
 function encryptionKey() {
   const raw = process.env.PAYMENT_CONFIG_KEY?.trim() || "";
@@ -192,37 +199,42 @@ function decryptStored(key: Buffer, raw: string) {
   return normalizeStored(JSON.parse(json));
 }
 
+function remember(config: StoredPaymentConfig | null) {
+  memory = { config, freshUntil: Date.now() + READ_TTL_MS };
+  return config;
+}
+
+async function fetchStored(
+  key: Buffer,
+  revisionAtStart: number,
+): Promise<StoredPaymentConfig | null> {
+  try {
+    const result = await get(BLOB_PATH, { access: "private" });
+    if (revision !== revisionAtStart && memory) return memory.config;
+    if (!result || result.statusCode !== 200 || !result.stream) {
+      return remember(null);
+    }
+    const raw = await new Response(result.stream).text();
+    const config = decryptStored(key, raw);
+    if (revision !== revisionAtStart && memory) return memory.config;
+    return remember(config);
+  } catch {
+    if (memory) return remember(memory.config);
+    return remember(null);
+  }
+}
+
 async function readStored(): Promise<StoredPaymentConfig | null> {
   const key = encryptionKey();
   if (!key || !blobTokenReady()) return null;
-  let result;
-  try {
-    result = await get(BLOB_PATH, {
-      access: "private",
-      useCache: false,
-      ifNoneMatch: cache?.etag || undefined,
+  if (memory && memory.freshUntil > Date.now()) return memory.config;
+  if (!pendingRead) {
+    const revisionAtStart = revision;
+    pendingRead = fetchStored(key, revisionAtStart).finally(() => {
+      pendingRead = null;
     });
-  } catch {
-    return cache?.config ?? null;
   }
-  if (!result) {
-    cache = null;
-    return null;
-  }
-  if (result.statusCode === 304) {
-    if (cache) return cache.config;
-    const fresh = await get(BLOB_PATH, { access: "private", useCache: false });
-    if (!fresh || fresh.statusCode !== 200 || !fresh.stream) return null;
-    const raw = await new Response(fresh.stream).text();
-    const config = decryptStored(key, raw);
-    cache = { etag: fresh.blob.etag, config };
-    return config;
-  }
-  if (!result.stream) return null;
-  const raw = await new Response(result.stream).text();
-  const config = decryptStored(key, raw);
-  cache = { etag: result.blob.etag, config };
-  return config;
+  return pendingRead;
 }
 
 function normalizeStored(value: Partial<StoredPaymentConfig>): StoredPaymentConfig {
@@ -412,14 +424,15 @@ async function writeStored(config: StoredPaymentConfig) {
     tag: tag.toString("base64"),
     data: encrypted.toString("base64"),
   });
-  const stored = await put(BLOB_PATH, body, {
+  await put(BLOB_PATH, body, {
     access: "private",
     addRandomSuffix: false,
     allowOverwrite: true,
     contentType: "application/json",
     cacheControlMaxAge: 60,
   });
-  cache = { etag: stored.etag, config };
+  revision += 1;
+  remember(config);
 }
 
 export function checkoutPublicConfig(accounts: PaymentAccounts) {
