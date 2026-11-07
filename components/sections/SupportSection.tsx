@@ -1,5 +1,5 @@
 import type { StoreSettings } from "@/lib/types";
-import { pageContainer, sectionYClass } from "@/lib/layout";
+import { homeSectionClass, pageContainer } from "@/lib/layout";
 import { cn } from "@/lib/utils";
 
 export function SupportSection({ settings }: { settings: StoreSettings }) {
@@ -14,7 +14,7 @@ export function SupportSection({ settings }: { settings: StoreSettings }) {
   return (
     <section
       aria-labelledby="support-heading"
-      className={cn("border-b border-border", sectionYClass)}
+      className={cn("border-b border-border", homeSectionClass)}
     >
       <div className={pageContainer()}>
         <div className="rounded-lg bg-[var(--dark-background)] px-6 py-10 text-[var(--dark-foreground)] sm:px-10">

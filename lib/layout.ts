@@ -9,6 +9,9 @@ export const narrowContainerClass =
 
 export const sectionYClass = "py-[var(--section-y)]";
 
+/** Tighter rhythm for the store homepage, where the catalog should stay close. */
+export const homeSectionClass = "py-14 sm:py-16 lg:py-20";
+
 export const sectionStackClass = "space-y-[var(--section-gap)]";
 
 export function pageContainer(...classes: Array<string | undefined | false>) {

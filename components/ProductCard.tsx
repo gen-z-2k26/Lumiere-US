@@ -17,7 +17,13 @@ import { QuickViewModal } from "@/components/QuickViewModal";
 import { Button } from "@/components/ui/button";
 import { cn } from "@/lib/utils";
 
-export function ProductCard({ product }: { product: Product }) {
+export function ProductCard({
+  product,
+  titleClamp = false,
+}: {
+  product: Product;
+  titleClamp?: boolean;
+}) {
   const { settings } = useStore();
   const setError = useCartStore((state) => state.setError);
   const { enabled } = useMotionEnabled();
@@ -114,7 +120,12 @@ export function ProductCard({ product }: { product: Product }) {
             title={product.name}
             className="group/title flex items-center justify-between gap-1.5 focus-visible:outline-none"
           >
-            <h3 className="truncate text-lg tracking-tight text-foreground transition-colors group-hover/title:text-primary">
+            <h3
+              className={cn(
+                "text-lg tracking-tight text-foreground transition-colors group-hover/title:text-primary",
+                titleClamp ? "line-clamp-2 min-h-14" : "truncate",
+              )}
+            >
               {product.name}
             </h3>
             <ArrowUpRight className="size-3.5 shrink-0 -translate-x-1 translate-y-0.5 text-muted-foreground opacity-0 transition-all duration-200 group-hover:translate-x-0 group-hover:translate-y-0 group-hover:opacity-100 group-hover/title:text-primary" />

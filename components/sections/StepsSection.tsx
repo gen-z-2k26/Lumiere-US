@@ -1,6 +1,6 @@
 import { SectionHeader } from "@/components/sections/SectionHeader";
 import { Reveal } from "@/components/sections/Reveal";
-import { pageContainer, sectionStackClass, sectionYClass } from "@/lib/layout";
+import { homeSectionClass, pageContainer, sectionStackClass } from "@/lib/layout";
 import { cn } from "@/lib/utils";
 
 const steps = [
@@ -30,7 +30,7 @@ export function StepsSection() {
   return (
     <section
       aria-labelledby="steps-heading"
-      className={cn("border-b border-border", sectionYClass)}
+      className={cn("border-b border-border", homeSectionClass)}
     >
       <div className={pageContainer(sectionStackClass)}>
         <SectionHeader
@@ -40,11 +40,11 @@ export function StepsSection() {
           titleId="steps-heading"
         />
 
-        <ol className="grid gap-6 sm:grid-cols-2 lg:grid-cols-4">
+        <ol className="grid gap-px overflow-hidden rounded-2xl border border-border bg-border sm:grid-cols-2 lg:grid-cols-4">
           {steps.map((item, index) => (
-            <Reveal key={item.title} delay={index * 0.06} as="li">
-              <div className="surface-card h-full space-y-4 p-6">
-                <p className="font-display inline-flex size-12 items-center justify-center rounded-full bg-primary/25 text-lg text-foreground">
+            <Reveal key={item.title} delay={index * 0.06} as="li" className="h-full">
+              <div className="flex h-full flex-col gap-3 bg-card p-6">
+                <p className="font-display text-sm tracking-[0.16em] text-primary">
                   {item.number}
                 </p>
                 <h3 className="text-lg tracking-tight">{item.title}</h3>

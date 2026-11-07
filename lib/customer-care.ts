@@ -82,7 +82,7 @@ export const CARE_LABEL_HREFS: Record<string, string> = {
   "Contact Our Team": "/contact-us",
   "Contact Customer Support": "/contact-us",
   "Share Your Feedback": "/contact-us",
-  "Shop Orvexo Electronics": "/products",
+  "Shop lumeero Electronics": "/products",
   "Shop All": "/products",
   "About Us": "/about-us",
   "Our Commitment": "/our-commitment",

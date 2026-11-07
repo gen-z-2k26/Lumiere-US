@@ -1,105 +1,103 @@
 "use client";
 
 import Link from "next/link";
-import { motion } from "motion/react";
-import type { Category, Product } from "@/lib/types";
+import type { Product } from "@/lib/types";
 import { ProductCard } from "@/components/ProductCard";
+import { ProductImageCarousel } from "@/components/ProductImageCarousel";
 import { SectionHeader } from "@/components/sections/SectionHeader";
-import { useMotionEnabled } from "@/lib/use-motion-enabled";
-import { easings } from "@/lib/motion";
-import { pageContainer, sectionStackClass, sectionYClass } from "@/lib/layout";
+import { buttonVariants } from "@/components/ui/button";
+import { formatPrice } from "@/lib/format";
+import { homeSectionClass, pageContainer, sectionStackClass } from "@/lib/layout";
+import { useStore } from "@/lib/store-context";
+import { cn } from "@/lib/utils";
 
-export function FeaturedProductsSection({
-  products,
-  groups = [],
-}: {
-  products: Product[];
-  groups?: { category: Category; products: Product[] }[];
-}) {
-  const featured = products;
-  const { enabled } = useMotionEnabled();
-  const sections =
-    groups.length > 0
-      ? groups
-          .map((group) => ({
-            ...group,
-            products: group.products.slice(0, 3),
-          }))
-          .filter((group) => group.products.length > 0)
-          .slice(0, 3)
-      : featured.length > 0
-        ? [{ category: null, products: featured.slice(0, 3) }]
-        : [];
+function SpotlightProduct({ product }: { product: Product }) {
+  const { settings } = useStore();
+
+  return (
+    <article className="flex h-full flex-col overflow-hidden rounded-2xl border border-border bg-card">
+      <ProductImageCarousel
+        images={product.images}
+        alt={product.imageAlts[0] || product.name}
+        fallbackImage={settings.logo}
+        rounded="rounded-none"
+        sizes="(min-width: 1024px) 40vw, 100vw"
+        className={cn(
+          "aspect-[4/3]",
+          !product.inStock && "opacity-75 saturate-50",
+        )}
+      />
+      <div className="flex flex-1 flex-col justify-between gap-6 p-5 sm:p-6">
+        <div>
+          <p className="text-xs tracking-[0.16em] text-muted-foreground uppercase">
+            {product.category || "Featured"}
+          </p>
+          <h3 className="font-display mt-3 text-balance text-2xl leading-tight sm:text-3xl">
+            <Link href={`/products/${product.slug}`} className="hover:text-primary">
+              {product.name}
+            </Link>
+          </h3>
+          <p className="mt-4 text-xl tabular-nums tracking-tight">
+            {formatPrice(product.price, settings)}
+          </p>
+          <p className="mt-2 text-sm text-muted-foreground">
+            {product.inStock ? "In stock" : "Out of stock"}
+          </p>
+        </div>
+        <Link
+          href={`/products/${product.slug}`}
+          className={cn(buttonVariants({ size: "lg" }), "w-full sm:w-fit")}
+        >
+          View product
+        </Link>
+      </div>
+    </article>
+  );
+}
+
+export function FeaturedProductsSection({ products }: { products: Product[] }) {
+  const [spotlight, ...rest] = products.slice(0, 5);
+  const shelf = rest.slice(0, 4);
 
   return (
     <section
       id="featured"
       aria-labelledby="featured-heading"
-      className={sectionYClass}
+      className={cn("border-b border-border bg-muted/40", homeSectionClass)}
     >
       <div className={pageContainer(sectionStackClass)}>
         <SectionHeader
-          eyebrow="Featured"
-          title="Featured products"
-          subtitle="A few products from each category in the catalog."
+          eyebrow="Catalog"
+          title="In the shop now"
+          subtitle="A mix from the live catalog. Open any product for the full price and details."
           titleId="featured-heading"
           action={
             <Link
               href="/products"
-              className="shrink-0 text-sm font-medium text-primary underline-offset-4 hover:underline focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring"
+              className={cn(buttonVariants({ variant: "outline", size: "sm" }))}
             >
-              All products →
+              Shop all
             </Link>
           }
         />
 
-        {sections.length === 0 ? (
-          <div className="rounded-2xl border border-dashed border-border px-6 py-14 text-center">
+        {!spotlight ? (
+          <div className="rounded-2xl border border-dashed border-border bg-card px-6 py-14 text-center">
             <p className="font-medium">No products yet</p>
             <p className="mt-2 text-pretty text-sm text-muted-foreground">
               Products will show here when the catalog is published.
             </p>
           </div>
         ) : (
-          <div className="space-y-10">
-            {sections.map((group) => (
-              <div key={group.category?.id ?? "featured"} className="space-y-4">
-                {group.category ? (
-                  <div className="flex items-end justify-between gap-4">
-                    <h3 className="font-display text-2xl text-balance">
-                      {group.category.name}
-                    </h3>
-                    <Link
-                      href={`/collection/${group.category.slug}`}
-                      className="shrink-0 text-sm font-medium text-primary underline-offset-4 hover:underline"
-                    >
-                      View category
-                    </Link>
-                  </div>
-                ) : null}
-                <div className="grid grid-cols-1 gap-5 sm:grid-cols-2 lg:grid-cols-3">
-                  {group.products.map((product, index) =>
-                    enabled ? (
-                      <motion.div
-                        key={product.id}
-                        initial={{ opacity: 0, y: 12 }}
-                        whileInView={{ opacity: 1, y: 0 }}
-                        viewport={{ once: true, amount: 0.2, margin: "0px 0px -8% 0px" }}
-                        transition={{
-                          duration: 0.28,
-                          delay: Math.min(index * 0.04, 0.16),
-                          ease: easings.standard,
-                        }}
-                      >
-                        <ProductCard product={product} />
-                      </motion.div>
-                    ) : (
-                      <ProductCard key={product.id} product={product} />
-                    ),
-                  )}
-                </div>
+          <div className="grid items-start gap-4 lg:grid-cols-2">
+            <SpotlightProduct product={spotlight} />
+            {shelf.length > 0 ? (
+              <div className="grid gap-4 sm:grid-cols-2">
+                {shelf.map((product) => (
+                  <ProductCard key={product.id} product={product} titleClamp />
+                ))}
               </div>
-            ))}
+            ) : null}
           </div>
         )}
       </div>

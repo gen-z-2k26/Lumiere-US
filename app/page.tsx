@@ -12,6 +12,35 @@ import { defaultPages } from "@/lib/types";
 
 export const revalidate = 60;
 
+function mixCatalogProducts<T extends { id: string | number }>(
+  groups: { products: T[] }[],
+  limit: number,
+) {
+  const queues = groups.map((group) => [...group.products]);
+  const picked: T[] = [];
+  const seen = new Set<string>();
+
+  while (picked.length < limit && queues.some((queue) => queue.length > 0)) {
+    let progressed = false;
+    for (const queue of queues) {
+      while (queue.length > 0) {
+        const product = queue.shift();
+        if (!product) break;
+        const id = String(product.id);
+        if (seen.has(id)) continue;
+        seen.add(id);
+        picked.push(product);
+        progressed = true;
+        break;
+      }
+      if (picked.length >= limit) break;
+    }
+    if (!progressed) break;
+  }
+
+  return picked;
+}
+
 export async function generateMetadata(): Promise<Metadata> {
   const settings = await getSiteSettings();
   const siteUrl = getSiteUrl(settings);
@@ -45,17 +74,17 @@ export async function generateMetadata(): Promise<Metadata> {
 
 export default async function HomePage() {
   const settings = await getSiteSettings();
-  const categories = await getHomeCategories(3);
+  const categories = await getHomeCategories(4);
   const groups = await Promise.all(
     categories.map(async (category) => {
-      const products = (await getProductsByCategory(category.slug)).slice(0, 3);
+      const products = (await getProductsByCategory(category.slug)).slice(0, 4);
       return {
         category: { ...category, count: products.length },
         products,
       };
     }),
   );
-  const featuredProducts = groups.flatMap((group) => group.products);
+  const featuredProducts = mixCatalogProducts(groups, 8);
   const siteUrl = getSiteUrl(settings);
 
   const itemListLd = {
@@ -80,10 +109,6 @@ export default async function HomePage() {
       <HomeSections
         settings={{ ...settings, pages: defaultPages }}
         products={featuredProducts.map(toCardProduct)}
-        categoryProducts={groups.map((group) => ({
-          ...group,
-          products: group.products.map(toCardProduct),
-        }))}
       />
     </>
   );

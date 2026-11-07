@@ -2,7 +2,7 @@ import Link from "next/link";
 import { SectionHeader } from "@/components/sections/SectionHeader";
 import { Reveal } from "@/components/sections/Reveal";
 import { buttonVariants } from "@/components/ui/button";
-import { pageContainer, sectionStackClass, sectionYClass } from "@/lib/layout";
+import { homeSectionClass, pageContainer, sectionStackClass } from "@/lib/layout";
 import { cn } from "@/lib/utils";
 
 const pillars = [
@@ -28,7 +28,7 @@ export function CommitmentSection() {
   return (
     <section
       aria-labelledby="commitment-heading"
-      className={cn("border-b border-border bg-muted/40", sectionYClass)}
+      className={cn("border-b border-border bg-muted/35", homeSectionClass)}
     >
       <div className={pageContainer(sectionStackClass)}>
         <SectionHeader
