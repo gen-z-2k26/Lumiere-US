@@ -1203,12 +1203,12 @@ function PromiseCard() {
     {
       icon: ShieldCheck,
       title: "Returns with conditions",
-      body: "Eligible items can be requested within 30 days. Return shipping and a $5 restocking fee may apply.",
+      body: "Eligible items can be requested within 30 calendar days. Approved returns have a $0 restocking fee. Change-of-mind return shipping is paid by the customer.",
     },
     {
       icon: Truck,
-      title: "Shipping from $5",
-      body: "Free standard shipping at $100 or more. Under $100, standard shipping is $5. Freight for large appliances is shown at checkout.",
+      title: "Free standard shipping",
+      body: "Eligible orders to the contiguous United States ship free, with no minimum. Any exception is shown at checkout.",
     },
     {
       icon: Award,
@@ -1223,7 +1223,7 @@ function PromiseCard() {
   ];
   return (
     <div className="mt-6 border-t border-border pt-5">
-      <h3 className="text-base font-semibold">The DROVIIA promise</h3>
+      <h3 className="text-base font-semibold">The lumeero promise</h3>
       <p className="mt-1 text-xs text-muted-foreground">
         Every order, every time.
       </p>

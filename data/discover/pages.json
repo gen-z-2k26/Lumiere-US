@@ -2,1438 +2,1438 @@
   "pages": [
     {
       "slug": "about-us",
-      "title": "About DROVIIA",
+      "title": "About Us",
       "effectiveDate": "",
-      "tagline": "Bringing comfort, convenience, and innovation to everyday living",
+      "tagline": "Everyday Technology. A Simpler Way to Shop.",
       "intro": [
-        "About DROVIIA"
+        "Everyday Technology. A Simpler Way to Shop.",
+        "At lumeero, we believe shopping for electronics should be straightforward, convenient, and enjoyable."
       ],
-      "description": "Bringing Comfort, Convenience, and Innovation to Everyday Living",
-      "sections": [
-        {
-          "id": "bringing-comfort-convenience-and-innovation-to-everyday-living",
-          "title": "Bringing Comfort, Convenience, and Innovation to Everyday Living",
-          "blocks": [
-            {
-              "type": "paragraph",
-              "text": "At DROVIIA, we believe a better home starts with the right essentials. From modern kitchen appliances and climate control solutions to personal care devices and everyday household equipment, we're here to make finding the products you need simpler, more convenient, and more accessible."
-            },
-            {
-              "type": "paragraph",
-              "text": "Operated by Modern Closet Spaces LLC, DROVIIA is a U.S.-based online retailer offering a diverse selection of home appliances, personal care electronics, and practical solutions designed to support modern lifestyles."
-            },
-            {
-              "type": "paragraph",
-              "text": "Our goal is simple: to provide a straightforward shopping experience built around product selection, transparent information, and dependable customer support."
-            }
-          ]
-        },
-        {
-          "id": "everything-you-need-for-a-more-comfortable-home",
-          "title": "Everything You Need for a More Comfortable Home",
-          "blocks": [
-            {
-              "type": "paragraph",
-              "text": "Every home is different, and so are the products that make it work."
-            },
-            {
-              "type": "paragraph",
-              "text": "Whether you're upgrading your kitchen, improving indoor comfort, refreshing your personal care routine, or looking for practical home equipment, DROVIIA brings a variety of products together in one convenient online destination."
-            },
-            {
-              "type": "paragraph",
-              "text": "Explore our product collections:"
-            },
-            {
-              "type": "bullets",
-              "items": [
-                "Kitchen & Laundry Appliances: Refrigerators, wine fridges, range hoods, and laundry appliances for everyday household needs.",
-                "Heating, Cooling & Air Quality: Air conditioners, furnaces, boilers, humidifiers, and space heaters to help create a more comfortable indoor environment.",
-                "Hair & Personal Care: Hair dryers, straighteners, curling irons, and styling tool sets for your daily grooming routine.",
-                "Home & Commercial Essentials: Garage door openers and hand dryers designed for practical residential and commercial applications."
-              ]
-            },
-            {
-              "type": "paragraph",
-              "text": "We aim to make browsing and comparing products easier by presenting useful product details, specifications, and purchasing information."
-            }
-          ]
-        },
-        {
-          "id": "our-approach-to-online-shopping",
-          "title": "Our Approach to Online Shopping",
-          "blocks": [
-            {
-              "type": "paragraph",
-              "text": "Shopping for home appliances and electronics should feel straightforward, not overwhelming."
-            },
-            {
-              "type": "paragraph",
-              "text": "At DROVIIA, we focus on the details that matter most to customers."
-            }
-          ]
-        },
-        {
-          "id": "a-wide-range-of-practical-products",
-          "title": "A Wide Range of Practical Products",
-          "blocks": [
-            {
-              "type": "paragraph",
-              "text": "We bring together products across multiple categories, helping customers explore different options for their homes, workplaces, and personal routines."
-            }
-          ]
-        },
-        {
-          "id": "clear-product-information",
-          "title": "Clear Product Information",
-          "blocks": [
-            {
-              "type": "paragraph",
-              "text": "We believe informed decisions lead to better shopping experiences. Our product listings aim to provide relevant descriptions, features, and specifications so you can compare options before purchasing."
-            }
-          ]
-        },
-        {
-          "id": "transparent-pricing-and-checkout",
-          "title": "Transparent Pricing and Checkout",
-          "blocks": [
-            {
-              "type": "paragraph",
-              "text": "We want customers to understand their purchases before placing an order. Product prices, applicable shipping charges, and order totals are presented during the shopping and checkout process."
-            }
-          ]
-        },
-        {
-          "id": "customer-support-when-you-need-it",
-          "title": "Customer Support When You Need It",
-          "blocks": [
-            {
-              "type": "paragraph",
-              "text": "Questions can arise before or after a purchase. Our customer care channels are available to help with product inquiries, order information, delivery questions, and return requests."
-            }
-          ]
-        },
-        {
-          "id": "shopping-with-confidence",
-          "title": "Shopping with Confidence",
-          "blocks": [
-            {
-              "type": "paragraph",
-              "text": "We understand that purchasing appliances and electronics online requires careful consideration."
-            },
-            {
-              "type": "paragraph",
-              "text": "That's why we emphasize clear communication, accessible support, and straightforward shopping policies."
-            },
-            {
-              "type": "paragraph",
-              "text": "Our customer experience is built around:"
-            },
-            {
-              "type": "bullets",
-              "items": [
-                "Convenient online shopping: Browse products and place orders from wherever you are.",
-                "Order transparency: Review your order information and available shipment tracking details.",
-                "Clear policies: Access information about shipping, returns, refunds, and order-related procedures.",
-                "Accessible assistance: Contact our customer care team when you need help.",
-                "Secure checkout: Complete purchases through the payment options available at checkout."
-              ]
-            },
-            {
-              "type": "paragraph",
-              "text": "We believe customer confidence comes from providing accurate information and following through on our commitments."
-            }
-          ]
-        },
-        {
-          "id": "our-commitment-to-you",
-          "title": "Our Commitment to You",
-          "blocks": [
-            {
-              "type": "paragraph",
-              "text": "At DROVIIA, our commitment extends beyond offering products."
-            },
-            {
-              "type": "paragraph",
-              "text": "We aim to create a shopping environment where customers can explore products comfortably, understand their purchasing options, and receive assistance when questions arise."
-            },
-            {
-              "type": "paragraph",
-              "text": "As we continue developing our online store, our priorities remain focused on improving product discovery, maintaining clear communication, and making the overall shopping experience more convenient."
-            },
-            {
-              "type": "paragraph",
-              "text": "Your home. Your comfort. Your everyday essentials."
-            }
-          ]
-        },
-        {
-          "id": "get-to-know-droviia",
-          "title": "Get to Know DROVIIA",
-          "blocks": [
-            {
-              "type": "paragraph",
-              "text": "DROVIIA is operated by Modern Closet Spaces LLC, a business based in Gardena, California."
-            },
-            {
-              "type": "paragraph",
-              "text": "We welcome questions about our products, orders, and customer service policies."
-            },
-            {
-              "type": "paragraph",
-              "text": "Business Information"
-            },
-            {
-              "type": "paragraph",
-              "text": "Store Name: DROVIIA"
-            },
-            {
-              "type": "paragraph",
-              "text": "Legal Business Name: Modern Closet Spaces LLC"
-            },
-            {
-              "type": "paragraph",
-              "text": "Business Address: 1320 W El Segundo Blvd Ste E, Gardena, CA 90247, United States"
-            },
-            {
-              "type": "paragraph",
-              "text": "Website: https://droviia.us"
-            },
-            {
-              "type": "paragraph",
-              "text": "Customer Care"
-            },
-            {
-              "type": "paragraph",
-              "text": "Email: info@droviia.us"
-            },
-            {
-              "type": "paragraph",
-              "text": "Phone: +1 (424) 329-0223"
-            },
-            {
-              "type": "paragraph",
-              "text": "Business Hours: Monday–Friday, 9:00 AM–5:00 PM Pacific Time (PT)"
-            },
-            {
-              "type": "paragraph",
-              "text": "Live Chat Support: Available 24/7"
-            },
-            {
-              "type": "paragraph",
-              "text": "Whether you're searching for a new appliance, exploring home comfort solutions, or need assistance with an existing order, our team is here to help."
-            },
-            {
-              "type": "paragraph",
-              "text": "DROVIIA — Everyday Essentials for Better Living."
-            }
-          ]
-        }
-      ],
+      "description": "At lumeero, we believe shopping for electronics should be straightforward, convenient, and enjoyable.",
+      "sections": [],
       "lines": [
-        "About DROVIIA",
-        "Bringing Comfort, Convenience, and Innovation to Everyday Living",
-        "At DROVIIA, we believe a better home starts with the right essentials. From modern kitchen appliances and climate control solutions to personal care devices and everyday household equipment, we're here to make finding the products you need simpler, more convenient, and more accessible.",
-        "Operated by Modern Closet Spaces LLC, DROVIIA is a U.S.-based online retailer offering a diverse selection of home appliances, personal care electronics, and practical solutions designed to support modern lifestyles.",
-        "Our goal is simple: to provide a straightforward shopping experience built around product selection, transparent information, and dependable customer support.",
-        "Everything You Need for a More Comfortable Home",
-        "Every home is different, and so are the products that make it work.",
-        "Whether you're upgrading your kitchen, improving indoor comfort, refreshing your personal care routine, or looking for practical home equipment, DROVIIA brings a variety of products together in one convenient online destination.",
-        "Explore our product collections:",
-        "* Kitchen & Laundry Appliances: Refrigerators, wine fridges, range hoods, and laundry appliances for everyday household needs.",
-        "* Heating, Cooling & Air Quality: Air conditioners, furnaces, boilers, humidifiers, and space heaters to help create a more comfortable indoor environment.",
-        "* Hair & Personal Care: Hair dryers, straighteners, curling irons, and styling tool sets for your daily grooming routine.",
-        "* Home & Commercial Essentials: Garage door openers and hand dryers designed for practical residential and commercial applications.",
-        "We aim to make browsing and comparing products easier by presenting useful product details, specifications, and purchasing information.",
-        "Our Approach to Online Shopping",
-        "Shopping for home appliances and electronics should feel straightforward, not overwhelming.",
-        "At DROVIIA, we focus on the details that matter most to customers.",
-        "A Wide Range of Practical Products",
-        "We bring together products across multiple categories, helping customers explore different options for their homes, workplaces, and personal routines.",
-        "Clear Product Information",
-        "We believe informed decisions lead to better shopping experiences. Our product listings aim to provide relevant descriptions, features, and specifications so you can compare options before purchasing.",
-        "Transparent Pricing and Checkout",
-        "We want customers to understand their purchases before placing an order. Product prices, applicable shipping charges, and order totals are presented during the shopping and checkout process.",
-        "Customer Support When You Need It",
-        "Questions can arise before or after a purchase. Our customer care channels are available to help with product inquiries, order information, delivery questions, and return requests.",
-        "Shopping with Confidence",
-        "We understand that purchasing appliances and electronics online requires careful consideration.",
-        "That's why we emphasize clear communication, accessible support, and straightforward shopping policies.",
-        "Our customer experience is built around:",
-        "* Convenient online shopping: Browse products and place orders from wherever you are.",
-        "* Order transparency: Review your order information and available shipment tracking details.",
-        "* Clear policies: Access information about shipping, returns, refunds, and order-related procedures.",
-        "* Accessible assistance: Contact our customer care team when you need help.",
-        "* Secure checkout: Complete purchases through the payment options available at checkout.",
-        "We believe customer confidence comes from providing accurate information and following through on our commitments.",
-        "Our Commitment to You",
-        "At DROVIIA, our commitment extends beyond offering products.",
-        "We aim to create a shopping environment where customers can explore products comfortably, understand their purchasing options, and receive assistance when questions arise.",
-        "As we continue developing our online store, our priorities remain focused on improving product discovery, maintaining clear communication, and making the overall shopping experience more convenient.",
-        "Your home. Your comfort. Your everyday essentials.",
-        "Get to Know DROVIIA",
-        "DROVIIA is operated by Modern Closet Spaces LLC, a business based in Gardena, California.",
-        "We welcome questions about our products, orders, and customer service policies.",
+        "About Us",
+        "Welcome to lumeero.",
+        "Everyday Technology. A Simpler Way to Shop.",
+        "At lumeero, we believe shopping for electronics should be straightforward, convenient, and enjoyable.",
+        "From essential computer components and gaming technology to electronic accessories and everyday tech solutions, our goal is to bring a diverse selection of products together in one convenient online destination.",
+        "Operated by Stone Canyon Leathers, lumeero is a US-based online electronics store focused on helping customers discover products, compare their options, and shop with greater confidence.",
+        "We believe a great shopping experience goes beyond finding the right product. It also means having access to clear information, transparent checkout details, and helpful customer support whenever you need assistance.",
+        "Discover Technology That Fits Your Life",
+        "Technology plays an important role in how we work, connect, create, learn, and enjoy entertainment.",
+        "At lumeero, we aim to make discovering the right technology easier.",
+        "Whether you're upgrading your computer, improving your gaming setup, exploring new electronics, or replacing an essential accessory, our online catalog is designed to help you find products that suit your needs.",
+        "Explore Our Electronics Categories",
+        "Our product selection may include:",
+        "* Computers & Components: Explore computing hardware, memory, and essential upgrades.",
+        "* Graphics Cards: Discover graphics solutions for gaming, productivity, and creative applications.",
+        "* Gaming Consoles & Accessories: Browse gaming hardware and related accessories.",
+        "* Computer Monitors: Find displays for work, entertainment, and everyday computing.",
+        "* 3D Printers: Explore technology for creative projects, prototyping, and personal fabrication.",
+        "* I/O Cards & Adapters: Find connectivity solutions and computer expansion accessories.",
+        "* Audio & Electronics: Discover products designed for entertainment and everyday use.",
+        "* Power Adapters & Chargers: Explore accessories that help keep compatible devices connected and powered.",
+        "Product categories and availability may change as our catalog evolves.",
+        "Explore Our Collection: https://lumeero.us/shop/",
+        "Our Mission",
+        "Making Electronics Shopping More Accessible and Straightforward",
+        "Our mission is to provide a convenient online shopping destination where customers can explore electronics with the information they need to make informed purchasing decisions.",
+        "We focus on three important principles:",
+        "Clarity",
+        "We aim to present product information, pricing, and purchasing details in a way customers can easily understand.",
+        "Convenience",
+        "From browsing and comparing products to completing checkout, we want the shopping process to feel simple and organized.",
+        "Customer Support",
+        "We believe customers should have a clear way to ask questions, request assistance, and find information about their orders.",
+        "These principles guide how we develop the lumeero shopping experience.",
+        "Why Shop With lumeero?",
+        "1. A Diverse Electronics Selection",
+        "Explore multiple technology categories from one online storefront.",
+        "Our catalog is organized to make browsing easier, whether you know exactly what you need or are exploring different options.",
+        "2. Clear Product Information",
+        "We aim to provide useful product descriptions, specifications, pricing, and availability information so you can evaluate products before making a purchase.",
+        "We encourage customers to review product compatibility and individual listing details before ordering.",
+        "3. A Straightforward Checkout Experience",
+        "Our checkout is intended to help customers review their selected products, shipping information, applicable taxes, and final order total before completing a purchase.",
+        "Available payment options are displayed during checkout.",
+        "4. Accessible Customer Assistance",
+        "Have a question about a product or need assistance with an order?",
+        "Our customer support channels are available to help you find relevant information and understand the next steps.",
+        "Live Chat: Available 24/7",
+        "Email: info@lumeero.site",
+        "Phone: +1 (505) 345-4232",
+        "5. Transparent Shopping Information",
+        "We believe customers should be able to review important purchasing information before placing an order.",
+        "Our website provides dedicated pages covering shipping, returns, cancellations, payments, and product support.",
+        "Specific conditions and eligibility requirements are explained in the applicable policies.",
+        "Built Around Your Shopping Experience",
+        "Browse. Compare. Choose.",
+        "At lumeero, we want the process of finding electronics to feel manageable.",
+        "Our shopping experience is built around a simple approach:",
+        "Browse",
+        "Explore products across different electronics categories and discover options that match your interests.",
+        "Compare",
+        "Review product specifications, features, prices, and available information before deciding.",
+        "Choose",
+        "Select the products that suit your requirements and review your order details during checkout.",
+        "Stay Informed",
+        "Access order information, customer support, and relevant store policies when you need assistance.",
+        "We continue to focus on improving the clarity and usability of the online shopping experience.",
+        "Our Commitment to Customers",
+        "We believe customer confidence is earned through clear communication, responsible business practices, and dependable assistance.",
+        "Our commitments include:",
+        "* Presenting product information as accurately as reasonably possible.",
+        "* Making important store policies accessible.",
+        "* Displaying applicable charges before order completion.",
+        "* Providing clear contact information.",
+        "* Assisting customers with order-related questions.",
+        "* Reviewing customer concerns and working toward appropriate resolutions.",
+        "* Communicating relevant order updates through available channels.",
+        "We recognize that electronics purchases often involve important decisions, including compatibility, performance, and product suitability.",
+        "Our goal is to provide a shopping environment that helps customers make those decisions with confidence.",
+        "Learn More: https://lumeero.us/our-commitment/",
+        "Customer Support That Stays Accessible",
+        "Questions can arise before placing an order, while waiting for delivery, or after receiving a product.",
+        "Our support channels are designed to help customers with common inquiries, including:",
+        "* Product information and compatibility questions",
+        "* Order confirmations and status inquiries",
+        "* Shipping and tracking assistance",
+        "* Return and cancellation requests",
+        "* Payment-related questions",
+        "* Warranty and product support information",
+        "Our live chat is available 24/7, while telephone business hours are Monday through Friday, 9:00 AM to 5:00 PM Mountain Time.",
+        "Support availability does not guarantee immediate resolution of every inquiry. Certain requests may require additional review or coordination.",
+        "Visit Our Help Center: https://lumeero.us/order-help-center/",
+        "Proudly Based in the United States",
+        "lumeero operates as an online retail brand under Stone Canyon Leathers, with business contact information in New Mexico, United States.",
+        "Our published business details provide customers with a direct way to reach us for store-related questions.",
+        "We aim to serve customers through a convenient online storefront supported by accessible information and customer service.",
+        "Our business contact address should not be treated as a returns destination unless our support team specifically authorizes it.",
+        "Looking Ahead",
+        "Technology continues to change how people work, play, communicate, and create.",
+        "As lumeero develops, our focus remains on improving the online shopping experience, maintaining clear product information, and making it easier for customers to explore technology.",
+        "We aim to build a recognizable electronics shopping destination through thoughtful presentation, transparent communication, and ongoing improvements to our store.",
+        "Let's Find the Right Technology for You",
+        "Whether you're exploring computer upgrades, gaming equipment, electronics accessories, or new technology for everyday use, lumeero is here to help make your shopping journey simpler.",
+        "Explore Electronics: https://lumeero.us/shop/",
+        "Need Assistance? https://lumeero.us/contact-us/",
         "Business Information",
-        "Store Name: DROVIIA",
-        "Legal Business Name: Modern Closet Spaces LLC",
-        "Business Address: 1320 W El Segundo Blvd Ste E, Gardena, CA 90247, United States",
-        "Website: https://droviia.us",
-        "Customer Care",
-        "Email: info@droviia.us",
-        "Phone: +1 (424) 329-0223",
-        "Business Hours: Monday–Friday, 9:00 AM–5:00 PM Pacific Time (PT)",
-        "Live Chat Support: Available 24/7",
-        "Whether you're searching for a new appliance, exploring home comfort solutions, or need assistance with an existing order, our team is here to help.",
-        "DROVIIA — Everyday Essentials for Better Living."
+        "Store Name: lumeero",
+        "Legal Business Name: Stone Canyon Leathers",
+        "Website: https://lumeero.us",
+        "Business Address: 6715 4th St NW, Los Ranchos De Albuquerque, NM 87107, United States",
+        "Phone: +1 (505) 345-4232",
+        "Email: info@lumeero.site",
+        "Business Hours: Monday–Friday, 9:00 AM–5:00 PM Mountain Time (MT)",
+        "Live Chat: Available 24/7",
+        "Helpful Links",
+        "* Shop All Electronics",
+        "* Our Commitment",
+        "* Frequently Asked Questions",
+        "* Shipping & Delivery",
+        "* Returns & Refunds",
+        "* Order Help Center",
+        "* Contact Us",
+        "lumeero. Everyday Technology. A Simpler Way to Shop.",
+        "© 2026 lumeero. Operated by Stone Canyon Leathers. All rights reserved."
       ]
     },
     {
       "slug": "contact-us",
       "title": "Contact Us",
       "effectiveDate": "",
-      "tagline": "We're here to help",
-      "intro": [],
-      "description": "At DROVIIA, we're committed to making your shopping experience as convenient and straightforward as possible. Whether you have a question about a product, need assistance with an order, or want to learn more about our sh",
-      "sections": [
-        {
-          "id": "we-re-here-to-help",
-          "title": "We're Here to Help",
-          "blocks": [
-            {
-              "type": "paragraph",
-              "text": "At DROVIIA, we're committed to making your shopping experience as convenient and straightforward as possible. Whether you have a question about a product, need assistance with an order, or want to learn more about our shipping and return policies, our customer care team is here to assist."
-            },
-            {
-              "type": "paragraph",
-              "text": "We value every customer inquiry and aim to provide clear, helpful, and professional support."
-            }
-          ]
-        },
-        {
-          "id": "get-in-touch-with-droviia",
-          "title": "Get in Touch With DROVIIA",
-          "blocks": [
-            {
-              "type": "paragraph",
-              "text": "Have a question or need assistance? Choose the contact method that works best for you."
-            },
-            {
-              "type": "paragraph",
-              "text": "Email Support"
-            },
-            {
-              "type": "paragraph",
-              "text": "Email: info@droviia.us"
-            },
-            {
-              "type": "paragraph",
-              "text": "For product inquiries, order assistance, shipping questions, returns, refunds, and general customer service, please contact us by email."
-            },
-            {
-              "type": "paragraph",
-              "text": "If your inquiry concerns an existing order, include your order number and a brief description of your request so our team can assist you more efficiently."
-            },
-            {
-              "type": "paragraph",
-              "text": "Phone Support"
-            },
-            {
-              "type": "paragraph",
-              "text": "Phone: +1 (424) 329-0223"
-            },
-            {
-              "type": "paragraph",
-              "text": "Our customer care team is available during regular business hours to assist with questions about our products and services."
-            },
-            {
-              "type": "paragraph",
-              "text": "Business Hours:"
-            },
-            {
-              "type": "bullets",
-              "items": [
-                "Monday–Friday: 9:00 AM–5:00 PM Pacific Time (PT)",
-                "Saturday–Sunday: Outside regular phone support hours"
-              ]
-            },
-            {
-              "type": "paragraph",
-              "text": "Live Chat Support — Available 24/7"
-            },
-            {
-              "type": "paragraph",
-              "text": "Need assistance outside regular business hours?"
-            },
-            {
-              "type": "paragraph",
-              "text": "Our website offers 24/7 live chat support, providing a convenient way to submit questions and request assistance at any time."
-            },
-            {
-              "type": "paragraph",
-              "text": "Look for the chat icon on our website to get started."
-            },
-            {
-              "type": "paragraph",
-              "text": "How Can We Help You?"
-            },
-            {
-              "type": "paragraph",
-              "text": "Our customer care team can assist with a variety of inquiries, including:"
-            }
-          ]
-        },
-        {
-          "id": "product-information-availability",
-          "title": "Product Information & Availability",
-          "blocks": [
-            {
-              "type": "paragraph",
-              "text": "Need help understanding product specifications, features, or availability? Contact us before placing your order."
-            }
-          ]
-        },
-        {
-          "id": "order-status-tracking",
-          "title": "Order Status & Tracking",
-          "blocks": [
-            {
-              "type": "paragraph",
-              "text": "Have questions about an existing order? Provide your order number, and we'll help you review the available order and shipment information."
-            },
-            {
-              "type": "paragraph",
-              "text": "Shipping & Delivery"
-            },
-            {
-              "type": "paragraph",
-              "text": "For questions about shipping charges, estimated delivery times, carrier information, or delivery concerns, our team can help explain the applicable shipping options."
-            },
-            {
-              "type": "paragraph",
-              "text": "Returns & Refunds"
-            },
-            {
-              "type": "paragraph",
-              "text": "Need to request a return or ask about a refund? Contact our team for information about eligibility, authorization, and the next steps under our Return & Refund Policy."
-            },
-            {
-              "type": "paragraph",
-              "text": "Payments & Checkout"
-            },
-            {
-              "type": "paragraph",
-              "text": "If you're experiencing difficulty completing a purchase or have questions about available payment methods, please reach out for assistance."
-            }
-          ]
-        },
-        {
-          "id": "warranty-product-support",
-          "title": "Warranty & Product Support",
-          "blocks": [
-            {
-              "type": "paragraph",
-              "text": "For questions about product warranties, manufacturer coverage, or product-related concerns, contact us with the relevant product details."
-            }
-          ]
-        },
-        {
-          "id": "send-us-a-message",
-          "title": "Send Us a Message",
-          "blocks": [
-            {
-              "type": "paragraph",
-              "text": "You can also reach us through the contact form on this page."
-            },
-            {
-              "type": "paragraph",
-              "text": "Please provide the following information:"
-            },
-            {
-              "type": "bullets",
-              "items": [
-                "Full Name",
-                "Email Address",
-                "Phone Number (Optional)",
-                "Order Number (If Applicable)",
-                "Subject",
-                "Your Message"
-              ]
-            },
-            {
-              "type": "paragraph",
-              "text": "Once your inquiry is submitted, our customer care team will review it and respond as soon as reasonably possible."
-            },
-            {
-              "type": "paragraph",
-              "text": "For order-related inquiries, please include relevant details to help us understand your request."
-            },
-            {
-              "type": "paragraph",
-              "text": "For your security, never include passwords, full payment card numbers, or other sensitive financial information in your message."
-            },
-            {
-              "type": "paragraph",
-              "text": "Our Business Information"
-            },
-            {
-              "type": "paragraph",
-              "text": "Store Name: DROVIIA"
-            },
-            {
-              "type": "paragraph",
-              "text": "Legal Business Name: Modern Closet Spaces LLC"
-            },
-            {
-              "type": "paragraph",
-              "text": "Business Address:"
-            },
-            {
-              "type": "paragraph",
-              "text": "1320 W El Segundo Blvd Ste E"
-            },
-            {
-              "type": "paragraph",
-              "text": "Gardena, CA 90247"
-            },
-            {
-              "type": "paragraph",
-              "text": "United States"
-            },
-            {
-              "type": "paragraph",
-              "text": "Website: https://droviia.us"
-            },
-            {
-              "type": "paragraph",
-              "text": "Customer Support Email: info@droviia.us"
-            },
-            {
-              "type": "paragraph",
-              "text": "Phone: +1 (424) 329-0223"
-            },
-            {
-              "type": "paragraph",
-              "text": "Business Hours: Monday–Friday, 9:00 AM–5:00 PM Pacific Time (PT)"
-            },
-            {
-              "type": "paragraph",
-              "text": "Live Chat Support: Available 24/7"
-            },
-            {
-              "type": "paragraph",
-              "text": "Please note: Our business address is provided for business correspondence. Do not send product returns to this address unless our customer care team has specifically authorized it and provided return instructions."
-            },
-            {
-              "type": "paragraph",
-              "text": "Helpful Resources"
-            },
-            {
-              "type": "paragraph",
-              "text": "Looking for quick answers? Visit our customer support pages for additional information."
-            },
-            {
-              "type": "bullets",
-              "items": [
-                "Frequently Asked Questions: /faqs/",
-                "Shipping & Delivery: /shipping-policy/",
-                "Returns & Refunds: /return-and-refund-policy/",
-                "Track Your Order: /track-your-order/",
-                "Order Help Center: /order-help-center/",
-                "Warranty & Product Support: /warranty/"
-              ]
-            }
-          ]
-        },
-        {
-          "id": "your-satisfaction-matters",
-          "title": "Your Satisfaction Matters",
-          "blocks": [
-            {
-              "type": "paragraph",
-              "text": "At DROVIIA, we believe good customer service starts with listening, understanding your concerns, and communicating clearly."
-            },
-            {
-              "type": "paragraph",
-              "text": "Whether you're exploring our home appliance collections or need assistance after placing an order, we're here to help you navigate the process."
-            },
-            {
-              "type": "paragraph",
-              "text": "DROVIIA — Everyday Essentials for Better Living."
-            }
-          ]
-        }
+      "tagline": "We're Here to Help",
+      "intro": [
+        "Questions About Electronics, Orders, or Your Shopping Experience? Let's Connect.",
+        "At lumeero, we believe great customer service begins with clear communication and accessible support."
       ],
+      "description": "At lumeero, we believe great customer service begins with clear communication and accessible support.",
+      "sections": [],
       "lines": [
         "Contact Us",
         "We're Here to Help",
-        "At DROVIIA, we're committed to making your shopping experience as convenient and straightforward as possible. Whether you have a question about a product, need assistance with an order, or want to learn more about our shipping and return policies, our customer care team is here to assist.",
-        "We value every customer inquiry and aim to provide clear, helpful, and professional support.",
-        "Get in Touch With DROVIIA",
-        "Have a question or need assistance? Choose the contact method that works best for you.",
+        "Questions About Electronics, Orders, or Your Shopping Experience? Let's Connect.",
+        "At lumeero, we believe great customer service begins with clear communication and accessible support.",
+        "Whether you're exploring our electronics collection, need help with an existing order, have questions about a product, or want to learn more about our store policies, our customer support team is here to assist you.",
+        "We aim to make it easy for customers to find answers, understand their options, and get the assistance they need.",
+        "Your Questions Matter. We're Here to Help.",
+        "1. Get in Touch With lumeero",
+        "Choose the contact method that works best for you.",
+        "Live Chat - Available 24/7",
+        "Need assistance? Start a conversation with us.",
+        "Our live chat channel is available around the clock for customer inquiries.",
+        "You can use live chat to ask about:",
+        "* Product specifications and availability",
+        "* Order confirmations",
+        "* Shipping and tracking information",
+        "* Payment-related questions",
+        "* Return and refund procedures",
+        "* Order cancellation requests",
+        "* General shopping assistance",
+        "Live Chat Availability: 24 hours a day, 7 days a week.",
+        "Use the chat widget on our website to get started.",
+        "Some requests may require additional review, and immediate resolution is not guaranteed.",
         "Email Support",
-        "Email: info@droviia.us",
-        "For product inquiries, order assistance, shipping questions, returns, refunds, and general customer service, please contact us by email.",
-        "If your inquiry concerns an existing order, include your order number and a brief description of your request so our team can assist you more efficiently.",
-        "Phone Support",
-        "Phone: +1 (424) 329-0223",
-        "Our customer care team is available during regular business hours to assist with questions about our products and services.",
-        "Business Hours:",
-        "* Monday–Friday: 9:00 AM–5:00 PM Pacific Time (PT)",
-        "* Saturday–Sunday: Outside regular phone support hours",
-        "Live Chat Support — Available 24/7",
-        "Need assistance outside regular business hours?",
-        "Our website offers 24/7 live chat support, providing a convenient way to submit questions and request assistance at any time.",
-        "Look for the chat icon on our website to get started.",
-        "How Can We Help You?",
-        "Our customer care team can assist with a variety of inquiries, including:",
-        "Product Information & Availability",
-        "Need help understanding product specifications, features, or availability? Contact us before placing your order.",
-        "Order Status & Tracking",
-        "Have questions about an existing order? Provide your order number, and we'll help you review the available order and shipment information.",
-        "Shipping & Delivery",
-        "For questions about shipping charges, estimated delivery times, carrier information, or delivery concerns, our team can help explain the applicable shipping options.",
-        "Returns & Refunds",
-        "Need to request a return or ask about a refund? Contact our team for information about eligibility, authorization, and the next steps under our Return & Refund Policy.",
-        "Payments & Checkout",
-        "If you're experiencing difficulty completing a purchase or have questions about available payment methods, please reach out for assistance.",
-        "Warranty & Product Support",
-        "For questions about product warranties, manufacturer coverage, or product-related concerns, contact us with the relevant product details.",
-        "Send Us a Message",
-        "You can also reach us through the contact form on this page.",
-        "Please provide the following information:",
-        "* Full Name",
-        "* Email Address",
-        "* Phone Number (Optional)",
-        "* Order Number (If Applicable)",
-        "* Subject",
-        "* Your Message",
-        "Once your inquiry is submitted, our customer care team will review it and respond as soon as reasonably possible.",
-        "For order-related inquiries, please include relevant details to help us understand your request.",
-        "For your security, never include passwords, full payment card numbers, or other sensitive financial information in your message.",
-        "Our Business Information",
-        "Store Name: DROVIIA",
-        "Legal Business Name: Modern Closet Spaces LLC",
+        "Prefer to contact us in writing?",
+        "Send your inquiry to our customer support email address.",
+        "Email: info@lumeero.site",
+        "Email support is suitable for:",
+        "* Detailed product inquiries",
+        "* Order-related questions",
+        "* Return and refund requests",
+        "* Warranty assistance",
+        "* Payment concerns",
+        "* General customer feedback",
+        "* Business inquiries",
+        "To help us understand your request, please include a clear description of the issue and your order number, if applicable.",
+        "You can email us at any time. Our team will review inquiries according to operational availability.",
+        "Email Us: info@lumeero.site",
+        "Telephone Support",
+        "Would you prefer to speak with us?",
+        "Our telephone contact information is available for customers who need assistance during business hours.",
+        "Phone: +1 (505) 345-4232",
+        "Business Hours: Monday–Friday, 9:00 AM–5:00 PM Mountain Time (MT)",
+        "Saturday: Outside regular telephone business hours",
+        "Sunday: Outside regular telephone business hours",
+        "Business hours may vary during holidays or exceptional circumstances.",
+        "For assistance outside regular telephone hours, use our 24/7 live chat or send us an email.",
+        "2. Business Information",
+        "Our Business Contact Details",
+        "Store Name: lumeero",
+        "Legal Business Name: Stone Canyon Leathers",
+        "Website: https://lumeero.us",
         "Business Address:",
-        "1320 W El Segundo Blvd Ste E",
-        "Gardena, CA 90247",
+        "6715 4th St NW",
+        "Los Ranchos De Albuquerque, NM 87107",
         "United States",
-        "Website: https://droviia.us",
-        "Customer Support Email: info@droviia.us",
-        "Phone: +1 (424) 329-0223",
-        "Business Hours: Monday–Friday, 9:00 AM–5:00 PM Pacific Time (PT)",
-        "Live Chat Support: Available 24/7",
-        "Please note: Our business address is provided for business correspondence. Do not send product returns to this address unless our customer care team has specifically authorized it and provided return instructions.",
-        "Helpful Resources",
-        "Looking for quick answers? Visit our customer support pages for additional information.",
-        "* Frequently Asked Questions: /faqs/",
-        "* Shipping & Delivery: /shipping-policy/",
-        "* Returns & Refunds: /return-and-refund-policy/",
-        "* Track Your Order: /track-your-order/",
-        "* Order Help Center: /order-help-center/",
-        "* Warranty & Product Support: /warranty/",
-        "Your Satisfaction Matters",
-        "At DROVIIA, we believe good customer service starts with listening, understanding your concerns, and communicating clearly.",
-        "Whether you're exploring our home appliance collections or need assistance after placing an order, we're here to help you navigate the process.",
-        "DROVIIA — Everyday Essentials for Better Living."
+        "Customer Support Email: info@lumeero.site",
+        "Business Contact Number: +1 (505) 345-4232",
+        "Business Hours: Monday–Friday, 9:00 AM–5:00 PM",
+        "Time Zone: Mountain Time (MT)",
+        "Live Chat: Available 24/7",
+        "View Our Business Location:",
+        "https://maps.app.goo.gl/p64CdMwUe42iqmT59",
+        "Our listed business address is provided for business correspondence. It should not be used as a product return destination unless our support team specifically authorizes it. Please contact us before sending any return shipments.",
+        "3. How Can We Help You Today?",
+        "Product Information & Recommendations",
+        "Looking for a specific electronic product or comparing different options?",
+        "Our team can assist with available product information, including:",
+        "* Product specifications",
+        "* Features and configurations",
+        "* Compatibility information",
+        "* Available product variations",
+        "* Listed product condition",
+        "* Pricing and availability",
+        "* Manufacturer information, where available",
+        "We encourage customers to review product descriptions and compatibility requirements before placing an order.",
+        "Browse Our Electronics Collection",
+        "Order Status & Tracking",
+        "Already placed an order?",
+        "If you need assistance checking your order status or understanding shipment tracking information, contact our support team.",
+        "Please provide your order number and the email address associated with your purchase.",
+        "Where tracking information is available, you can also use the carrier's tracking service to review delivery progress.",
+        "Track Your Order",
+        "Shipping & Delivery Assistance",
+        "Have questions about shipping costs, delivery estimates, or a delayed package?",
+        "Our team can help you understand the applicable shipping policy and review available order information.",
+        "Common inquiries include:",
+        "* Shipping destinations",
+        "* Delivery estimates",
+        "* Processing times",
+        "* Tracking updates",
+        "* Delayed shipments",
+        "* Incorrect delivery information",
+        "* Missing packages",
+        "* Delivery concerns",
+        "Shipping availability and timelines are governed by our published policy and the information provided during checkout.",
+        "Read Our Shipping Policy",
+        "Returns & Refunds",
+        "Need help returning a product or checking the status of a refund?",
+        "Our support team can guide you through the applicable return process.",
+        "Please contact us before shipping any item back.",
+        "We can help explain:",
+        "* Return eligibility",
+        "* Return request procedures",
+        "* Required product condition",
+        "* Return authorization",
+        "* Return shipping responsibilities",
+        "* Refund processing",
+        "* Damaged or incorrect item reports",
+        "Return eligibility and refund timing depend on our published Return and Refund Policy and applicable law.",
+        "View Returns & Refunds",
+        "Order Changes & Cancellations",
+        "Made a mistake during checkout or need to request an order change?",
+        "Contact us as soon as possible.",
+        "Depending on the order's fulfillment status, we may be able to review requests involving:",
+        "* Shipping address corrections",
+        "* Contact information updates",
+        "* Order cancellation",
+        "* Product or quantity changes",
+        "Changes and cancellations are not guaranteed once fulfillment has started.",
+        "Review Our Cancellation Policy",
+        "Payment & Checkout Support",
+        "Experiencing a problem during checkout or have questions about an available payment option?",
+        "Our support team can assist with general merchant-side payment inquiries.",
+        "We can help review:",
+        "* Checkout errors",
+        "* Order payment status",
+        "* Payment confirmation questions",
+        "* Available payment options",
+        "* Refund-related inquiries",
+        "For financing account questions, installment schedules, or provider-specific payment issues, you may need to contact the relevant payment provider directly.",
+        "Explore Payment Information",
+        "Warranty & Product Support",
+        "If you're experiencing a problem with a product, please contact us with the relevant order information.",
+        "Depending on the product, applicable manufacturer warranty terms or store return procedures may apply.",
+        "Our team can help identify available product support information and appropriate next steps.",
+        "Warranty & Product Support",
+        "4. Send Us a Message",
+        "Tell Us How We Can Help",
+        "Have a question that isn't answered in our Help Center?",
+        "Use our contact form to send your inquiry directly to our support team.",
+        "Recommended Contact Form Fields",
+        "Full Name - Required",
+        "Enter your first and last name.",
+        "Email Address - Required",
+        "Enter the email address where we can contact you.",
+        "Phone Number - Optional",
+        "Provide your contact number if you prefer telephone communication.",
+        "Order Number - Optional",
+        "Include your order number for order-related inquiries.",
+        "Inquiry Type - Required",
+        "Select the category that best describes your request:",
+        "* General Inquiry",
+        "* Product Information",
+        "* Order Status",
+        "* Shipping & Delivery",
+        "* Returns & Refunds",
+        "* Order Cancellation",
+        "* Payment Assistance",
+        "* Warranty & Product Support",
+        "* Website Technical Issue",
+        "* Business Inquiry",
+        "* Other",
+        "Subject - Required",
+        "Provide a short summary of your inquiry.",
+        "Message - Required",
+        "Describe your question or concern.",
+        "Attachments - Optional",
+        "Upload relevant photographs or documents where supported, particularly for damaged or incorrect product reports.",
+        "Privacy Notice",
+        "By submitting this form, you acknowledge that the information you provide will be used to review and respond to your inquiry in accordance with our Privacy Policy.",
+        "Submit Button: Send Message",
+        "This section describes the recommended contact form. The form, submission handling, privacy notice, and any file-upload functionality must be implemented and tested by the website developer.",
+        "5. Before Contacting Support",
+        "Help Us Assist You More Efficiently",
+        "Providing the right information can help our team review your inquiry.",
+        "For Order-Related Questions",
+        "Please include:",
+        "* Order number",
+        "* Name associated with the order",
+        "* Email address used during checkout",
+        "* Brief description of the concern",
+        "For Product Questions",
+        "Please include:",
+        "* Product name",
+        "* Product page URL",
+        "* Model or variant, if relevant",
+        "* Specific question or compatibility concern",
+        "For Damaged or Incorrect Products",
+        "Please include:",
+        "* Order number",
+        "* Description of the issue",
+        "* Photographs of the product",
+        "* Photographs of the packaging, where relevant",
+        "For Payment Concerns",
+        "Please include:",
+        "* Order number, if available",
+        "* Approximate transaction date",
+        "* Payment provider used",
+        "* Description of the error or concern",
+        "For your security, never send full payment card numbers, card security codes, passwords, or sensitive payment credentials through email, contact forms, or live chat.",
+        "6. Frequently Asked Contact Questions",
+        "How can I contact lumeero?",
+        "You can reach us through 24/7 live chat, email at info@lumeero.site, or telephone at +1 (505) 345-4232 during regular business hours.",
+        "Is customer support available 24/7?",
+        "Our live chat channel is available 24/7. Regular telephone business hours are Monday through Friday, 9:00 AM–5:00 PM Mountain Time.",
+        "Can I contact support before placing an order?",
+        "Yes. You can ask questions about products, specifications, compatibility, and available purchasing information before ordering.",
+        "How do I check my order status?",
+        "Use the order information provided after checkout, the available tracking details, or contact our team with your order number.",
+        "Can I request an order cancellation?",
+        "Yes. Contact us as soon as possible. Cancellation eligibility depends on the order's fulfillment status and our Cancellation Policy.",
+        "Where should I send a product return?",
+        "Contact our support team for authorization and return instructions. Do not send products to our published business address without confirmation.",
+        "How can I report a damaged product?",
+        "Contact us with your order number, a description of the damage, and relevant photographs.",
+        "Can I contact lumeero on weekends?",
+        "Yes. Our live chat is available 24/7, and email inquiries can be submitted at any time. Telephone support follows the published weekday schedule.",
+        "Where is lumeero located?",
+        "Our published business contact address is 6715 4th St NW, Los Ranchos De Albuquerque, NM 87107, United States.",
+        "What if I have a privacy-related question?",
+        "You can contact info@lumeero.site or review our Privacy Policy and Your Privacy Choices pages.",
+        "7. Helpful Customer Resources",
+        "You may find answers to common questions in our dedicated customer information pages.",
+        "* Frequently Asked Questions",
+        "* Order Help Center",
+        "* Track Your Order",
+        "* Shipping & Delivery",
+        "* Returns & Refunds",
+        "* Order Cancellations",
+        "* Payment Options",
+        "* Warranty & Product Support",
+        "* Privacy Policy",
+        "* Your Privacy Choices",
+        "8. Business Inquiries & Feedback",
+        "We welcome general business inquiries and constructive feedback about our website and shopping experience.",
+        "If you have a question about our business, a suggestion for improving our services, or feedback regarding a recent experience, please contact us.",
+        "Business & Customer Inquiries: info@lumeero.site",
+        "We aim to review relevant inquiries and direct them to the appropriate team or process.",
+        "Submitting an inquiry does not guarantee acceptance of a business proposal or partnership request.",
+        "9. Your Experience Matters to Us",
+        "At lumeero, we want customers to feel comfortable asking questions, requesting assistance, and seeking clarification about their purchases.",
+        "Our commitment is to provide accessible contact information, understandable guidance, and professional communication.",
+        "Whether you're shopping for your next technology upgrade or need help with an existing order, we're here to assist you.",
+        "lumeero. Everyday Technology. A Simpler Way to Shop.",
+        "Contact Information",
+        "lumeero",
+        "Operated by Stone Canyon Leathers",
+        "Website: https://lumeero.us",
+        "Email: info@lumeero.site",
+        "Phone: +1 (505) 345-4232",
+        "Address: 6715 4th St NW, Los Ranchos De Albuquerque, NM 87107, United States",
+        "Business Hours: Monday–Friday, 9:00 AM–5:00 PM Mountain Time (MT)",
+        "Live Chat: Available 24/7",
+        "View Our Location on Google Maps",
+        "© 2026 lumeero. Operated by Stone Canyon Leathers. All rights reserved."
       ]
     },
     {
       "slug": "faqs",
       "title": "Frequently Asked Questions (FAQs)",
       "effectiveDate": "",
-      "tagline": "How can we help you?",
+      "tagline": "Welcome to the lumeero Help Center",
       "intro": [
-        "Frequently Asked Questions (FAQs)",
-        "How Can We Help You?",
-        "Welcome to the DROVIIA Help Center.",
-        "We've put together answers to frequently asked questions about our products, ordering process, shipping, payments, returns, refunds, and customer support.",
-        "Whether you're shopping for home appliances, heating and cooling equipment, or personal care essentials, we're here to help you make informed purchasing decisions."
+        "Find answers to common questions about shopping, products, payments, shipping, order tracking, returns, refunds, and customer support.",
+        "At lumeero, operated by Stone Canyon Leathers, we want your electronics shopping experience to be simple, transparent, and convenient."
       ],
-      "description": "We've put together answers to frequently asked questions about our products, ordering process, shipping, payments, returns, refunds, and customer support.",
+      "description": "Find answers to common questions about shopping, products, payments, shipping, order tracking, returns, refunds, and customer support.",
       "sections": [
         {
-          "id": "overview",
-          "title": "Overview",
-          "blocks": [
-            {
-              "type": "paragraph",
-              "text": "Can't find the answer you're looking for? Contact our customer care team at info@droviia.us or use our 24/7 live chat support."
-            }
-          ]
-        },
-        {
-          "id": "general-questions",
-          "title": "1. General Questions",
+          "id": "general-questions-about-lumeero",
+          "title": "1. General Questions About lumeero",
           "blocks": [
             {
               "type": "faq",
-              "question": "What is DROVIIA?",
-              "answer": "DROVIIA is a U.S.-based online retailer offering home appliances, heating and cooling equipment, personal care electronics, and practical household essentials. Our product collections include refrigerators, laundry appliances, air conditioners, space heaters, humidifiers, hair styling tools, garage door openers, and more. DROVIIA is operated by Modern Closet Spaces LLC, based in Gardena, California. Where is DROVIIA located? Our business information is: DROVIIA — Modern Closet Spaces LLC 1320 W El Segundo Blvd Ste E Gardena, CA 90247, United States You can contact our customer care team at +1 (424) 329-0223 or info@droviia.us. Please note that our listed business address is not automatically an authorized return location. Is DROVIIA an online store? Yes. DROVIIA operates through our website, https://droviia.us, where customers can browse available products, review product details, and place orders online. What types of products does DROVIIA sell? Our product selection includes: Kitchen & Laundry Appliances: Refrigerators, wine fridges, range hoods, and laundry appliances. Heating, Cooling & Air Quality: Air conditioners, furnaces, boilers, humidifiers, and space heaters. Hair & Personal Care: Hair dryers, straighteners, curling irons, and hair styling tool sets. Home & Commercial Essentials: Hand dryers and garage door openers. Product selection and availability may change over time. Are your products new and authentic? Product condition, brand, model, and included accessories should be identified in each listing. We aim to provide accurate product information so you can understand what you're purchasing. If you need confirmation about a particular product's condition, packaging, or specifications, contact us before placing your order. Why are some products offered at discounted prices? Product prices may vary based on inventory, promotional offers, product models, and market conditions. Certain products may be discounted as part of inventory clearance or promotional pricing. A discounted price does not, by itself, indicate that a product is used or defective. Please review the individual listing for the product's condition and specifications. Are you an authorized dealer for every brand you sell? Manufacturer authorization can vary by brand and product. We do not represent ourselves as an authorized dealer for a particular brand unless that relationship has been confirmed. If manufacturer authorization or warranty eligibility is important to your purchase, contact our support team for clarification before ordering."
+              "question": "What is lumeero?",
+              "answer": "lumeero is a US-based online electronics store offering a selection of technology products, computer components, gaming equipment, and electronic accessories. Our goal is to make shopping for electronics more convenient by providing organized product categories, useful product information, and accessible customer support."
+            },
+            {
+              "type": "faq",
+              "question": "What is the legal business name behind lumeero?",
+              "answer": "lumeero operates under the legal business name Stone Canyon Leathers. Our published business contact address is: 6715 4th St NW Los Ranchos De Albuquerque, NM 87107 United States"
+            },
+            {
+              "type": "faq",
+              "question": "Where is lumeero located?",
+              "answer": "Our business contact address is located in Los Ranchos De Albuquerque, New Mexico, United States. Our store operates online through https://lumeero.us. Our published business address is not automatically a retail pickup or product return location."
+            },
+            {
+              "type": "faq",
+              "question": "Is lumeero an online store?",
+              "answer": "Yes. lumeero operates as an online electronics shopping destination. Customers can browse available products, review specifications, and place orders through our website."
+            },
+            {
+              "type": "faq",
+              "question": "What types of products does lumeero sell?",
+              "answer": "Our electronics catalog may include: Computers and computer components Graphics cards Gaming consoles and accessories Computer monitors 3D printers Computer memory and storage accessories I/O cards and adapters Audio equipment Chargers and power adapters Other electronic devices and accessories Product categories and availability may change."
+            },
+            {
+              "type": "faq",
+              "question": "How can I contact lumeero?",
+              "answer": "You can contact us through: Email: info@lumeero.site Phone: +1 (505) 345-4232 Live Chat: Available 24/7 Our regular telephone business hours are Monday–Friday, 9:00 AM–5:00 PM Mountain Time. Contact Us"
+            },
+            {
+              "type": "faq",
+              "question": "What are your customer service hours?",
+              "answer": "Our live chat channel is available 24 hours a day, 7 days a week. Our regular telephone business hours are Monday through Friday, 9:00 AM to 5:00 PM Mountain Time (MT). Email inquiries can be submitted at any time."
+            },
+            {
+              "type": "faq",
+              "question": "Can I visit your business address to purchase products?",
+              "answer": "lumeero operates as an online store. We do not advertise walk-in shopping or in-person pickup through our published business address. Please contact customer support before making any plans involving our business location."
             }
           ]
         },
         {
-          "id": "orders-product-availability",
-          "title": "2. Orders & Product Availability",
+          "id": "products-pricing-and-availability",
+          "title": "2. Products, Pricing & Availability",
+          "blocks": [
+            {
+              "type": "faq",
+              "question": "Are the products listed on your website available for purchase?",
+              "answer": "Products shown as available can generally be added to your cart and submitted for purchase. However, inventory information can occasionally change or require verification. If an ordered product becomes unavailable, we will review the situation and communicate the available options, including a refund where applicable."
+            },
+            {
+              "type": "faq",
+              "question": "Are your electronics brand new?",
+              "answer": "Product condition should be identified on the individual product listing. Where a product is described as New, it is represented as new according to the listing details. If a product is refurbished, open-box, or otherwise not new, its condition should be disclosed before purchase. Please review the individual product description or contact our support team if you need clarification."
+            },
+            {
+              "type": "faq",
+              "question": "Are your products genuine?",
+              "answer": "We aim to describe products accurately, including their brand, model, specifications, and condition. Customers should review the relevant product listing for identifying details. If you have questions about a particular manufacturer's product, contact our team before ordering."
+            },
+            {
+              "type": "faq",
+              "question": "Why are some of your products priced lower than other retailers?",
+              "answer": "Retail prices can vary for several reasons, including purchasing costs, inventory availability, promotional pricing, product configurations, and market conditions. We aim to offer competitive prices while providing clear product information. A lower price does not necessarily indicate a difference in product condition. Always review the individual listing for the exact product model, condition, and included accessories."
+            },
+            {
+              "type": "faq",
+              "question": "Do you offer discounts or promotional codes?",
+              "answer": "Promotional discounts may be offered from time to time. When a promotion is available, its terms, eligibility requirements, and expiration date will be provided through the relevant offer. If you have a valid promotional code, enter it during checkout where supported."
+            },
+            {
+              "type": "faq",
+              "question": "Can I request a discount on a product?",
+              "answer": "You can contact customer support to ask about currently available promotions. Discounts are not guaranteed and depend on active offers and product eligibility."
+            },
+            {
+              "type": "faq",
+              "question": "Can I purchase multiple units of the same product?",
+              "answer": "You can order available quantities shown on the product page, subject to inventory and any applicable purchase limits. For larger orders, contact our support team to discuss product availability and order requirements."
+            },
+            {
+              "type": "faq",
+              "question": "Do product prices include sales tax?",
+              "answer": "Applicable sales taxes, if any, are calculated according to the relevant transaction and displayed during checkout. Review your final order total before confirming payment."
+            },
+            {
+              "type": "faq",
+              "question": "Are product specifications always accurate?",
+              "answer": "We aim to provide accurate and useful product information. However, specifications, images, and manufacturer information can occasionally contain errors or change. For compatibility-sensitive purchases, we recommend confirming the exact model number and technical requirements before ordering."
+            },
+            {
+              "type": "faq",
+              "question": "Can you help me choose the right electronic product?",
+              "answer": "Our customer support team can assist with available product information and specifications. For compatibility questions, provide the relevant model numbers, intended use, and technical requirements. We encourage customers to verify compatibility before purchasing."
+            }
+          ]
+        },
+        {
+          "id": "ordering-and-checkout",
+          "title": "3. Ordering & Checkout",
           "blocks": [
             {
               "type": "faq",
               "question": "How do I place an order?",
-              "answer": "Ordering from DROVIIA is straightforward: Browse our product categories or use the search feature. Select the product you want and review its specifications. Choose any available product options. Add the item to your shopping cart. Proceed to checkout and enter your delivery information. Review your order total, shipping charges, and payment options. Complete your purchase. Once your order is successfully placed, you should receive an order confirmation at the email address provided during checkout. Can I place an order without creating an account? Guest checkout availability depends on the options enabled on our website. If guest checkout is available, you can complete your purchase without registering an account. How can I check whether a product is in stock? Product availability is generally displayed on the product page. If you have questions about a specific model, size, color, or configuration, contact our customer care team before ordering. What happens if an item becomes unavailable after I place an order? If an ordered product becomes unavailable, our team will contact you to explain the situation and available options. Depending on the circumstances, you may be offered an alternative product, a revised fulfillment timeframe, or cancellation with a refund. We will not substitute a different product without your agreement. Can I modify or cancel my order? Please contact us as soon as possible at info@droviia.us with your order number and requested change. We'll review the order's fulfillment status to determine whether a modification or cancellation is still possible. Once an order has entered shipment preparation or has been dispatched, changes may no longer be possible. For more information, review our Order Cancellation Policy. Can I order multiple products at once? Yes. You can add multiple available products to your cart and complete checkout together. Depending on product size, availability, and fulfillment requirements, items from the same order may arrive in separate shipments."
+              "answer": "Ordering from lumeero is straightforward: 1. Browse our electronics collection. 2. Select the product you want. 3. Review the product specifications and price. 4. Add the item to your cart. 5. Proceed to checkout. 6. Enter your billing and shipping information. 7. Review the available payment options and final order total. 8. Submit your order. Once an order is accepted, you should receive confirmation through the contact information provided during checkout."
+            },
+            {
+              "type": "faq",
+              "question": "Do I need an account to place an order?",
+              "answer": "Account requirements depend on the checkout options available on our website. If guest checkout is offered, you can place an order without creating a customer account."
+            },
+            {
+              "type": "faq",
+              "question": "How do I know my order was successfully placed?",
+              "answer": "After successfully submitting an order, you should receive an order confirmation or see a confirmation page. If you do not receive confirmation, check your spam or junk email folder and contact customer support before attempting another payment."
+            },
+            {
+              "type": "faq",
+              "question": "Can I modify my order after placing it?",
+              "answer": "Contact us as soon as possible if you need to request a change. Depending on the order's fulfillment status, certain modifications may be possible. Changes cannot be guaranteed once processing or shipment has begun."
+            },
+            {
+              "type": "faq",
+              "question": "Can I change my shipping address?",
+              "answer": "If your order has not been shipped, contact customer support immediately with your order number and the requested correction. We will review whether the address can still be updated. Once a package has entered the carrier's delivery network, changes may be restricted or unavailable."
+            },
+            {
+              "type": "faq",
+              "question": "Can I cancel an order?",
+              "answer": "You can request cancellation by contacting customer support. Cancellation eligibility depends on the order's fulfillment status and our published Cancellation Policy. Read Our Order Cancellation Policy"
+            },
+            {
+              "type": "faq",
+              "question": "What should I do if I placed an order by mistake?",
+              "answer": "Contact us promptly through live chat or email and provide your order number. Our team can review the order's current status and explain the available options."
             }
           ]
         },
         {
-          "id": "shipping-delivery",
-          "title": "3. Shipping & Delivery",
+          "id": "payment-methods-and-checkout-security",
+          "title": "4. Payment Methods & Checkout Security",
           "blocks": [
             {
               "type": "faq",
-              "question": "Where does DROVIIA ship?",
-              "answer": "DROVIIA serves customers in the United States. Delivery availability may depend on the product, destination, and shipping method. Certain large appliances or specialized equipment may have location-specific shipping restrictions. How much does shipping cost? Our current standard shipping schedule is: Orders below $100 USD: $5 standard shipping. Orders of $100 USD or more: Free standard shipping. These rates are based on our existing standard shipping policy. Large appliances, freight shipments, and specialized deliveries may require different arrangements, which must be disclosed before purchase. The applicable shipping charge will be displayed during checkout. How long does delivery take? For orders eligible for our standard parcel shipping service, our current estimates are: Order processing: 0–1 business days. Carrier transit: 3–5 business days. Total estimated delivery: 3–6 business days. These estimates are not guaranteed delivery dates. Oversized appliances, freight shipments, and products requiring special handling may have different delivery timelines. Refer to the product listing and checkout information for applicable details. What is your daily order cutoff time? Our standard order cutoff is 3:00 PM Pacific Time (PT) on business days. Orders received before the cutoff may begin processing that day. Orders received afterward, on weekends, or on U.S. federal holidays generally begin processing on the next business day. Which shipping carriers do you use? Our standard parcel shipping carriers include: USPS UPS The carrier used for your order depends on the product and delivery requirements. Larger appliances may require a specialized freight carrier. How can I track my order? When your order ships, we'll send a shipping confirmation email containing the available tracking information. You can follow your shipment using the carrier's tracking service or visit our Track Your Order page. What should I do if my order is delayed? If your order hasn't arrived within the expected delivery window, review your tracking information first. If a standard parcel shipment has not arrived within seven business days after dispatch, contact info@droviia.us with your order number. Our team will help review the available shipment information. What if my package arrives damaged? Please inspect your delivery as soon as reasonably possible. If the package or product appears damaged, contact us promptly at info@droviia.us. Include your order number, a description of the issue, and clear photographs of the product and packaging. For large appliances, retain the packaging and any delivery documentation while our team reviews your claim."
+              "question": "What payment methods does lumeero accept?",
+              "answer": "Available payment methods are displayed during checkout. Depending on the active payment integrations, options may include eligible credit or debit cards, digital payment services, or installment payment providers. Please refer to checkout for the payment methods currently supported. View Our Payment Policy"
+            },
+            {
+              "type": "faq",
+              "question": "Is it safe to make payments on your website?",
+              "answer": "We aim to provide a secure checkout experience using supported payment integrations and appropriate website security measures. Payment processing may be handled by independent payment service providers. No online system can guarantee absolute security, so customers should also take reasonable precautions to protect their accounts and payment information."
+            },
+            {
+              "type": "faq",
+              "question": "Do you offer Buy Now, Pay Later?",
+              "answer": "Buy Now, Pay Later options may be available if an eligible financing provider is enabled at checkout. Availability depends on the payment services currently supported and the customer's eligibility. If no installment payment option is displayed, it is not currently available for that checkout. Learn About Buy Now, Pay Later"
+            },
+            {
+              "type": "faq",
+              "question": "Can I pay in installments?",
+              "answer": "Installment payment availability depends on whether an eligible provider is offered during checkout. Approval, payment schedules, interest, and fees are determined by the relevant provider."
+            },
+            {
+              "type": "faq",
+              "question": "Why was my payment declined?",
+              "answer": "A payment may be declined for several reasons, including: Incorrect payment details Insufficient available funds Card issuer restrictions Failed authentication Payment provider eligibility requirements Temporary processing errors If your payment is declined, verify your details and contact your bank or payment provider if necessary."
+            },
+            {
+              "type": "faq",
+              "question": "My payment was charged, but I did not receive an order confirmation. What should I do?",
+              "answer": "Please avoid repeatedly submitting payment. Contact us at info@lumeero.site with the approximate transaction time, payment method, and email address used during checkout. Do not send your complete card number, card security code, or banking credentials."
+            },
+            {
+              "type": "faq",
+              "question": "Can I use multiple payment methods for one order?",
+              "answer": "Split-payment functionality depends on the checkout capabilities currently available. If the website does not offer this option, multiple payment methods cannot be combined for a single order through the standard checkout."
+            },
+            {
+              "type": "faq",
+              "question": "What currency are prices displayed in?",
+              "answer": "Prices on our US storefront are displayed in United States Dollars (USD) unless otherwise stated."
             }
           ]
         },
         {
-          "id": "payments-pricing",
-          "title": "4. Payments & Pricing",
+          "id": "shipping-and-delivery",
+          "title": "5. Shipping & Delivery",
           "blocks": [
             {
               "type": "faq",
-              "question": "What payment methods does DROVIIA accept?",
-              "answer": "Available payment methods are displayed during checkout. Depending on the payment services currently enabled, these may include eligible debit cards, credit cards, or other supported payment options. Please refer to the checkout page for the most accurate information. Are your prices listed in U.S. dollars? Yes. Product prices on DROVIIA are displayed in USD (United States dollars). Are there any hidden fees? We aim to present applicable product charges, shipping costs, taxes, and other required checkout charges before you confirm your purchase. Certain optional services, such as specialized delivery or installation, may involve additional charges when offered. Why are some appliances priced lower than elsewhere? Prices can differ between retailers due to purchasing arrangements, inventory levels, promotional campaigns, and product availability. Some discounts may be associated with clearance inventory or particular product configurations. We encourage customers to compare model numbers, product conditions, included accessories, and warranty terms when evaluating prices. Can I use a discount or promotional code? If an eligible promotional code is available, enter it in the designated field during checkout. Discount codes may be subject to expiration dates, product exclusions, minimum purchase requirements, or other promotional conditions. Is my payment information secure? We aim to use appropriate security measures and supported payment processing services to protect customer transactions. Please review our Privacy Policy for information about how customer data is handled."
+              "question": "Where does lumeero ship?",
+              "answer": "Our storefront is intended for customers in the United States. Delivery eligibility is determined by the available shipping destinations and restrictions shown during checkout. For questions about a specific destination, contact our support team before ordering."
+            },
+            {
+              "type": "faq",
+              "question": "Do you offer free shipping?",
+              "answer": "Shipping charges, including any free-shipping offers, are determined by our published Shipping Policy and the shipping options displayed during checkout. Any applicable shipping charges should be shown before you confirm your order. Review Shipping & Delivery"
+            },
+            {
+              "type": "faq",
+              "question": "How long does shipping take?",
+              "answer": "Estimated processing and delivery times depend on the product, destination, shipping method, and carrier. The applicable delivery information is provided in our Shipping Policy or during checkout. Delivery estimates are not guarantees unless expressly stated otherwise."
+            },
+            {
+              "type": "faq",
+              "question": "How can I track my order?",
+              "answer": "If tracking information is available, it will be provided through the applicable order communication or tracking service. You can also contact customer support with your order number for assistance. Track Your Order"
+            },
+            {
+              "type": "faq",
+              "question": "Why is my tracking number not updating?",
+              "answer": "Tracking updates may take time to appear after a shipment is prepared or handed to the carrier. Carrier scans may also be delayed during transit. If your tracking information has not updated as expected, contact our support team for assistance."
+            },
+            {
+              "type": "faq",
+              "question": "What happens if my delivery is delayed?",
+              "answer": "Shipping delays can occur because of carrier disruptions, weather, holidays, or other circumstances. If your delivery is taking longer than expected, contact us with your order number so we can review the available shipment information."
+            },
+            {
+              "type": "faq",
+              "question": "What if my package is marked delivered but I haven't received it?",
+              "answer": "First, check the delivery location, nearby entrances, and any available carrier delivery details. If you still cannot locate the package, contact our support team. We can review the available tracking information and explain the next steps."
+            },
+            {
+              "type": "faq",
+              "question": "Can I request expedited shipping?",
+              "answer": "Expedited shipping is available only when specifically offered during checkout or confirmed by our support team. Please do not assume faster shipping is available for every product or destination."
+            },
+            {
+              "type": "faq",
+              "question": "Do you offer international shipping?",
+              "answer": "International delivery is not advertised as a standard service on our US storefront. Customers should rely on the eligible destinations displayed during checkout or contact support for clarification."
             }
           ]
         },
         {
-          "id": "returns-refunds-exchanges",
-          "title": "5. Returns, Refunds & Exchanges",
+          "id": "returns-and-refunds",
+          "title": "6. Returns & Refunds",
           "blocks": [
             {
               "type": "faq",
-              "question": "What is your return window?",
-              "answer": "Our current return policy provides a 30-day return request window from the delivery date for eligible products. Eligibility depends on the product's condition, category, reason for return, and applicable exclusions. Because DROVIIA offers both small electronics and large appliances, certain products may require additional return instructions. Can I return a product if I change my mind? Our existing policy excludes returns requested solely because of a change of mind. Other eligible return requests are reviewed according to the published Return & Refund Policy and applicable consumer protection laws. Please contact our customer care team before sending any product back. How do I request a return? To request a return: Email info@droviia.us with your order number. Identify the product and explain the reason for your request. Include photographs or supporting details if the product is damaged, defective, or incorrect. Wait for our team to review your request. If approved, follow the return instructions and use the designated return destination. Do not ship products to our business address without prior authorization. Do you charge a restocking fee? Under our existing standard return policy, a $5.00 USD restocking fee applies to approved non-defective standard returns. The fee is waived for approved claims involving damaged, defective, or incorrect products. Any different fees applicable to oversized appliances must be disclosed in the finalized return policy before they are applied. Who pays for return shipping? For approved standard returns involving non-defective products, customers are generally responsible for return shipping costs. For approved claims involving damaged, defective, or incorrect products, DROVIIA covers the necessary return shipping. Large appliances may require coordinated pickup or special return arrangements. How long does it take to receive a refund? After an authorized return arrives, our current policy provides for inspection within two business days. Once approved, refunds are generally processed within seven business days after inspection approval. Your bank or payment provider may require additional time to make the funds available. Do you offer exchanges? We do not currently offer direct exchanges. If you need a different product, model, size, or configuration, you may place a new order. If your original product qualifies for a return, submit a separate return request under the applicable policy. What happens if I receive the wrong item? Contact info@droviia.us promptly with your order number and photographs of the item received. Our team will review the issue and arrange an appropriate resolution, which may include a replacement or refund."
+              "question": "What is your return policy?",
+              "answer": "Our Return and Refund Policy explains which purchases may be returned, the applicable return period, product-condition requirements, and the process for requesting a return. Please review the policy before initiating a return. Read Our Return and Refund Policy"
+            },
+            {
+              "type": "faq",
+              "question": "How do I request a return?",
+              "answer": "To request a return: 1. Contact customer support. 2. Provide your order number. 3. Explain the reason for your return. 4. Provide photographs or supporting information if requested. 5. Wait for the applicable return instructions and authorization. 6. Follow the approved return procedure. Do not send products to our business contact address without receiving return instructions."
+            },
+            {
+              "type": "faq",
+              "question": "Can I return a product if I change my mind?",
+              "answer": "Change-of-mind return eligibility depends on the product, its condition, the applicable return period, and our published Return and Refund Policy. Please review the policy or contact customer support before sending an item back."
+            },
+            {
+              "type": "faq",
+              "question": "What if I receive a damaged product?",
+              "answer": "Contact us promptly with your order number, a description of the damage, and relevant photographs. Our team will review the report and explain the available options under the applicable policies and consumer protection laws."
+            },
+            {
+              "type": "faq",
+              "question": "What if I receive the wrong item?",
+              "answer": "Contact customer support with your order number and photographs of the item received. We will review the discrepancy and explain the appropriate next steps."
+            },
+            {
+              "type": "faq",
+              "question": "Do I have to pay for return shipping?",
+              "answer": "Return shipping responsibilities depend on the reason for the return and the applicable policy. For example, change-of-mind returns may be handled differently from verified incorrect, damaged, or defective product claims. Please review our Return and Refund Policy for the applicable conditions."
+            },
+            {
+              "type": "faq",
+              "question": "Do you charge restocking fees?",
+              "answer": "Any applicable restocking fees or other return-related charges must be disclosed in our published Return and Refund Policy. Contact customer support if you need clarification before requesting a return."
+            },
+            {
+              "type": "faq",
+              "question": "How long does a refund take?",
+              "answer": "Refund processing times depend on the applicable return process, approval status, and payment provider. After a refund is initiated, your bank or payment provider may require additional time to make the funds available. Refer to our Return and Refund Policy for the applicable timeline."
+            },
+            {
+              "type": "faq",
+              "question": "Will my refund go back to my original payment method?",
+              "answer": "Approved refunds are generally directed through the original payment method where supported. The final refund process may depend on the payment provider and transaction circumstances."
+            },
+            {
+              "type": "faq",
+              "question": "Can I exchange a product?",
+              "answer": "Exchange availability depends on the product and applicable store policy. Contact customer support to discuss the available options."
+            },
+            {
+              "type": "faq",
+              "question": "Can I return a product directly to your business address?",
+              "answer": "No product should be sent to our published business contact address without prior authorization. Contact our support team for the correct return instructions and designated destination."
             }
           ]
         },
         {
-          "id": "product-warranties-technical-information",
-          "title": "6. Product Warranties & Technical Information",
+          "id": "warranty-and-product-support",
+          "title": "7. Warranty & Product Support",
           "blocks": [
             {
               "type": "faq",
-              "question": "Do your products come with a warranty?",
-              "answer": "Warranty coverage depends on the product, manufacturer, and applicable purchase terms. Some products may include manufacturer warranty coverage, while others may have different support arrangements. Please review the product listing or contact us for warranty information before purchasing. Can you help me choose the right appliance? Our customer care team can help you locate available product specifications and information. For appliances requiring professional installation or compatibility assessments, we recommend consulting a qualified technician before purchasing. Do you provide installation services? Installation availability has not been established for all products. Unless installation is specifically included in the product listing or checkout, customers should not assume it is part of the purchase. Products such as furnaces, boilers, air conditioners, range hoods, and garage door openers may require professional installation. Can I install a furnace, boiler, or air conditioner myself? Some equipment requires installation by appropriately qualified professionals and may be subject to local building codes, permits, or safety regulations. Always follow the manufacturer's instructions and applicable local requirements. Improper installation can create safety risks and may affect warranty coverage. How do I know whether an appliance will fit my space? Review the product's dimensions, installation clearances, electrical requirements, ventilation requirements, and other relevant specifications. For built-in appliances or specialized equipment, confirm compatibility with your space and existing systems before ordering. What if my appliance stops working? Contact our support team with your order number, product model, and a description of the issue. We'll help identify the available support options based on the product's return eligibility and applicable warranty terms."
+              "question": "Do your electronics come with a warranty?",
+              "answer": "Warranty coverage varies by product and manufacturer. Where applicable, product listings or accompanying documentation may identify available warranty terms. Not every product necessarily includes the same warranty coverage. Read Warranty & Product Support"
+            },
+            {
+              "type": "faq",
+              "question": "How can I check whether a product has a warranty?",
+              "answer": "Review the product description, manufacturer documentation, and any applicable warranty information. If the information is unclear, contact customer support with the product name or model number."
+            },
+            {
+              "type": "faq",
+              "question": "What should I do if my product stops working?",
+              "answer": "Contact customer support with your order number and a description of the issue. Depending on the product and circumstances, return eligibility, manufacturer warranty terms, or other support options may apply."
+            },
+            {
+              "type": "faq",
+              "question": "Are you an authorized retailer for every brand you sell?",
+              "answer": "Authorization relationships vary by manufacturer and should not be assumed. Unless a specific authorization is expressly stated and verifiable, the presence of a branded product on our website does not imply an official manufacturer partnership or endorsement."
+            },
+            {
+              "type": "faq",
+              "question": "Do you provide installation or technical repair services?",
+              "answer": "Installation and repair services should not be assumed to be included with a product purchase. Review the product listing or contact support to determine whether any additional services are specifically available."
             }
           ]
         },
         {
-          "id": "customer-accounts-support",
-          "title": "7. Customer Accounts & Support",
+          "id": "account-privacy-and-website-assistance",
+          "title": "8. Account, Privacy & Website Assistance",
           "blocks": [
             {
               "type": "faq",
-              "question": "How can I contact DROVIIA?",
-              "answer": "You can reach us through: Email: info@droviia.us Phone: +1 (424) 329-0223 Live Chat: Available 24/7 Business Hours: Monday–Friday, 9:00 AM–5:00 PM Pacific Time (PT) What information should I provide when contacting customer support? For order-related inquiries, please include: Your order number. The email address associated with your purchase. A brief explanation of your question or concern. Relevant product details or photographs, when necessary. Please do not share passwords or complete payment card details. Can I contact customer support outside business hours? Yes. Our website offers 24/7 live chat support. Phone support is available during our regular business hours, Monday through Friday, 9:00 AM–5:00 PM PT. How can I request information about my personal data? For privacy-related inquiries, email info@droviia.us. You can also review our Privacy Policy and Your Privacy Choices page for additional information about available privacy rights and requests."
+              "question": "How is my personal information used?",
+              "answer": "Personal information may be used to process orders, provide customer support, manage transactions, and operate our website. For details about the information collected and how it is handled, review our Privacy Policy. Privacy Policy"
+            },
+            {
+              "type": "faq",
+              "question": "Do you share customer information with third parties?",
+              "answer": "Certain service providers may receive information necessary to support payment processing, order fulfillment, website operations, or other legitimate business activities. Our Privacy Policy explains the applicable data-handling practices."
+            },
+            {
+              "type": "faq",
+              "question": "Does your website use cookies?",
+              "answer": "Our website may use cookies and similar technologies to support essential functionality, remember preferences, and provide other website features. Review our Cookie Policy for additional information. Cookie Policy"
+            },
+            {
+              "type": "faq",
+              "question": "How can I request access to or deletion of my personal information?",
+              "answer": "You can contact info@lumeero.site with your privacy-related request. Requests will be reviewed according to applicable law and our published privacy procedures. Your Privacy Choices"
+            },
+            {
+              "type": "faq",
+              "question": "What should I do if the website is not working correctly?",
+              "answer": "Try refreshing the page, checking your internet connection, or using an updated browser. If the problem continues, contact our support team with a description of the issue and, if possible, a screenshot."
+            },
+            {
+              "type": "faq",
+              "question": "How can I report an accessibility issue?",
+              "answer": "If you experience difficulty using our website, please email info@lumeero.site. Include the page URL and a description of the accessibility barrier so we can review the issue. Accessibility Statement"
             }
           ]
         },
         {
-          "id": "business-information",
-          "title": "8. Business Information",
+          "id": "customer-service-and-additional-assistance",
+          "title": "9. Customer Service & Additional Assistance",
           "blocks": [
             {
               "type": "faq",
-              "question": "Who owns and operates DROVIIA?",
-              "answer": "DROVIIA is operated by Modern Closet Spaces LLC. Business Name: DROVIIA Legal Business Name: Modern Closet Spaces LLC Business Address: 1320 W El Segundo Blvd Ste E Gardena, CA 90247 United States Website: https://droviia.us Email: info@droviia.us Phone: +1 (424) 329-0223 Business Hours: Monday–Friday, 9:00 AM–5:00 PM PT Live Chat Support: Available 24/7 Still Have Questions? We're here to help you find the information you need. Whether you're comparing appliances, checking an order, or requesting customer support, the DROVIIA team is available to assist. Email: info@droviia.us Phone: +1 (424) 329-0223 You can also visit our Contact Us page or use our 24/7 live chat. DROVIIA — Everyday Essentials for Better Living."
+              "question": "What information should I provide when contacting support?",
+              "answer": "For order-related questions, please provide: Your order number The name associated with the order The email address used during checkout A brief explanation of your inquiry For product-related concerns, include the relevant product name, model, or listing URL."
+            },
+            {
+              "type": "faq",
+              "question": "Can I contact support before purchasing?",
+              "answer": "Yes. Customers are welcome to contact us before placing an order. Our team can assist with available product details, purchasing information, and general store policies."
+            },
+            {
+              "type": "faq",
+              "question": "What should I do if I haven't received a response?",
+              "answer": "If you have already contacted us, please allow time for your inquiry to be reviewed. You can follow up through the same email thread or use our live chat for additional assistance."
+            },
+            {
+              "type": "faq",
+              "question": "How can I submit feedback about my shopping experience?",
+              "answer": "We welcome constructive feedback. Send your comments or suggestions to info@lumeero.site, or use the contact form on our website."
+            },
+            {
+              "type": "faq",
+              "question": "Can I contact lumeero for business inquiries?",
+              "answer": "Yes. General business inquiries can be submitted through our published email address. Email: info@lumeero.site"
+            },
+            {
+              "type": "faq",
+              "question": "What should I do if my question isn't answered here?",
+              "answer": "Contact our support team through one of the following channels: Live Chat: Available 24/7 Email: info@lumeero.site Phone: +1 (505) 345-4232 Telephone Hours: Monday–Friday, 9:00 AM–5:00 PM Mountain Time (MT) Contact Our Team Still Have Questions? We're Here to Make Shopping Easier At lumeero, we believe customers should have access to clear information and helpful support throughout their shopping experience. Whether you're exploring our electronics catalog, checking an order, or requesting assistance after a purchase, our customer support channels are available to help. Shop Electronics: https://lumeero.us/shop/ Contact Support: https://lumeero.us/contact-us/ Email: info@lumeero.site Live Chat: Available 24/7 Business Information Store Name: lumeero Legal Business Name: Stone Canyon Leathers Website: https://lumeero.us Email: info@lumeero.site Phone: +1 (505) 345-4232 Address: 6715 4th St NW, Los Ranchos De Albuquerque, NM 87107, United States Business Hours: Monday–Friday, 9:00 AM–5:00 PM Mountain Time (MT) Live Chat: 24/7 lumeero. Everyday Technology. A Simpler Way to Shop. © 2026 lumeero. Operated by Stone Canyon Leathers. All rights reserved."
             }
           ]
         }
       ],
       "lines": [
         "Frequently Asked Questions (FAQs)",
-        "How Can We Help You?",
-        "Welcome to the DROVIIA Help Center.",
-        "We've put together answers to frequently asked questions about our products, ordering process, shipping, payments, returns, refunds, and customer support.",
-        "Whether you're shopping for home appliances, heating and cooling equipment, or personal care essentials, we're here to help you make informed purchasing decisions.",
-        "Can't find the answer you're looking for? Contact our customer care team at info@droviia.us or use our 24/7 live chat support.",
-        "1. General Questions",
-        "What is DROVIIA?",
-        "DROVIIA is a U.S.-based online retailer offering home appliances, heating and cooling equipment, personal care electronics, and practical household essentials.",
-        "Our product collections include refrigerators, laundry appliances, air conditioners, space heaters, humidifiers, hair styling tools, garage door openers, and more.",
-        "DROVIIA is operated by Modern Closet Spaces LLC, based in Gardena, California.",
-        "Where is DROVIIA located?",
-        "Our business information is:",
-        "DROVIIA — Modern Closet Spaces LLC",
-        "1320 W El Segundo Blvd Ste E",
-        "Gardena, CA 90247, United States",
-        "You can contact our customer care team at +1 (424) 329-0223 or info@droviia.us.",
-        "Please note that our listed business address is not automatically an authorized return location.",
-        "Is DROVIIA an online store?",
-        "Yes. DROVIIA operates through our website, https://droviia.us, where customers can browse available products, review product details, and place orders online.",
-        "What types of products does DROVIIA sell?",
-        "Our product selection includes:",
-        "* Kitchen & Laundry Appliances: Refrigerators, wine fridges, range hoods, and laundry appliances.",
-        "* Heating, Cooling & Air Quality: Air conditioners, furnaces, boilers, humidifiers, and space heaters.",
-        "* Hair & Personal Care: Hair dryers, straighteners, curling irons, and hair styling tool sets.",
-        "* Home & Commercial Essentials: Hand dryers and garage door openers.",
-        "Product selection and availability may change over time.",
-        "Are your products new and authentic?",
-        "Product condition, brand, model, and included accessories should be identified in each listing.",
-        "We aim to provide accurate product information so you can understand what you're purchasing. If you need confirmation about a particular product's condition, packaging, or specifications, contact us before placing your order.",
-        "Why are some products offered at discounted prices?",
-        "Product prices may vary based on inventory, promotional offers, product models, and market conditions.",
-        "Certain products may be discounted as part of inventory clearance or promotional pricing. A discounted price does not, by itself, indicate that a product is used or defective.",
-        "Please review the individual listing for the product's condition and specifications.",
-        "Are you an authorized dealer for every brand you sell?",
-        "Manufacturer authorization can vary by brand and product. We do not represent ourselves as an authorized dealer for a particular brand unless that relationship has been confirmed.",
-        "If manufacturer authorization or warranty eligibility is important to your purchase, contact our support team for clarification before ordering.",
-        "2. Orders & Product Availability",
-        "How do I place an order?",
-        "Ordering from DROVIIA is straightforward:",
-        "1. Browse our product categories or use the search feature.",
-        "2. Select the product you want and review its specifications.",
-        "3. Choose any available product options.",
-        "4. Add the item to your shopping cart.",
-        "5. Proceed to checkout and enter your delivery information.",
-        "6. Review your order total, shipping charges, and payment options.",
-        "7. Complete your purchase.",
-        "Once your order is successfully placed, you should receive an order confirmation at the email address provided during checkout.",
-        "Can I place an order without creating an account?",
-        "Guest checkout availability depends on the options enabled on our website. If guest checkout is available, you can complete your purchase without registering an account.",
-        "How can I check whether a product is in stock?",
-        "Product availability is generally displayed on the product page.",
-        "If you have questions about a specific model, size, color, or configuration, contact our customer care team before ordering.",
-        "What happens if an item becomes unavailable after I place an order?",
-        "If an ordered product becomes unavailable, our team will contact you to explain the situation and available options.",
-        "Depending on the circumstances, you may be offered an alternative product, a revised fulfillment timeframe, or cancellation with a refund.",
-        "We will not substitute a different product without your agreement.",
-        "Can I modify or cancel my order?",
-        "Please contact us as soon as possible at info@droviia.us with your order number and requested change.",
-        "We'll review the order's fulfillment status to determine whether a modification or cancellation is still possible.",
-        "Once an order has entered shipment preparation or has been dispatched, changes may no longer be possible.",
-        "For more information, review our Order Cancellation Policy.",
-        "Can I order multiple products at once?",
-        "Yes. You can add multiple available products to your cart and complete checkout together.",
-        "Depending on product size, availability, and fulfillment requirements, items from the same order may arrive in separate shipments.",
-        "3. Shipping & Delivery",
-        "Where does DROVIIA ship?",
-        "DROVIIA serves customers in the United States.",
-        "Delivery availability may depend on the product, destination, and shipping method. Certain large appliances or specialized equipment may have location-specific shipping restrictions.",
-        "How much does shipping cost?",
-        "Our current standard shipping schedule is:",
-        "* Orders below $100 USD: $5 standard shipping.",
-        "* Orders of $100 USD or more: Free standard shipping.",
-        "These rates are based on our existing standard shipping policy. Large appliances, freight shipments, and specialized deliveries may require different arrangements, which must be disclosed before purchase.",
-        "The applicable shipping charge will be displayed during checkout.",
-        "How long does delivery take?",
-        "For orders eligible for our standard parcel shipping service, our current estimates are:",
-        "* Order processing: 0–1 business days.",
-        "* Carrier transit: 3–5 business days.",
-        "* Total estimated delivery: 3–6 business days.",
-        "These estimates are not guaranteed delivery dates.",
-        "Oversized appliances, freight shipments, and products requiring special handling may have different delivery timelines. Refer to the product listing and checkout information for applicable details.",
-        "What is your daily order cutoff time?",
-        "Our standard order cutoff is 3:00 PM Pacific Time (PT) on business days.",
-        "Orders received before the cutoff may begin processing that day. Orders received afterward, on weekends, or on U.S. federal holidays generally begin processing on the next business day.",
-        "Which shipping carriers do you use?",
-        "Our standard parcel shipping carriers include:",
-        "* USPS",
-        "* UPS",
-        "The carrier used for your order depends on the product and delivery requirements. Larger appliances may require a specialized freight carrier.",
-        "How can I track my order?",
-        "When your order ships, we'll send a shipping confirmation email containing the available tracking information.",
-        "You can follow your shipment using the carrier's tracking service or visit our Track Your Order page.",
-        "What should I do if my order is delayed?",
-        "If your order hasn't arrived within the expected delivery window, review your tracking information first.",
-        "If a standard parcel shipment has not arrived within seven business days after dispatch, contact info@droviia.us with your order number.",
-        "Our team will help review the available shipment information.",
-        "What if my package arrives damaged?",
-        "Please inspect your delivery as soon as reasonably possible.",
-        "If the package or product appears damaged, contact us promptly at info@droviia.us.",
-        "Include your order number, a description of the issue, and clear photographs of the product and packaging.",
-        "For large appliances, retain the packaging and any delivery documentation while our team reviews your claim.",
-        "4. Payments & Pricing",
-        "What payment methods does DROVIIA accept?",
-        "Available payment methods are displayed during checkout.",
-        "Depending on the payment services currently enabled, these may include eligible debit cards, credit cards, or other supported payment options.",
-        "Please refer to the checkout page for the most accurate information.",
-        "Are your prices listed in U.S. dollars?",
-        "Yes. Product prices on DROVIIA are displayed in USD (United States dollars).",
-        "Are there any hidden fees?",
-        "We aim to present applicable product charges, shipping costs, taxes, and other required checkout charges before you confirm your purchase.",
-        "Certain optional services, such as specialized delivery or installation, may involve additional charges when offered.",
-        "Why are some appliances priced lower than elsewhere?",
-        "Prices can differ between retailers due to purchasing arrangements, inventory levels, promotional campaigns, and product availability.",
-        "Some discounts may be associated with clearance inventory or particular product configurations.",
-        "We encourage customers to compare model numbers, product conditions, included accessories, and warranty terms when evaluating prices.",
-        "Can I use a discount or promotional code?",
-        "If an eligible promotional code is available, enter it in the designated field during checkout.",
-        "Discount codes may be subject to expiration dates, product exclusions, minimum purchase requirements, or other promotional conditions.",
-        "Is my payment information secure?",
-        "We aim to use appropriate security measures and supported payment processing services to protect customer transactions.",
-        "Please review our Privacy Policy for information about how customer data is handled.",
-        "5. Returns, Refunds & Exchanges",
-        "What is your return window?",
-        "Our current return policy provides a 30-day return request window from the delivery date for eligible products.",
-        "Eligibility depends on the product's condition, category, reason for return, and applicable exclusions.",
-        "Because DROVIIA offers both small electronics and large appliances, certain products may require additional return instructions.",
-        "Can I return a product if I change my mind?",
-        "Our existing policy excludes returns requested solely because of a change of mind.",
-        "Other eligible return requests are reviewed according to the published Return & Refund Policy and applicable consumer protection laws.",
-        "Please contact our customer care team before sending any product back.",
-        "How do I request a return?",
-        "To request a return:",
-        "1. Email info@droviia.us with your order number.",
-        "2. Identify the product and explain the reason for your request.",
-        "3. Include photographs or supporting details if the product is damaged, defective, or incorrect.",
-        "4. Wait for our team to review your request.",
-        "5. If approved, follow the return instructions and use the designated return destination.",
-        "Do not ship products to our business address without prior authorization.",
-        "Do you charge a restocking fee?",
-        "Under our existing standard return policy, a $5.00 USD restocking fee applies to approved non-defective standard returns.",
-        "The fee is waived for approved claims involving damaged, defective, or incorrect products.",
-        "Any different fees applicable to oversized appliances must be disclosed in the finalized return policy before they are applied.",
-        "Who pays for return shipping?",
-        "For approved standard returns involving non-defective products, customers are generally responsible for return shipping costs.",
-        "For approved claims involving damaged, defective, or incorrect products, DROVIIA covers the necessary return shipping.",
-        "Large appliances may require coordinated pickup or special return arrangements.",
-        "How long does it take to receive a refund?",
-        "After an authorized return arrives, our current policy provides for inspection within two business days.",
-        "Once approved, refunds are generally processed within seven business days after inspection approval.",
-        "Your bank or payment provider may require additional time to make the funds available.",
-        "Do you offer exchanges?",
-        "We do not currently offer direct exchanges.",
-        "If you need a different product, model, size, or configuration, you may place a new order.",
-        "If your original product qualifies for a return, submit a separate return request under the applicable policy.",
-        "What happens if I receive the wrong item?",
-        "Contact info@droviia.us promptly with your order number and photographs of the item received.",
-        "Our team will review the issue and arrange an appropriate resolution, which may include a replacement or refund.",
-        "6. Product Warranties & Technical Information",
-        "Do your products come with a warranty?",
-        "Warranty coverage depends on the product, manufacturer, and applicable purchase terms.",
-        "Some products may include manufacturer warranty coverage, while others may have different support arrangements.",
-        "Please review the product listing or contact us for warranty information before purchasing.",
-        "Can you help me choose the right appliance?",
-        "Our customer care team can help you locate available product specifications and information.",
-        "For appliances requiring professional installation or compatibility assessments, we recommend consulting a qualified technician before purchasing.",
-        "Do you provide installation services?",
-        "Installation availability has not been established for all products.",
-        "Unless installation is specifically included in the product listing or checkout, customers should not assume it is part of the purchase.",
-        "Products such as furnaces, boilers, air conditioners, range hoods, and garage door openers may require professional installation.",
-        "Can I install a furnace, boiler, or air conditioner myself?",
-        "Some equipment requires installation by appropriately qualified professionals and may be subject to local building codes, permits, or safety regulations.",
-        "Always follow the manufacturer's instructions and applicable local requirements.",
-        "Improper installation can create safety risks and may affect warranty coverage.",
-        "How do I know whether an appliance will fit my space?",
-        "Review the product's dimensions, installation clearances, electrical requirements, ventilation requirements, and other relevant specifications.",
-        "For built-in appliances or specialized equipment, confirm compatibility with your space and existing systems before ordering.",
-        "What if my appliance stops working?",
-        "Contact our support team with your order number, product model, and a description of the issue.",
-        "We'll help identify the available support options based on the product's return eligibility and applicable warranty terms.",
-        "7. Customer Accounts & Support",
-        "How can I contact DROVIIA?",
-        "You can reach us through:",
-        "Email: info@droviia.us",
-        "Phone: +1 (424) 329-0223",
-        "Live Chat: Available 24/7",
-        "Business Hours: Monday–Friday, 9:00 AM–5:00 PM Pacific Time (PT)",
-        "What information should I provide when contacting customer support?",
-        "For order-related inquiries, please include:",
-        "* Your order number.",
-        "* The email address associated with your purchase.",
-        "* A brief explanation of your question or concern.",
-        "* Relevant product details or photographs, when necessary.",
-        "Please do not share passwords or complete payment card details.",
-        "Can I contact customer support outside business hours?",
-        "Yes. Our website offers 24/7 live chat support.",
-        "Phone support is available during our regular business hours, Monday through Friday, 9:00 AM–5:00 PM PT.",
-        "How can I request information about my personal data?",
-        "For privacy-related inquiries, email info@droviia.us.",
-        "You can also review our Privacy Policy and Your Privacy Choices page for additional information about available privacy rights and requests.",
-        "8. Business Information",
-        "Who owns and operates DROVIIA?",
-        "DROVIIA is operated by Modern Closet Spaces LLC.",
-        "Business Name: DROVIIA",
-        "Legal Business Name: Modern Closet Spaces LLC",
-        "Business Address:",
-        "1320 W El Segundo Blvd Ste E",
-        "Gardena, CA 90247",
+        "Welcome to the lumeero Help Center",
+        "Find answers to common questions about shopping, products, payments, shipping, order tracking, returns, refunds, and customer support.",
+        "At lumeero, operated by Stone Canyon Leathers, we want your electronics shopping experience to be simple, transparent, and convenient.",
+        "Can't find the answer you're looking for? Our live chat is available 24/7, and you can contact our support team at info@lumeero.site.",
+        "1. General Questions About lumeero",
+        "Q1. What is lumeero?",
+        "lumeero is a US-based online electronics store offering a selection of technology products, computer components, gaming equipment, and electronic accessories.",
+        "Our goal is to make shopping for electronics more convenient by providing organized product categories, useful product information, and accessible customer support.",
+        "Q2. What is the legal business name behind lumeero?",
+        "lumeero operates under the legal business name Stone Canyon Leathers.",
+        "Our published business contact address is:",
+        "6715 4th St NW",
+        "Los Ranchos De Albuquerque, NM 87107",
         "United States",
-        "Website: https://droviia.us",
-        "Email: info@droviia.us",
-        "Phone: +1 (424) 329-0223",
-        "Business Hours: Monday–Friday, 9:00 AM–5:00 PM PT",
-        "Live Chat Support: Available 24/7",
+        "Q3. Where is lumeero located?",
+        "Our business contact address is located in Los Ranchos De Albuquerque, New Mexico, United States.",
+        "Our store operates online through https://lumeero.us.",
+        "Our published business address is not automatically a retail pickup or product return location.",
+        "Q4. Is lumeero an online store?",
+        "Yes. lumeero operates as an online electronics shopping destination.",
+        "Customers can browse available products, review specifications, and place orders through our website.",
+        "Q5. What types of products does lumeero sell?",
+        "Our electronics catalog may include:",
+        "* Computers and computer components",
+        "* Graphics cards",
+        "* Gaming consoles and accessories",
+        "* Computer monitors",
+        "* 3D printers",
+        "* Computer memory and storage accessories",
+        "* I/O cards and adapters",
+        "* Audio equipment",
+        "* Chargers and power adapters",
+        "* Other electronic devices and accessories",
+        "Product categories and availability may change.",
+        "Q6. How can I contact lumeero?",
+        "You can contact us through:",
+        "Email: info@lumeero.site",
+        "Phone: +1 (505) 345-4232",
+        "Live Chat: Available 24/7",
+        "Our regular telephone business hours are Monday–Friday, 9:00 AM–5:00 PM Mountain Time.",
+        "Contact Us",
+        "Q7. What are your customer service hours?",
+        "Our live chat channel is available 24 hours a day, 7 days a week.",
+        "Our regular telephone business hours are Monday through Friday, 9:00 AM to 5:00 PM Mountain Time (MT).",
+        "Email inquiries can be submitted at any time.",
+        "Q8. Can I visit your business address to purchase products?",
+        "lumeero operates as an online store.",
+        "We do not advertise walk-in shopping or in-person pickup through our published business address.",
+        "Please contact customer support before making any plans involving our business location.",
+        "2. Products, Pricing & Availability",
+        "Q9. Are the products listed on your website available for purchase?",
+        "Products shown as available can generally be added to your cart and submitted for purchase.",
+        "However, inventory information can occasionally change or require verification.",
+        "If an ordered product becomes unavailable, we will review the situation and communicate the available options, including a refund where applicable.",
+        "Q10. Are your electronics brand new?",
+        "Product condition should be identified on the individual product listing.",
+        "Where a product is described as New, it is represented as new according to the listing details.",
+        "If a product is refurbished, open-box, or otherwise not new, its condition should be disclosed before purchase.",
+        "Please review the individual product description or contact our support team if you need clarification.",
+        "Q11. Are your products genuine?",
+        "We aim to describe products accurately, including their brand, model, specifications, and condition.",
+        "Customers should review the relevant product listing for identifying details.",
+        "If you have questions about a particular manufacturer's product, contact our team before ordering.",
+        "Q12. Why are some of your products priced lower than other retailers?",
+        "Retail prices can vary for several reasons, including purchasing costs, inventory availability, promotional pricing, product configurations, and market conditions.",
+        "We aim to offer competitive prices while providing clear product information.",
+        "A lower price does not necessarily indicate a difference in product condition. Always review the individual listing for the exact product model, condition, and included accessories.",
+        "Q13. Do you offer discounts or promotional codes?",
+        "Promotional discounts may be offered from time to time.",
+        "When a promotion is available, its terms, eligibility requirements, and expiration date will be provided through the relevant offer.",
+        "If you have a valid promotional code, enter it during checkout where supported.",
+        "Q14. Can I request a discount on a product?",
+        "You can contact customer support to ask about currently available promotions.",
+        "Discounts are not guaranteed and depend on active offers and product eligibility.",
+        "Q15. Can I purchase multiple units of the same product?",
+        "You can order available quantities shown on the product page, subject to inventory and any applicable purchase limits.",
+        "For larger orders, contact our support team to discuss product availability and order requirements.",
+        "Q16. Do product prices include sales tax?",
+        "Applicable sales taxes, if any, are calculated according to the relevant transaction and displayed during checkout.",
+        "Review your final order total before confirming payment.",
+        "Q17. Are product specifications always accurate?",
+        "We aim to provide accurate and useful product information.",
+        "However, specifications, images, and manufacturer information can occasionally contain errors or change.",
+        "For compatibility-sensitive purchases, we recommend confirming the exact model number and technical requirements before ordering.",
+        "Q18. Can you help me choose the right electronic product?",
+        "Our customer support team can assist with available product information and specifications.",
+        "For compatibility questions, provide the relevant model numbers, intended use, and technical requirements.",
+        "We encourage customers to verify compatibility before purchasing.",
+        "3. Ordering & Checkout",
+        "Q19. How do I place an order?",
+        "Ordering from lumeero is straightforward:",
+        "1. Browse our electronics collection.",
+        "2. Select the product you want.",
+        "3. Review the product specifications and price.",
+        "4. Add the item to your cart.",
+        "5. Proceed to checkout.",
+        "6. Enter your billing and shipping information.",
+        "7. Review the available payment options and final order total.",
+        "8. Submit your order.",
+        "Once an order is accepted, you should receive confirmation through the contact information provided during checkout.",
+        "Q20. Do I need an account to place an order?",
+        "Account requirements depend on the checkout options available on our website.",
+        "If guest checkout is offered, you can place an order without creating a customer account.",
+        "Q21. How do I know my order was successfully placed?",
+        "After successfully submitting an order, you should receive an order confirmation or see a confirmation page.",
+        "If you do not receive confirmation, check your spam or junk email folder and contact customer support before attempting another payment.",
+        "Q22. Can I modify my order after placing it?",
+        "Contact us as soon as possible if you need to request a change.",
+        "Depending on the order's fulfillment status, certain modifications may be possible.",
+        "Changes cannot be guaranteed once processing or shipment has begun.",
+        "Q23. Can I change my shipping address?",
+        "If your order has not been shipped, contact customer support immediately with your order number and the requested correction.",
+        "We will review whether the address can still be updated.",
+        "Once a package has entered the carrier's delivery network, changes may be restricted or unavailable.",
+        "Q24. Can I cancel an order?",
+        "You can request cancellation by contacting customer support.",
+        "Cancellation eligibility depends on the order's fulfillment status and our published Cancellation Policy.",
+        "Read Our Order Cancellation Policy",
+        "Q25. What should I do if I placed an order by mistake?",
+        "Contact us promptly through live chat or email and provide your order number.",
+        "Our team can review the order's current status and explain the available options.",
+        "4. Payment Methods & Checkout Security",
+        "Q26. What payment methods does lumeero accept?",
+        "Available payment methods are displayed during checkout.",
+        "Depending on the active payment integrations, options may include eligible credit or debit cards, digital payment services, or installment payment providers.",
+        "Please refer to checkout for the payment methods currently supported.",
+        "View Our Payment Policy",
+        "Q27. Is it safe to make payments on your website?",
+        "We aim to provide a secure checkout experience using supported payment integrations and appropriate website security measures.",
+        "Payment processing may be handled by independent payment service providers.",
+        "No online system can guarantee absolute security, so customers should also take reasonable precautions to protect their accounts and payment information.",
+        "Q28. Do you offer Buy Now, Pay Later?",
+        "Buy Now, Pay Later options may be available if an eligible financing provider is enabled at checkout.",
+        "Availability depends on the payment services currently supported and the customer's eligibility.",
+        "If no installment payment option is displayed, it is not currently available for that checkout.",
+        "Learn About Buy Now, Pay Later",
+        "Q29. Can I pay in installments?",
+        "Installment payment availability depends on whether an eligible provider is offered during checkout.",
+        "Approval, payment schedules, interest, and fees are determined by the relevant provider.",
+        "Q30. Why was my payment declined?",
+        "A payment may be declined for several reasons, including:",
+        "* Incorrect payment details",
+        "* Insufficient available funds",
+        "* Card issuer restrictions",
+        "* Failed authentication",
+        "* Payment provider eligibility requirements",
+        "* Temporary processing errors",
+        "If your payment is declined, verify your details and contact your bank or payment provider if necessary.",
+        "Q31. My payment was charged, but I did not receive an order confirmation. What should I do?",
+        "Please avoid repeatedly submitting payment.",
+        "Contact us at info@lumeero.site with the approximate transaction time, payment method, and email address used during checkout.",
+        "Do not send your complete card number, card security code, or banking credentials.",
+        "Q32. Can I use multiple payment methods for one order?",
+        "Split-payment functionality depends on the checkout capabilities currently available.",
+        "If the website does not offer this option, multiple payment methods cannot be combined for a single order through the standard checkout.",
+        "Q33. What currency are prices displayed in?",
+        "Prices on our US storefront are displayed in United States Dollars (USD) unless otherwise stated.",
+        "5. Shipping & Delivery",
+        "Q34. Where does lumeero ship?",
+        "Our storefront is intended for customers in the United States.",
+        "Delivery eligibility is determined by the available shipping destinations and restrictions shown during checkout.",
+        "For questions about a specific destination, contact our support team before ordering.",
+        "Q35. Do you offer free shipping?",
+        "Shipping charges, including any free-shipping offers, are determined by our published Shipping Policy and the shipping options displayed during checkout.",
+        "Any applicable shipping charges should be shown before you confirm your order.",
+        "Review Shipping & Delivery",
+        "Q36. How long does shipping take?",
+        "Estimated processing and delivery times depend on the product, destination, shipping method, and carrier.",
+        "The applicable delivery information is provided in our Shipping Policy or during checkout.",
+        "Delivery estimates are not guarantees unless expressly stated otherwise.",
+        "Q37. How can I track my order?",
+        "If tracking information is available, it will be provided through the applicable order communication or tracking service.",
+        "You can also contact customer support with your order number for assistance.",
+        "Track Your Order",
+        "Q38. Why is my tracking number not updating?",
+        "Tracking updates may take time to appear after a shipment is prepared or handed to the carrier.",
+        "Carrier scans may also be delayed during transit.",
+        "If your tracking information has not updated as expected, contact our support team for assistance.",
+        "Q39. What happens if my delivery is delayed?",
+        "Shipping delays can occur because of carrier disruptions, weather, holidays, or other circumstances.",
+        "If your delivery is taking longer than expected, contact us with your order number so we can review the available shipment information.",
+        "Q40. What if my package is marked delivered but I haven't received it?",
+        "First, check the delivery location, nearby entrances, and any available carrier delivery details.",
+        "If you still cannot locate the package, contact our support team.",
+        "We can review the available tracking information and explain the next steps.",
+        "Q41. Can I request expedited shipping?",
+        "Expedited shipping is available only when specifically offered during checkout or confirmed by our support team.",
+        "Please do not assume faster shipping is available for every product or destination.",
+        "Q42. Do you offer international shipping?",
+        "International delivery is not advertised as a standard service on our US storefront.",
+        "Customers should rely on the eligible destinations displayed during checkout or contact support for clarification.",
+        "6. Returns & Refunds",
+        "Q43. What is your return policy?",
+        "Our Return and Refund Policy explains which purchases may be returned, the applicable return period, product-condition requirements, and the process for requesting a return.",
+        "Please review the policy before initiating a return.",
+        "Read Our Return and Refund Policy",
+        "Q44. How do I request a return?",
+        "To request a return:",
+        "1. Contact customer support.",
+        "2. Provide your order number.",
+        "3. Explain the reason for your return.",
+        "4. Provide photographs or supporting information if requested.",
+        "5. Wait for the applicable return instructions and authorization.",
+        "6. Follow the approved return procedure.",
+        "Do not send products to our business contact address without receiving return instructions.",
+        "Q45. Can I return a product if I change my mind?",
+        "Change-of-mind return eligibility depends on the product, its condition, the applicable return period, and our published Return and Refund Policy.",
+        "Please review the policy or contact customer support before sending an item back.",
+        "Q46. What if I receive a damaged product?",
+        "Contact us promptly with your order number, a description of the damage, and relevant photographs.",
+        "Our team will review the report and explain the available options under the applicable policies and consumer protection laws.",
+        "Q47. What if I receive the wrong item?",
+        "Contact customer support with your order number and photographs of the item received.",
+        "We will review the discrepancy and explain the appropriate next steps.",
+        "Q48. Do I have to pay for return shipping?",
+        "Return shipping responsibilities depend on the reason for the return and the applicable policy.",
+        "For example, change-of-mind returns may be handled differently from verified incorrect, damaged, or defective product claims.",
+        "Please review our Return and Refund Policy for the applicable conditions.",
+        "Q49. Do you charge restocking fees?",
+        "Any applicable restocking fees or other return-related charges must be disclosed in our published Return and Refund Policy.",
+        "Contact customer support if you need clarification before requesting a return.",
+        "Q50. How long does a refund take?",
+        "Refund processing times depend on the applicable return process, approval status, and payment provider.",
+        "After a refund is initiated, your bank or payment provider may require additional time to make the funds available.",
+        "Refer to our Return and Refund Policy for the applicable timeline.",
+        "Q51. Will my refund go back to my original payment method?",
+        "Approved refunds are generally directed through the original payment method where supported.",
+        "The final refund process may depend on the payment provider and transaction circumstances.",
+        "Q52. Can I exchange a product?",
+        "Exchange availability depends on the product and applicable store policy.",
+        "Contact customer support to discuss the available options.",
+        "Q53. Can I return a product directly to your business address?",
+        "No product should be sent to our published business contact address without prior authorization.",
+        "Contact our support team for the correct return instructions and designated destination.",
+        "7. Warranty & Product Support",
+        "Q54. Do your electronics come with a warranty?",
+        "Warranty coverage varies by product and manufacturer.",
+        "Where applicable, product listings or accompanying documentation may identify available warranty terms.",
+        "Not every product necessarily includes the same warranty coverage.",
+        "Read Warranty & Product Support",
+        "Q55. How can I check whether a product has a warranty?",
+        "Review the product description, manufacturer documentation, and any applicable warranty information.",
+        "If the information is unclear, contact customer support with the product name or model number.",
+        "Q56. What should I do if my product stops working?",
+        "Contact customer support with your order number and a description of the issue.",
+        "Depending on the product and circumstances, return eligibility, manufacturer warranty terms, or other support options may apply.",
+        "Q57. Are you an authorized retailer for every brand you sell?",
+        "Authorization relationships vary by manufacturer and should not be assumed.",
+        "Unless a specific authorization is expressly stated and verifiable, the presence of a branded product on our website does not imply an official manufacturer partnership or endorsement.",
+        "Q58. Do you provide installation or technical repair services?",
+        "Installation and repair services should not be assumed to be included with a product purchase.",
+        "Review the product listing or contact support to determine whether any additional services are specifically available.",
+        "8. Account, Privacy & Website Assistance",
+        "Q59. How is my personal information used?",
+        "Personal information may be used to process orders, provide customer support, manage transactions, and operate our website.",
+        "For details about the information collected and how it is handled, review our Privacy Policy.",
+        "Privacy Policy",
+        "Q60. Do you share customer information with third parties?",
+        "Certain service providers may receive information necessary to support payment processing, order fulfillment, website operations, or other legitimate business activities.",
+        "Our Privacy Policy explains the applicable data-handling practices.",
+        "Q61. Does your website use cookies?",
+        "Our website may use cookies and similar technologies to support essential functionality, remember preferences, and provide other website features.",
+        "Review our Cookie Policy for additional information.",
+        "Cookie Policy",
+        "Q62. How can I request access to or deletion of my personal information?",
+        "You can contact info@lumeero.site with your privacy-related request.",
+        "Requests will be reviewed according to applicable law and our published privacy procedures.",
+        "Your Privacy Choices",
+        "Q63. What should I do if the website is not working correctly?",
+        "Try refreshing the page, checking your internet connection, or using an updated browser.",
+        "If the problem continues, contact our support team with a description of the issue and, if possible, a screenshot.",
+        "Q64. How can I report an accessibility issue?",
+        "If you experience difficulty using our website, please email info@lumeero.site.",
+        "Include the page URL and a description of the accessibility barrier so we can review the issue.",
+        "Accessibility Statement",
+        "9. Customer Service & Additional Assistance",
+        "Q65. What information should I provide when contacting support?",
+        "For order-related questions, please provide:",
+        "* Your order number",
+        "* The name associated with the order",
+        "* The email address used during checkout",
+        "* A brief explanation of your inquiry",
+        "For product-related concerns, include the relevant product name, model, or listing URL.",
+        "Q66. Can I contact support before purchasing?",
+        "Yes. Customers are welcome to contact us before placing an order.",
+        "Our team can assist with available product details, purchasing information, and general store policies.",
+        "Q67. What should I do if I haven't received a response?",
+        "If you have already contacted us, please allow time for your inquiry to be reviewed.",
+        "You can follow up through the same email thread or use our live chat for additional assistance.",
+        "Q68. How can I submit feedback about my shopping experience?",
+        "We welcome constructive feedback.",
+        "Send your comments or suggestions to info@lumeero.site, or use the contact form on our website.",
+        "Q69. Can I contact lumeero for business inquiries?",
+        "Yes. General business inquiries can be submitted through our published email address.",
+        "Email: info@lumeero.site",
+        "Q70. What should I do if my question isn't answered here?",
+        "Contact our support team through one of the following channels:",
+        "Live Chat: Available 24/7",
+        "Email: info@lumeero.site",
+        "Phone: +1 (505) 345-4232",
+        "Telephone Hours: Monday–Friday, 9:00 AM–5:00 PM Mountain Time (MT)",
+        "Contact Our Team",
         "Still Have Questions?",
-        "We're here to help you find the information you need.",
-        "Whether you're comparing appliances, checking an order, or requesting customer support, the DROVIIA team is available to assist.",
-        "Email: info@droviia.us",
-        "Phone: +1 (424) 329-0223",
-        "You can also visit our Contact Us page or use our 24/7 live chat.",
-        "DROVIIA — Everyday Essentials for Better Living."
+        "We're Here to Make Shopping Easier",
+        "At lumeero, we believe customers should have access to clear information and helpful support throughout their shopping experience.",
+        "Whether you're exploring our electronics catalog, checking an order, or requesting assistance after a purchase, our customer support channels are available to help.",
+        "Shop Electronics: https://lumeero.us/shop/",
+        "Contact Support: https://lumeero.us/contact-us/",
+        "Email: info@lumeero.site",
+        "Live Chat: Available 24/7",
+        "Business Information",
+        "Store Name: lumeero",
+        "Legal Business Name: Stone Canyon Leathers",
+        "Website: https://lumeero.us",
+        "Email: info@lumeero.site",
+        "Phone: +1 (505) 345-4232",
+        "Address: 6715 4th St NW, Los Ranchos De Albuquerque, NM 87107, United States",
+        "Business Hours: Monday–Friday, 9:00 AM–5:00 PM Mountain Time (MT)",
+        "Live Chat: 24/7",
+        "lumeero. Everyday Technology. A Simpler Way to Shop.",
+        "© 2026 lumeero. Operated by Stone Canyon Leathers. All rights reserved."
       ]
     },
     {
       "slug": "our-commitment",
       "title": "Our Commitment",
       "effectiveDate": "",
-      "tagline": "Your comfort. Our priority. Your confidence.",
+      "tagline": "Making Technology Shopping Simpler, Clearer, and More Convenient.",
       "intro": [
-        "Your Comfort. Our Priority. Your Confidence.",
-        "At DROVIIA, we believe online shopping should be simple, transparent, and convenient. Whether you're upgrading your home appliances, exploring heating and cooling solutions, or shopping for personal care essentials, you deserve clear information, dependable service, and a shopping experience you can feel confident about.",
-        "Operated by Modern Closet Spaces LLC, DROVIIA is committed to making home appliances and everyday essentials more accessible to customers across the United States.",
-        "Our commitment goes beyond offering products. It's about building lasting customer relationships through honest communication, responsible business practices, and attentive support."
+        "Making Technology Shopping Simpler, Clearer, and More Convenient.",
+        "At lumeero, we believe a great shopping experience begins with trust, transparency, and a genuine commitment to customer satisfaction."
       ],
-      "description": "Your Comfort. Our Priority. Your Confidence.",
-      "sections": [
-        {
-          "id": "quality-products-for-everyday-living",
-          "title": "1. Quality Products for Everyday Living",
-          "blocks": [
-            {
-              "type": "paragraph",
-              "text": "We understand that purchasing home appliances and electronics is an important decision."
-            },
-            {
-              "type": "paragraph",
-              "text": "From refrigerators and laundry appliances to air conditioners, heating equipment, and personal care devices, our goal is to offer a diverse selection of products that support your daily needs."
-            },
-            {
-              "type": "paragraph",
-              "text": "We are committed to:"
-            },
-            {
-              "type": "bullets",
-              "items": [
-                "Providing clear and informative product descriptions.",
-                "Displaying relevant specifications, features, and product details.",
-                "Helping customers compare products before making a purchase.",
-                "Communicating product availability and important purchasing information accurately.",
-                "Providing applicable warranty information when available."
-              ]
-            },
-            {
-              "type": "paragraph",
-              "text": "We believe every customer deserves the information needed to make an informed purchasing decision."
-            }
-          ]
-        },
-        {
-          "id": "fair-pricing-and-transparent-shopping",
-          "title": "2. Fair Pricing and Transparent Shopping",
-          "blocks": [
-            {
-              "type": "paragraph",
-              "text": "At DROVIIA, we believe a positive shopping experience begins with clarity."
-            },
-            {
-              "type": "paragraph",
-              "text": "We aim to offer competitive pricing while ensuring customers understand the costs associated with their purchases."
-            },
-            {
-              "type": "paragraph",
-              "text": "Our pricing commitment includes:"
-            },
-            {
-              "type": "bullets",
-              "items": [
-                "Clearly displayed product prices in U.S. dollars.",
-                "Applicable shipping charges presented before checkout.",
-                "Transparent promotional offers and discount conditions.",
-                "No undisclosed charges added after an order is placed.",
-                "Clear information about available payment options."
-              ]
-            },
-            {
-              "type": "paragraph",
-              "text": "Our focus is on delivering value through product selection, transparent pricing, and a convenient purchasing process."
-            }
-          ]
-        },
-        {
-          "id": "clear-shipping-and-delivery-information",
-          "title": "3. Clear Shipping and Delivery Information",
-          "blocks": [
-            {
-              "type": "paragraph",
-              "text": "We know how important it is to receive your order within a reasonable timeframe."
-            },
-            {
-              "type": "paragraph",
-              "text": "That's why we aim to communicate shipping information clearly, from order processing through delivery."
-            },
-            {
-              "type": "paragraph",
-              "text": "Our commitment includes:"
-            },
-            {
-              "type": "bullets",
-              "items": [
-                "Providing applicable shipping rates before purchase.",
-                "Communicating estimated processing and delivery timeframes.",
-                "Sending shipment confirmation and tracking information when available.",
-                "Assisting customers with delivery-related questions.",
-                "Notifying customers of significant fulfillment delays and explaining their available options."
-              ]
-            },
-            {
-              "type": "paragraph",
-              "text": "Delivery methods, charges, and estimated timelines may vary depending on the product's size, weight, destination, and shipping requirements."
-            },
-            {
-              "type": "paragraph",
-              "text": "For complete information, please review our Shipping & Delivery Policy."
-            }
-          ]
-        },
-        {
-          "id": "straightforward-returns-and-refunds",
-          "title": "4. Straightforward Returns and Refunds",
-          "blocks": [
-            {
-              "type": "paragraph",
-              "text": "We understand that circumstances can change and that products may occasionally arrive damaged, defective, or different from what was ordered."
-            },
-            {
-              "type": "paragraph",
-              "text": "Our goal is to make the return and refund process as clear and manageable as possible."
-            },
-            {
-              "type": "paragraph",
-              "text": "We are committed to:"
-            },
-            {
-              "type": "bullets",
-              "items": [
-                "Explaining product return eligibility and applicable exclusions.",
-                "Providing clear instructions for submitting return requests.",
-                "Reviewing damaged, defective, or incorrect-item claims fairly.",
-                "Communicating applicable return shipping charges and restocking fees.",
-                "Processing approved refunds according to our published policy.",
-                "Respecting applicable consumer protection rights."
-              ]
-            },
-            {
-              "type": "paragraph",
-              "text": "Return eligibility may differ by product type, condition, and the reason for the request. Certain appliances may also have special handling or return requirements."
-            },
-            {
-              "type": "paragraph",
-              "text": "For full details, please review our Return & Refund Policy."
-            }
-          ]
-        },
-        {
-          "id": "responsive-and-accessible-customer-support",
-          "title": "5. Responsive and Accessible Customer Support",
-          "blocks": [
-            {
-              "type": "paragraph",
-              "text": "Customer service is an essential part of the DROVIIA shopping experience."
-            },
-            {
-              "type": "paragraph",
-              "text": "Whether you have questions before purchasing or need assistance with an existing order, we want you to know how to reach us."
-            },
-            {
-              "type": "paragraph",
-              "text": "Our customer care team can assist with:"
-            },
-            {
-              "type": "bullets",
-              "items": [
-                "General product and availability inquiries.",
-                "Order confirmation and status questions.",
-                "Shipping and tracking assistance.",
-                "Return and refund requests.",
-                "Payment-related inquiries.",
-                "Product warranty and support information."
-              ]
-            },
-            {
-              "type": "paragraph",
-              "text": "Customer Support Hours: Monday–Friday, 9:00 AM–5:00 PM Pacific Time (PT)."
-            },
-            {
-              "type": "paragraph",
-              "text": "Live Chat Support: Available 24/7."
-            },
-            {
-              "type": "paragraph",
-              "text": "We aim to address customer inquiries professionally, respectfully, and with clear communication."
-            }
-          ]
-        },
-        {
-          "id": "responsible-and-secure-shopping",
-          "title": "6. Responsible and Secure Shopping",
-          "blocks": [
-            {
-              "type": "paragraph",
-              "text": "We recognize the importance of protecting customer information and providing a trustworthy online shopping environment."
-            },
-            {
-              "type": "paragraph",
-              "text": "DROVIIA is committed to responsible handling of personal information and transparent communication about how customer data is used."
-            },
-            {
-              "type": "paragraph",
-              "text": "Our priorities include:"
-            },
-            {
-              "type": "bullets",
-              "items": [
-                "Using appropriate safeguards to protect customer information.",
-                "Providing access to our Privacy Policy and Terms of Service.",
-                "Explaining how personal information may be collected and processed.",
-                "Supporting applicable customer privacy rights.",
-                "Offering payment methods through the checkout options available on our website."
-              ]
-            },
-            {
-              "type": "paragraph",
-              "text": "We encourage customers to review our Privacy Policy for additional information about our data practices."
-            }
-          ]
-        },
-        {
-          "id": "honest-communication-and-accountability",
-          "title": "7. Honest Communication and Accountability",
-          "blocks": [
-            {
-              "type": "paragraph",
-              "text": "Trust is earned through consistency, transparency, and responsible actions."
-            },
-            {
-              "type": "paragraph",
-              "text": "We believe customers should receive accurate information about the products they purchase and the services they can expect."
-            },
-            {
-              "type": "paragraph",
-              "text": "We are committed to:"
-            },
-            {
-              "type": "bullets",
-              "items": [
-                "Avoiding misleading product descriptions or unsupported claims.",
-                "Clearly communicating important product limitations and requirements.",
-                "Providing accurate information about shipping, returns, and warranties.",
-                "Addressing customer concerns fairly.",
-                "Improving our website and customer experience based on customer needs."
-              ]
-            },
-            {
-              "type": "paragraph",
-              "text": "If an issue arises, our priority is to understand the situation, explain the available options, and work toward an appropriate resolution."
-            }
-          ]
-        },
-        {
-          "id": "continuously-improving-your-shopping-experience",
-          "title": "8. Continuously Improving Your Shopping Experience",
-          "blocks": [
-            {
-              "type": "paragraph",
-              "text": "At DROVIIA, we believe there is always room to improve."
-            },
-            {
-              "type": "paragraph",
-              "text": "As our product selection and online shopping experience develop, we aim to make it easier for customers to discover products, compare options, and find the information they need."
-            },
-            {
-              "type": "paragraph",
-              "text": "Our ongoing priorities include improving website navigation, product information, mobile usability, order communication, and customer support accessibility."
-            },
-            {
-              "type": "paragraph",
-              "text": "We value customer feedback because it helps us identify opportunities to serve you better."
-            }
-          ]
-        },
-        {
-          "id": "the-droviia-promise",
-          "title": "The DROVIIA Promise",
-          "blocks": [
-            {
-              "type": "paragraph",
-              "text": "Your home deserves thoughtful choices. Your purchases deserve clear information. And your trust deserves our attention."
-            },
-            {
-              "type": "paragraph",
-              "text": "At DROVIIA, we strive to bring these principles together in every shopping experience."
-            },
-            {
-              "type": "paragraph",
-              "text": "Whether you're purchasing a small personal care appliance or investing in a major household upgrade, our commitment remains the same: clear information, transparent policies, and customer-focused service."
-            },
-            {
-              "type": "paragraph",
-              "text": "Thank you for choosing DROVIIA as part of your everyday living."
-            }
-          ]
-        },
-        {
-          "id": "we-re-here-to-help",
-          "title": "We're Here to Help",
-          "blocks": [
-            {
-              "type": "paragraph",
-              "text": "Have a question about a product, an order, or our store policies? Our customer care team is available to assist."
-            },
-            {
-              "type": "paragraph",
-              "text": "DROVIIA"
-            },
-            {
-              "type": "paragraph",
-              "text": "Operated by Modern Closet Spaces LLC"
-            },
-            {
-              "type": "paragraph",
-              "text": "Business Address:"
-            },
-            {
-              "type": "paragraph",
-              "text": "1320 W El Segundo Blvd Ste E"
-            },
-            {
-              "type": "paragraph",
-              "text": "Gardena, CA 90247, United States"
-            },
-            {
-              "type": "paragraph",
-              "text": "Email: info@droviia.us"
-            },
-            {
-              "type": "paragraph",
-              "text": "Phone: +1 (424) 329-0223"
-            },
-            {
-              "type": "paragraph",
-              "text": "Business Hours: Monday–Friday, 9:00 AM–5:00 PM PT"
-            },
-            {
-              "type": "paragraph",
-              "text": "Live Chat: Available 24/7"
-            },
-            {
-              "type": "paragraph",
-              "text": "Website: https://droviia.us"
-            },
-            {
-              "type": "paragraph",
-              "text": "DROVIIA — Everyday Essentials for Better Living."
-            }
-          ]
-        }
-      ],
+      "description": "At lumeero, we believe a great shopping experience begins with trust, transparency, and a genuine commitment to customer satisfaction.",
+      "sections": [],
       "lines": [
         "Our Commitment",
-        "Your Comfort. Our Priority. Your Confidence.",
-        "At DROVIIA, we believe online shopping should be simple, transparent, and convenient. Whether you're upgrading your home appliances, exploring heating and cooling solutions, or shopping for personal care essentials, you deserve clear information, dependable service, and a shopping experience you can feel confident about.",
-        "Operated by Modern Closet Spaces LLC, DROVIIA is committed to making home appliances and everyday essentials more accessible to customers across the United States.",
-        "Our commitment goes beyond offering products. It's about building lasting customer relationships through honest communication, responsible business practices, and attentive support.",
-        "1. Quality Products for Everyday Living",
-        "We understand that purchasing home appliances and electronics is an important decision.",
-        "From refrigerators and laundry appliances to air conditioners, heating equipment, and personal care devices, our goal is to offer a diverse selection of products that support your daily needs.",
-        "We are committed to:",
-        "* Providing clear and informative product descriptions.",
-        "* Displaying relevant specifications, features, and product details.",
-        "* Helping customers compare products before making a purchase.",
-        "* Communicating product availability and important purchasing information accurately.",
-        "* Providing applicable warranty information when available.",
-        "We believe every customer deserves the information needed to make an informed purchasing decision.",
-        "2. Fair Pricing and Transparent Shopping",
-        "At DROVIIA, we believe a positive shopping experience begins with clarity.",
-        "We aim to offer competitive pricing while ensuring customers understand the costs associated with their purchases.",
-        "Our pricing commitment includes:",
-        "* Clearly displayed product prices in U.S. dollars.",
-        "* Applicable shipping charges presented before checkout.",
-        "* Transparent promotional offers and discount conditions.",
-        "* No undisclosed charges added after an order is placed.",
-        "* Clear information about available payment options.",
-        "Our focus is on delivering value through product selection, transparent pricing, and a convenient purchasing process.",
-        "3. Clear Shipping and Delivery Information",
-        "We know how important it is to receive your order within a reasonable timeframe.",
-        "That's why we aim to communicate shipping information clearly, from order processing through delivery.",
+        "Your Confidence. Our Priority.",
+        "Making Technology Shopping Simpler, Clearer, and More Convenient.",
+        "At lumeero, we believe a great shopping experience begins with trust, transparency, and a genuine commitment to customer satisfaction.",
+        "Shopping for electronics should be exciting, not complicated. Whether you're upgrading your computer, exploring gaming technology, purchasing essential accessories, or discovering new electronics, you deserve a shopping experience that is straightforward and informative.",
+        "Operated by Stone Canyon Leathers, lumeero is committed to building an online electronics destination where customers can explore products, understand their options, and receive assistance throughout their shopping journey.",
+        "Our commitment is simple:",
+        "Provide clear information, create a convenient shopping experience, and treat every customer inquiry with care and professionalism.",
+        "1. Our Promise to Every Customer",
+        "We believe customer confidence is earned through consistent service, accurate information, and responsible business practices.",
+        "Our approach is guided by six principles:",
+        "Transparency",
+        "Providing understandable information about products, pricing, payments, shipping, and store policies.",
+        "Convenience",
+        "Creating a shopping experience that makes it easier to discover, compare, and purchase electronics.",
+        "Customer Support",
+        "Offering accessible communication channels for questions, order assistance, and product-related concerns.",
+        "Fairness",
+        "Applying our published policies consistently while respecting applicable consumer rights.",
+        "Responsibility",
+        "Reviewing customer concerns carefully and working toward appropriate solutions.",
+        "Continuous Improvement",
+        "Using customer feedback and operational experience to identify opportunities to improve our store.",
+        "These principles shape the experience we aim to provide at lumeero.",
+        "2. Clear and Honest Product Information",
+        "Know What You're Buying Before You Order",
+        "Electronics purchases often involve important technical considerations.",
+        "A computer component must be compatible with the intended system. A monitor should meet your display requirements. An adapter must support the correct connection type.",
+        "We understand how important these details can be.",
+        "That's why we aim to provide useful product information, including:",
+        "* Product names and identifying details",
+        "* Key specifications and features",
+        "* Available configurations and variations",
+        "* Compatibility information, where provided",
+        "* Product pricing",
+        "* Availability information",
+        "* Relevant manufacturer details",
+        "* Applicable warranty information",
+        "We encourage customers to review product descriptions carefully before completing a purchase.",
+        "If you have questions about a product, our customer support team is available to assist with the information we have.",
+        "Our goal is to help customers make informed purchasing decisions rather than rely on unclear or exaggerated claims.",
+        "3. Transparent Pricing and Checkout",
+        "Clear Costs. Informed Decisions.",
+        "We believe customers should understand the cost of their purchase before submitting an order.",
+        "At lumeero, we aim to provide a checkout experience where customers can review:",
+        "* Product prices",
+        "* Item quantities",
+        "* Applicable discounts",
+        "* Shipping charges, if any",
+        "* Applicable sales taxes",
+        "* Available payment methods",
+        "* Final order totals",
+        "All prices on our US storefront are displayed in United States Dollars (USD) unless otherwise stated.",
+        "Any applicable shipping charges, taxes, or other checkout costs should be disclosed before payment confirmation.",
+        "We do not believe customers should have to guess what they are paying for.",
+        "For details about accepted payment methods, please review our Payment Policy.",
+        "4. A Convenient Shopping Experience",
+        "Browse. Compare. Choose.",
+        "Technology shopping should feel organized and manageable.",
+        "We aim to make the lumeero website easy to navigate so customers can find products across relevant electronics categories.",
+        "Our shopping experience focuses on:",
+        "Organized Product Categories",
+        "Helping customers explore different types of electronics without unnecessary confusion.",
+        "Useful Product Descriptions",
+        "Presenting relevant product information to support purchasing decisions.",
+        "Straightforward Navigation",
+        "Making it easier to move between product categories, product pages, and customer information.",
+        "Accessible Support Information",
+        "Providing clear routes to contact our team when assistance is needed.",
+        "A Consistent Checkout Process",
+        "Helping customers review their orders before completing payment.",
+        "We continue to look for ways to improve the usability and clarity of our online store.",
+        "5. Shipping Information You Can Understand",
+        "Clear Expectations From Checkout to Delivery",
+        "We recognize that delivery information is an important part of every online purchase.",
+        "Customers should be able to understand where an order can be shipped, what delivery options are available, and what to expect after placing an order.",
+        "Our commitment is to provide accessible information about:",
+        "* Supported delivery destinations",
+        "* Shipping charges",
+        "* Order processing times",
+        "* Estimated delivery windows",
+        "* Tracking availability",
+        "* Delivery restrictions",
+        "* Delayed or missing shipments",
+        "Actual shipping costs and delivery estimates depend on our published Shipping Policy and the options presented during checkout.",
+        "We aim to communicate relevant updates when shipping issues arise.",
+        "Delivery estimates may be affected by carrier operations, weather, holidays, or other circumstances beyond our control.",
+        "Review Our Shipping & Delivery Policy",
+        "6. A Clear Return and Refund Process",
+        "Support When a Purchase Doesn't Go as Expected",
+        "We understand that a customer may occasionally need to return a product or request assistance with an order.",
+        "A product may arrive damaged, an incorrect item may be delivered, or a customer may need clarification about return eligibility.",
+        "We believe the return process should be understandable.",
         "Our commitment includes:",
-        "* Providing applicable shipping rates before purchase.",
-        "* Communicating estimated processing and delivery timeframes.",
-        "* Sending shipment confirmation and tracking information when available.",
-        "* Assisting customers with delivery-related questions.",
-        "* Notifying customers of significant fulfillment delays and explaining their available options.",
-        "Delivery methods, charges, and estimated timelines may vary depending on the product's size, weight, destination, and shipping requirements.",
-        "For complete information, please review our Shipping & Delivery Policy.",
-        "4. Straightforward Returns and Refunds",
-        "We understand that circumstances can change and that products may occasionally arrive damaged, defective, or different from what was ordered.",
-        "Our goal is to make the return and refund process as clear and manageable as possible.",
-        "We are committed to:",
-        "* Explaining product return eligibility and applicable exclusions.",
-        "* Providing clear instructions for submitting return requests.",
-        "* Reviewing damaged, defective, or incorrect-item claims fairly.",
-        "* Communicating applicable return shipping charges and restocking fees.",
-        "* Processing approved refunds according to our published policy.",
-        "* Respecting applicable consumer protection rights.",
-        "Return eligibility may differ by product type, condition, and the reason for the request. Certain appliances may also have special handling or return requirements.",
-        "For full details, please review our Return & Refund Policy.",
-        "5. Responsive and Accessible Customer Support",
-        "Customer service is an essential part of the DROVIIA shopping experience.",
-        "Whether you have questions before purchasing or need assistance with an existing order, we want you to know how to reach us.",
-        "Our customer care team can assist with:",
-        "* General product and availability inquiries.",
-        "* Order confirmation and status questions.",
-        "* Shipping and tracking assistance.",
-        "* Return and refund requests.",
-        "* Payment-related inquiries.",
-        "* Product warranty and support information.",
-        "Customer Support Hours: Monday–Friday, 9:00 AM–5:00 PM Pacific Time (PT).",
-        "Live Chat Support: Available 24/7.",
-        "We aim to address customer inquiries professionally, respectfully, and with clear communication.",
-        "6. Responsible and Secure Shopping",
-        "We recognize the importance of protecting customer information and providing a trustworthy online shopping environment.",
-        "DROVIIA is committed to responsible handling of personal information and transparent communication about how customer data is used.",
-        "Our priorities include:",
-        "* Using appropriate safeguards to protect customer information.",
-        "* Providing access to our Privacy Policy and Terms of Service.",
-        "* Explaining how personal information may be collected and processed.",
-        "* Supporting applicable customer privacy rights.",
-        "* Offering payment methods through the checkout options available on our website.",
-        "We encourage customers to review our Privacy Policy for additional information about our data practices.",
-        "7. Honest Communication and Accountability",
-        "Trust is earned through consistency, transparency, and responsible actions.",
-        "We believe customers should receive accurate information about the products they purchase and the services they can expect.",
-        "We are committed to:",
-        "* Avoiding misleading product descriptions or unsupported claims.",
-        "* Clearly communicating important product limitations and requirements.",
-        "* Providing accurate information about shipping, returns, and warranties.",
-        "* Addressing customer concerns fairly.",
-        "* Improving our website and customer experience based on customer needs.",
-        "If an issue arises, our priority is to understand the situation, explain the available options, and work toward an appropriate resolution.",
-        "8. Continuously Improving Your Shopping Experience",
-        "At DROVIIA, we believe there is always room to improve.",
-        "As our product selection and online shopping experience develop, we aim to make it easier for customers to discover products, compare options, and find the information they need.",
-        "Our ongoing priorities include improving website navigation, product information, mobile usability, order communication, and customer support accessibility.",
-        "We value customer feedback because it helps us identify opportunities to serve you better.",
-        "The DROVIIA Promise",
-        "Your home deserves thoughtful choices. Your purchases deserve clear information. And your trust deserves our attention.",
-        "At DROVIIA, we strive to bring these principles together in every shopping experience.",
-        "Whether you're purchasing a small personal care appliance or investing in a major household upgrade, our commitment remains the same: clear information, transparent policies, and customer-focused service.",
-        "Thank you for choosing DROVIIA as part of your everyday living.",
-        "We're Here to Help",
-        "Have a question about a product, an order, or our store policies? Our customer care team is available to assist.",
-        "DROVIIA",
-        "Operated by Modern Closet Spaces LLC",
-        "Business Address:",
-        "1320 W El Segundo Blvd Ste E",
-        "Gardena, CA 90247, United States",
-        "Email: info@droviia.us",
-        "Phone: +1 (424) 329-0223",
-        "Business Hours: Monday–Friday, 9:00 AM–5:00 PM PT",
+        "* Clearly explaining return eligibility requirements.",
+        "* Making return instructions accessible.",
+        "* Providing a way to contact support before sending an item back.",
+        "* Reviewing damaged, defective, or incorrect product reports.",
+        "* Communicating applicable return shipping responsibilities.",
+        "* Explaining how approved refunds are processed.",
+        "* Respecting applicable consumer protection laws.",
+        "Return windows, product-condition requirements, fees, and refund timelines are governed by our published policy.",
+        "We do not promise that every item is returnable in every circumstance.",
+        "Read Our Returns & Refunds Policy",
+        "7. Accessible Customer Support",
+        "Assistance When You Need It",
+        "We believe customer service should remain accessible before, during, and after a purchase.",
+        "Whether you need help understanding a product, checking an order, or requesting assistance with a delivery, our support channels provide a way to contact us.",
+        "Our Customer Support Channels",
+        "24/7 Live Chat",
+        "Our live chat channel is available around the clock for customer inquiries.",
+        "Email Support",
+        "Reach us at info@lumeero.site for product questions, order concerns, or general assistance.",
+        "Telephone Support",
+        "Call +1 (505) 345-4232 during our published business hours.",
+        "Business Hours",
+        "Monday–Friday, 9:00 AM–5:00 PM Mountain Time (MT).",
+        "Some requests may require additional investigation or coordination, so immediate resolution cannot be guaranteed.",
+        "We aim to communicate clearly and help customers understand the next steps.",
+        "Contact Our Support Team",
+        "8. Support Beyond the Purchase",
+        "Our Responsibility Doesn't End at Checkout",
+        "We recognize that customers may need assistance after an order is placed.",
+        "Our support team can help review inquiries involving:",
+        "* Order confirmation",
+        "* Order status",
+        "* Shipping and tracking information",
+        "* Delivery concerns",
+        "* Incorrect or damaged products",
+        "* Return requests",
+        "* Cancellation requests",
+        "* Refund status",
+        "* Product support",
+        "* Applicable warranty information",
+        "Our goal is to provide clear guidance and direct customers to the appropriate process.",
+        "Visit Our Order Help Center",
+        "9. Responsible Payment Practices",
+        "Flexible Choices With Clear Terms",
+        "We understand that customers may prefer different ways to pay for their purchases.",
+        "Where available, payment methods are displayed during checkout.",
+        "If Buy Now, Pay Later or installment financing services are offered, eligibility and repayment terms are determined by the relevant payment provider.",
+        "Customers should review any applicable:",
+        "* Payment schedules",
+        "* Financing charges",
+        "* Interest rates",
+        "* Late-payment fees",
+        "* Eligibility conditions",
+        "* Refund adjustment procedures",
+        "We encourage customers to select payment options they understand and can manage responsibly.",
+        "We do not guarantee financing approval, interest-free payments, or the availability of any particular provider.",
+        "Learn About Payment Options",
+        "10. Product Quality and Warranty Transparency",
+        "Understanding Product Support",
+        "We believe customers should have access to relevant information about the products they purchase.",
+        "Where applicable, individual product listings may include details about product condition, manufacturer information, and warranty coverage.",
+        "Warranty availability and terms can vary by product.",
+        "Some products may be covered by manufacturer warranties, while others may have different support arrangements.",
+        "We do not promise a universal warranty period across every product.",
+        "Our goal is to help customers understand available support options and how to request assistance when a product concern arises.",
+        "Explore Warranty & Product Support",
+        "11. Respect for Your Privacy",
+        "Your Personal Information Matters",
+        "Online shopping involves sharing certain information necessary to complete transactions and provide customer support.",
+        "This may include:",
+        "* Name and contact details",
+        "* Shipping and billing information",
+        "* Order information",
+        "* Customer service communications",
+        "* Certain website interaction data",
+        "We recognize the importance of handling personal information responsibly.",
+        "Our commitment includes explaining how customer information may be collected, used, retained, and shared in accordance with our published Privacy Policy and applicable law.",
+        "Payment transactions may involve independent payment service providers with their own privacy practices.",
+        "We encourage customers to review our privacy disclosures and available privacy choices.",
+        "Read Our Privacy Policy",
+        "12. Accountability When Something Goes Wrong",
+        "Every Concern Deserves Attention",
+        "Even with careful planning, unexpected issues can arise during online shopping.",
+        "Orders may experience delays, payment processing issues may occur, or products may arrive with unexpected problems.",
+        "When customers contact us about a concern, we aim to follow a structured approach.",
+        "Step 1 - Understand the Concern",
+        "Review the customer's explanation and relevant order information.",
+        "Step 2 - Verify the Details",
+        "Examine available records, product information, and supporting documentation.",
+        "Step 3 - Explain Available Options",
+        "Provide information about applicable policies and potential resolutions.",
+        "Step 4 - Coordinate Next Steps",
+        "Work with relevant internal processes or service providers where necessary.",
+        "Step 5 - Communicate the Outcome",
+        "Explain the result and any additional actions the customer may need to take.",
+        "The appropriate resolution depends on the facts, applicable policies, and legal requirements.",
+        "We believe accountability means taking concerns seriously and communicating with customers professionally.",
+        "13. A Commitment to Accessibility",
+        "Technology Shopping Should Be Easier for Everyone",
+        "We want lumeero to be usable by customers with different needs and abilities.",
+        "Our accessibility goals include:",
+        "* Clear website navigation",
+        "* Readable content",
+        "* Understandable forms",
+        "* Logical page structures",
+        "* Appropriate text contrast",
+        "* Improved keyboard navigation",
+        "* Compatibility with assistive technologies where practical",
+        "Accessibility is an ongoing process, and some features may require further improvements.",
+        "We welcome reports of accessibility barriers and encourage customers to contact us if they need assistance accessing website information.",
+        "Read Our Accessibility Statement",
+        "14. Customer Feedback Helps Us Improve",
+        "We believe meaningful improvements often begin by listening to customers.",
+        "Feedback can help us identify opportunities to improve:",
+        "* Product descriptions",
+        "* Website navigation",
+        "* Checkout clarity",
+        "* Customer support information",
+        "* Order communication",
+        "* Help center resources",
+        "* Overall shopping convenience",
+        "Whether you have a suggestion, question, or concern, we welcome the opportunity to review your feedback.",
+        "Email: info@lumeero.site",
+        "Share Your Feedback",
+        "15. Our Values",
+        "Integrity",
+        "We aim to provide information that is accurate, understandable, and not misleading.",
+        "Transparency",
+        "We believe customers should be able to review important purchasing terms before completing an order.",
+        "Customer Focus",
+        "We aim to consider the customer experience when improving our store and support processes.",
+        "Responsibility",
+        "We believe customer concerns should be reviewed thoughtfully and handled according to applicable policies and laws.",
+        "Accessibility",
+        "We aim to make our website and customer information easier to use and understand.",
+        "Continuous Improvement",
+        "We recognize that building a better shopping experience requires ongoing attention and refinement.",
+        "16. Building a Better Shopping Experience",
+        "Technology continues to evolve, and customer expectations change alongside it.",
+        "As lumeero develops, we intend to keep improving how customers discover products, understand their options, and access support.",
+        "Our long-term focus is on:",
+        "* Clearer product information",
+        "* Easier website navigation",
+        "* More convenient product discovery",
+        "* Transparent purchasing information",
+        "* Accessible customer assistance",
+        "* Responsible handling of customer concerns",
+        "We believe a strong online shopping experience is built through consistent attention to the details that matter to customers.",
+        "17. Helpful Customer Resources",
+        "Explore additional information about shopping with lumeero:",
+        "* About Us",
+        "* Shop All Electronics",
+        "* Contact Us",
+        "* Frequently Asked Questions",
+        "* Shipping & Delivery",
+        "* Returns & Refunds",
+        "* Order Cancellations",
+        "* Payment Options",
+        "* Warranty & Product Support",
+        "* Order Help Center",
+        "* Privacy Policy",
+        "18. Contact lumeero",
+        "Have questions about our products, policies, or your shopping experience?",
+        "Our team is available through the following contact channels.",
+        "Store Name: lumeero",
+        "Legal Business Name: Stone Canyon Leathers",
+        "Website: https://lumeero.us",
+        "Email: info@lumeero.site",
+        "Phone: +1 (505) 345-4232",
+        "Business Address: 6715 4th St NW, Los Ranchos De Albuquerque, NM 87107, United States",
+        "Business Hours: Monday–Friday, 9:00 AM–5:00 PM Mountain Time (MT)",
         "Live Chat: Available 24/7",
-        "Website: https://droviia.us",
-        "DROVIIA — Everyday Essentials for Better Living."
+        "The business address is provided for business correspondence and should not be used for product returns unless an authorized return destination is confirmed.",
+        "Our Commitment Is to Your Experience",
+        "At lumeero, we believe shopping for electronics should be built around clear information, convenient choices, and accessible support.",
+        "From the moment you begin exploring our catalog to the time you need assistance with an order, our goal is to make the process easier to understand and navigate.",
+        "Your Confidence. Our Priority.",
+        "lumeero. Everyday Technology. A Simpler Way to Shop.",
+        "© 2026 lumeero. Operated by Stone Canyon Leathers. All rights reserved."
       ]
     }
   ]

@@ -37,7 +37,11 @@ function relativeLuminance(hex: string): number {
 }
 
 function contrastForeground(hex: string): string {
-  return relativeLuminance(hex) > 0.45 ? "#0b1220" : "#ffffff";
+  const luminance = relativeLuminance(hex);
+  const white = 1.05 / (luminance + 0.05);
+  const ink = relativeLuminance("#14161C");
+  const dark = (luminance + 0.05) / (ink + 0.05);
+  return white >= dark ? "#ffffff" : "#14161C";
 }
 
 function fontStack(font: string, fallback: string): string {

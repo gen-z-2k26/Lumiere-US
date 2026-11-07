@@ -1,8 +1,8 @@
 {
-  "id": "droviia",
-  "name": "DROVIIA",
-  "tagline": "Everyday essentials for better living",
-  "logo": "/brand/droviia-logo-dark.png",
+  "id": "lumeero",
+  "name": "lumeero",
+  "tagline": "Technology made simple. Shopping made better.",
+  "logo": "/brand/lumeero-logo-dark.png",
   "currency": "",
   "currencySymbol": "",
   "currencyPrefix": "",
@@ -12,88 +12,170 @@
   "decimalSeparator": ".",
   "locale": "en-US",
   "contact": {
-    "email": "info@droviia.us",
-    "phone": "+1 (424) 329-0223",
-    "address": "1320 W El Segundo Blvd Ste E, Gardena, CA 90247, United States",
-    "openingHours": "Mon-Fri, 9:00 AM-5:00 PM PT",
-    "legalName": "Modern Closet Spaces LLC",
+    "email": "info@lumeero.site",
+    "phone": "+1 (505) 345-4232",
+    "address": "6715 4th St NW, Los Ranchos De Albuquerque, NM 87107, United States",
+    "openingHours": "Mon-Fri, 9:00 AM-5:00 PM MT",
+    "legalName": "Stone Canyon Leathers",
     "vatNumber": ""
   },
   "promoBanner": "",
   "promoId": "",
   "promoCoupon": "",
   "hero": {
-    "headline": "Comfort, convenience, and the essentials for home",
-    "support": "Kitchen appliances, climate control, and personal care, with prices, shipping, and support you can review before you buy."
+    "headline": "Everyday technology. A simpler way to shop.",
+    "support": "Computers, gaming gear, and everyday electronics, with clear prices, free standard shipping on eligible orders, and support when you need it."
   },
   "navigation": {
     "header": [
-      { "label": "Home", "href": "/" },
-      { "label": "Shop", "href": "/products" },
-      { "label": "About", "href": "/about-us" },
-      { "label": "FAQs", "href": "/faqs" },
-      { "label": "Contact", "href": "/contact-us" }
+      {
+        "label": "Home",
+        "href": "/"
+      },
+      {
+        "label": "Shop",
+        "href": "/products"
+      },
+      {
+        "label": "About",
+        "href": "/about-us"
+      },
+      {
+        "label": "FAQs",
+        "href": "/faqs"
+      },
+      {
+        "label": "Contact",
+        "href": "/contact-us"
+      }
     ],
     "footerColumns": [
       {
-        "title": "Quick Links",
+        "title": "Discover Lumeero",
         "slug": "footer-discover",
         "links": [
-          { "label": "Home", "href": "/" },
-          { "label": "Shop All", "href": "/products" },
-          { "label": "Reviews", "href": "/reviews" },
-          { "label": "Categories", "href": "/products" },
-          { "label": "About Us", "href": "/about-us" },
-          { "label": "Our Commitment", "href": "/our-commitment" },
-          { "label": "Contact Us", "href": "/contact-us" }
+          {
+            "label": "Home",
+            "href": "/"
+          },
+          {
+            "label": "Shop All Electronics",
+            "href": "/products"
+          },
+          {
+            "label": "Reviews",
+            "href": "/reviews"
+          },
+          {
+            "label": "Categories",
+            "href": "/products"
+          },
+          {
+            "label": "About Us",
+            "href": "/about-us"
+          },
+          {
+            "label": "Our Commitment",
+            "href": "/our-commitment"
+          },
+          {
+            "label": "Contact Us",
+            "href": "/contact-us"
+          },
+          {
+            "label": "FAQs",
+            "href": "/faqs"
+          }
         ]
       },
       {
         "title": "Customer Care",
         "slug": "footer-customer-care",
         "links": [
-          { "label": "FAQs", "href": "/faqs" },
-          { "label": "Shipping", "href": "/shipping-policy" },
-          { "label": "Returns", "href": "/return-and-refund-policy" },
-          { "label": "Cancellations", "href": "/cancellation-policy" },
-          { "label": "Order Tracking", "href": "/track-your-order" },
-          { "label": "Payments", "href": "/payment-policy" },
-          { "label": "Warranty", "href": "/warranty" },
-          { "label": "Order Help", "href": "/order-help-center" }
+          {
+            "label": "Shipping & Delivery",
+            "href": "/shipping-policy"
+          },
+          {
+            "label": "Returns & Refunds",
+            "href": "/return-and-refund-policy"
+          },
+          {
+            "label": "Order Cancellations",
+            "href": "/cancellation-policy"
+          },
+          {
+            "label": "Payment Options",
+            "href": "/payment-policy"
+          },
+          {
+            "label": "Buy Now, Pay Later",
+            "href": "/buy-now-pay-later"
+          },
+          {
+            "label": "Warranty & Support",
+            "href": "/warranty"
+          },
+          {
+            "label": "Track Your Order",
+            "href": "/track-your-order"
+          },
+          {
+            "label": "Order Help Center",
+            "href": "/order-help-center"
+          }
         ]
       },
       {
-        "title": "Legal & Policies",
+        "title": "Trust & Transparency",
         "slug": "footer-trust",
         "links": [
-          { "label": "Privacy", "href": "/privacy-policy" },
-          { "label": "Terms", "href": "/terms-of-service" },
-          { "label": "Cookies", "href": "/cookie-policy" },
-          { "label": "Legal Notice", "href": "/legal-notice" },
-          { "label": "Accessibility", "href": "/accessibility-statement" },
-          { "label": "Privacy Choices", "href": "/your-privacy-choices" }
+          {
+            "label": "Privacy Policy",
+            "href": "/privacy-policy"
+          },
+          {
+            "label": "Terms of Service",
+            "href": "/terms-of-service"
+          },
+          {
+            "label": "Cookie Policy",
+            "href": "/cookie-policy"
+          },
+          {
+            "label": "Legal Notice",
+            "href": "/legal-notice"
+          },
+          {
+            "label": "Accessibility Statement",
+            "href": "/accessibility-statement"
+          },
+          {
+            "label": "Your Privacy Choices",
+            "href": "/your-privacy-choices"
+          }
         ]
       }
     ]
   },
   "footer": {
-    "blurb": "Everyday essentials for a more comfortable home.",
+    "blurb": "Technology made simple. Shopping made better.",
     "trustLine": "",
-    "contactTitle": "Customer Support",
-    "chatLine": "24/7 Live Chat"
+    "contactTitle": "Business Information",
+    "chatLine": "Live Chat: 24/7"
   },
   "seo": {
-    "title": "DROVIIA | Home appliances and everyday essentials",
-    "description": "Shop home appliances, heating and cooling, and personal care at DROVIIA. Operated by Modern Closet Spaces LLC in Gardena, California.",
+    "title": "lumeero | Electronics, components, and gaming gear",
+    "description": "Shop computers, components, gaming gear, and electronics accessories at lumeero. Operated by Stone Canyon Leathers in Los Ranchos De Albuquerque, New Mexico.",
     "keywords": [
-      "DROVIIA",
-      "home appliances",
-      "kitchen appliances",
-      "air conditioners",
-      "personal care"
+      "lumeero",
+      "electronics",
+      "computer components",
+      "graphics cards",
+      "gaming accessories"
     ],
-    "ogImage": "/brand/droviia-logo-dark.png",
-    "siteUrl": "https://droviia.us"
+    "ogImage": "/brand/lumeero-logo-dark.png",
+    "siteUrl": "https://lumeero.us"
   },
   "theme": {
     "font": "var(--font-figtree)",
@@ -102,24 +184,24 @@
     "defaultMode": "system",
     "motion": "subtle",
     "light": {
-      "primary": "#9DCFB0",
-      "accent": "#3E6B52",
+      "primary": "#FA7401",
+      "accent": "#BC5701",
       "background": "#FFFFFF",
-      "foreground": "#1C2420",
-      "card": "#F4F7F2",
-      "muted": "#E7F0EA",
-      "mutedForeground": "#5C6B62",
-      "border": "rgba(28, 36, 32, 0.12)"
+      "foreground": "#14161C",
+      "card": "#F7F6F4",
+      "muted": "#F1EEEA",
+      "mutedForeground": "#5E6168",
+      "border": "rgba(20, 22, 28, 0.12)"
     },
     "dark": {
-      "primary": "#9DCFB0",
-      "accent": "#B7DCC4",
-      "background": "#101613",
-      "foreground": "#F3F7F2",
-      "card": "#1A2420",
-      "muted": "#24302A",
-      "mutedForeground": "#A8B7AE",
-      "border": "rgba(243, 247, 242, 0.12)"
+      "primary": "#FA7401",
+      "accent": "#FA7401",
+      "background": "#121318",
+      "foreground": "#E9EAED",
+      "card": "#1C1E26",
+      "muted": "#262833",
+      "mutedForeground": "#A4A6AD",
+      "border": "rgba(233, 234, 237, 0.12)"
     }
   },
   "productPage": {
@@ -140,8 +222,8 @@
       {
         "reviewer": "Amina K.",
         "rating": 5,
-        "title": "Better than the photos",
-        "content": "Packaging was careful and the item looked even better in person. Checkout was quick and tracking updates were clear.",
+        "title": "Clear listing, careful pack",
+        "content": "The component matched the listing and arrived packed so the box was intact. Checkout showed the total before I paid.",
         "date": "2026-09-18",
         "verified": true,
         "location": "California, USA"
@@ -150,7 +232,7 @@
         "reviewer": "James R.",
         "rating": 5,
         "title": "Would order again",
-        "content": "Arrived on time and matched the description. The whole process from cart to delivery felt straightforward.",
+        "content": "Arrived on time and matched the description. Tracking updates were easy to follow from cart to delivery.",
         "date": "2026-09-02",
         "verified": true,
         "location": "Texas, USA"
@@ -158,8 +240,8 @@
       {
         "reviewer": "Sofia M.",
         "rating": 4,
-        "title": "Great value",
-        "content": "Solid quality for the price. Support answered my question the same day, which made the purchase easy.",
+        "title": "Good value on the part I needed",
+        "content": "Solid value for the price. Support answered a compatibility question the same day, which made the purchase easy.",
         "date": "2026-08-21",
         "verified": true,
         "location": "New York, USA"
@@ -167,8 +249,8 @@
       {
         "reviewer": "Daniel P.",
         "rating": 5,
-        "title": "Well made and well packed",
-        "content": "Easy to buy, clear tracking, and the product feels well made. I would shop here again without hesitation.",
+        "title": "Well packed electronics",
+        "content": "Easy to buy, clear tracking, and the product was packed securely. I would shop here again for another upgrade.",
         "date": "2026-08-09",
         "verified": true,
         "location": "Florida, USA"
@@ -176,8 +258,8 @@
       {
         "reviewer": "Priya S.",
         "rating": 5,
-        "title": "Exactly as described",
-        "content": "Exactly what I needed. The photos were accurate and shipping was smooth from start to finish.",
+        "title": "Specs matched the page",
+        "content": "Exactly the accessory I needed. The photos and specifications were accurate, and shipping was smooth.",
         "date": "2026-07-28",
         "verified": true,
         "location": "Illinois, USA"
@@ -185,8 +267,8 @@
       {
         "reviewer": "Noah L.",
         "rating": 4,
-        "title": "Happy overall",
-        "content": "Happy with the purchase. Quality is good. Delivery took a little longer than I hoped, but the item was worth the wait.",
+        "title": "Happy with the upgrade",
+        "content": "Happy with the purchase. Delivery took a little longer than I hoped, but the item was worth the wait.",
         "date": "2026-07-14",
         "verified": true,
         "location": "Washington, USA"
@@ -194,8 +276,8 @@
       {
         "reviewer": "Elena V.",
         "rating": 5,
-        "title": "Perfect as a gift",
-        "content": "Gifted this and they loved it. Simple process from cart to door, and the packaging looked ready to give.",
+        "title": "Easy gift to send",
+        "content": "Bought this as a gift. The path from cart to door was simple, and the packaging looked ready to hand over.",
         "date": "2026-06-30",
         "verified": true,
         "location": "Colorado, USA"
@@ -203,8 +285,8 @@
       {
         "reviewer": "Omar H.",
         "rating": 5,
-        "title": "Clean store, fair prices",
-        "content": "Clean store, fair prices, and the item was packed securely. No surprises, which is what I want from an online order.",
+        "title": "Straightforward electronics order",
+        "content": "Fair price, secure packaging, and no surprise fees at checkout. That is what I want when ordering gear online.",
         "date": "2026-06-11",
         "verified": true,
         "location": "Georgia, USA"
@@ -212,8 +294,8 @@
       {
         "reviewer": "Maya T.",
         "rating": 5,
-        "title": "Fast and careful shipping",
-        "content": "Ordered in the evening and had tracking the next morning. Everything arrived undamaged and ready to use.",
+        "title": "Tracking the next morning",
+        "content": "Ordered in the evening and had tracking the next morning. Everything arrived undamaged and ready to set up.",
         "date": "2026-05-22",
         "verified": true,
         "location": "Arizona, USA"
@@ -222,7 +304,7 @@
         "reviewer": "Chris B.",
         "rating": 4,
         "title": "Would recommend",
-        "content": "Good quality and a fair price. The site was easy to use. I would recommend it to a friend.",
+        "content": "Good quality and a fair price. The site was easy to use, and I would recommend it to a friend building a setup.",
         "date": "2026-05-04",
         "verified": true,
         "location": "Ohio, USA"
@@ -230,8 +312,8 @@
       {
         "reviewer": "Lina W.",
         "rating": 3,
-        "title": "Fine, not perfect",
-        "content": "The item is fine and does the job. Sizing notes on the page could be a bit clearer, but support helped quickly.",
+        "title": "Fine once I checked compatibility",
+        "content": "The item does the job. Compatibility notes on the page could be a bit clearer, but support helped quickly.",
         "date": "2026-04-16",
         "verified": true,
         "location": "Massachusetts, USA"
@@ -240,7 +322,7 @@
         "reviewer": "Theo A.",
         "rating": 5,
         "title": "Smooth checkout",
-        "content": "Checkout was simple, the total was clear before I paid, and the order showed up when promised.",
+        "content": "Checkout was simple, the total was clear before I paid, and the order showed up when the estimate said it would.",
         "date": "2026-03-29",
         "verified": true,
         "location": "Oregon, USA"

@@ -22,7 +22,7 @@ export const POLICY_PAGES: PolicyPageDef[] = [
   {
     slug: "shipping-policy",
     title: "Shipping & Delivery",
-    description: "Free standard shipping, processing times, and delivery estimates for DROVIIA.",
+    description: "Free standard shipping, processing times, and delivery estimates for lumeero.",
     intro:
       "Eligible domestic orders receive free standard shipping, with no minimum purchase requirement.",
     groupTitles: ["Shipping and delivery"],
@@ -46,7 +46,7 @@ export const POLICY_PAGES: PolicyPageDef[] = [
   {
     slug: "payment-policy",
     title: "Payment Options",
-    description: "Checkout methods, currency, tax, and payment security at DROVIIA.",
+    description: "Checkout methods, currency, tax, and payment security at lumeero.",
     intro:
       "Prices and checkout payments are displayed in United States Dollars (USD). The methods shown at checkout are the options available for your purchase.",
     groupTitles: ["Payments and checkout"],
@@ -71,17 +71,17 @@ export const POLICY_PAGES: PolicyPageDef[] = [
     slug: "privacy-policy",
     title: "Privacy Policy",
     description:
-      "How DROVIIA collects, uses, and shares information when you shop with us.",
+      "How lumeero collects, uses, and shares information when you shop with us.",
     intro:
-      "This policy explains how DROVIIA, operated by Modern Closet Spaces LLC, handles information when you browse the store, place an order, or contact support.",
+      "This policy explains how lumeero, operated by Stone Canyon Leathers, handles information when you browse the store, place an order, or contact support.",
     groupTitles: [],
     designed: true,
     sections: [
       {
         title: "Who we are",
         paragraphs: [
-          "DROVIIA is an online store operated by Modern Closet Spaces LLC. Our business correspondence address is 1320 W El Segundo Blvd Ste E, Gardena, CA 90247, United States. That address is not a retail showroom or an authorized return location.",
-          "Questions about this policy can be sent to info@droviia.us or +1 (424) 329-0223. Live chat is available 24/7. Phone support hours are Monday-Friday, 9:00 AM-5:00 PM Pacific Time.",
+          "lumeero is an online store operated by Stone Canyon Leathers. Our business correspondence address is 6715 4th St NW, Los Ranchos De Albuquerque, NM 87107, United States. That address is not a retail showroom or an authorized return location.",
+          "Questions about this policy can be sent to info@lumeero.site or +1 (505) 345-4232. Live chat is available 24/7. Phone support hours are Monday-Friday, 9:00 AM-5:00 PM Mountain Time.",
         ],
       },
       {
@@ -131,7 +131,7 @@ export const POLICY_PAGES: PolicyPageDef[] = [
       {
         title: "Your privacy choices",
         paragraphs: [
-          "You may contact info@droviia.us with a privacy-related request, including access, correction, or deletion where applicable law provides those rights. We will review the request and respond according to the laws that apply to your situation.",
+          "You may contact info@lumeero.site with a privacy-related request, including access, correction, or deletion where applicable law provides those rights. We will review the request and respond according to the laws that apply to your situation.",
           "California residents and other US shoppers can also visit the Your Privacy Choices page on this site.",
         ],
       },
@@ -141,7 +141,7 @@ export const POLICY_PAGES: PolicyPageDef[] = [
     slug: "terms-of-service",
     title: "Terms of Service",
     description:
-      "The purchasing, shipping, return, and payment terms that apply when you shop at DROVIIA.",
+      "The purchasing, shipping, return, and payment terms that apply when you shop at lumeero.",
     intro:
       "By browsing this store or placing an order you agree to the terms published here, together with our shipping, return, payment, and privacy pages.",
     groupTitles: [],
@@ -150,7 +150,7 @@ export const POLICY_PAGES: PolicyPageDef[] = [
       {
         title: "The store",
         paragraphs: [
-          "DROVIIA is a US-focused online electronics store operated by Modern Closet Spaces LLC. We currently fulfill eligible orders to addresses within the United States. We do not operate a public retail showroom.",
+          "lumeero is a US-focused online electronics store operated by Stone Canyon Leathers. We currently fulfill eligible orders to addresses within the United States. We do not operate a public retail showroom.",
         ],
       },
       {
@@ -170,7 +170,7 @@ export const POLICY_PAGES: PolicyPageDef[] = [
       {
         title: "Shipping",
         paragraphs: [
-          "Eligible domestic orders receive free standard shipping, with no minimum purchase requirement. Typical processing is 1-2 business days, followed by an estimated 3-7 business days in transit, for a total of about 4-9 business days. The order cut-off is 4:00 PM Pacific Time.",
+          "Eligible domestic orders receive free standard shipping, with no minimum purchase requirement. Typical processing is 1-2 business days, followed by an estimated 3-7 business days in transit, for a total of about 4-9 business days. The order cut-off is 4:00 PM Mountain Time.",
           "Delivery estimates can change because of carrier conditions, holidays, weather, or other events outside our control.",
         ],
       },
@@ -178,7 +178,7 @@ export const POLICY_PAGES: PolicyPageDef[] = [
         title: "Returns and refunds",
         paragraphs: [
           "Eligible products may be returned within 30 calendar days. Approved returns have a $0 restocking fee. For change-of-mind returns, customers generally cover return shipping and must meet the product-condition requirements described on our returns page.",
-          "Do not send products to our Madison business address unless our team specifically authorizes that destination. Contact support first so we can provide the correct return instructions. Approved refunds are typically processed within 10 business days after receipt, inspection, and approval, using the original payment method.",
+          "Do not send products to our business address unless our team specifically authorizes that destination. Contact support first so we can provide the correct return instructions. Approved refunds are typically processed within 10 business days after receipt, inspection, and approval, using the original payment method.",
         ],
       },
       {
@@ -191,13 +191,13 @@ export const POLICY_PAGES: PolicyPageDef[] = [
       {
         title: "Limitation of liability",
         paragraphs: [
-          "To the fullest extent permitted by law, Modern Closet Spaces LLC and DROVIIA are not liable for indirect, incidental, or consequential damages arising from your use of the site or from products purchased through it. Nothing in these terms limits rights you have under applicable consumer law.",
+          "To the fullest extent permitted by law, Stone Canyon Leathers and lumeero are not liable for indirect, incidental, or consequential damages arising from your use of the site or from products purchased through it. Nothing in these terms limits rights you have under applicable consumer law.",
         ],
       },
       {
         title: "Contact",
         paragraphs: [
-          "Email info@droviia.us, call +1 (424) 329-0223, or use live chat, available 24/7. Business hours are Monday-Friday, 9:00 AM-5:00 PM Pacific Time.",
+          "Email info@lumeero.site, call +1 (505) 345-4232, or use live chat, available 24/7. Business hours are Monday-Friday, 9:00 AM-5:00 PM Mountain Time.",
         ],
       },
     ],
@@ -205,7 +205,7 @@ export const POLICY_PAGES: PolicyPageDef[] = [
   {
     slug: "cookie-policy",
     title: "Cookie Policy",
-    description: "How cookies are used on the DROVIIA storefront.",
+    description: "How cookies are used on the lumeero storefront.",
     intro:
       "Essential cookies may support shopping carts, checkout, security, and other website functions. Additional cookies depend on the services enabled.",
     groupTitles: ["Accounts, privacy, and security"],
@@ -213,20 +213,20 @@ export const POLICY_PAGES: PolicyPageDef[] = [
   {
     slug: "legal-notice",
     title: "Legal Notice",
-    description: "Business identity and correspondence address for DROVIIA.",
+    description: "Business identity and correspondence address for lumeero.",
     intro:
-      "DROVIIA is operated by Modern Closet Spaces LLC.",
+      "lumeero is operated by Stone Canyon Leathers.",
     groupTitles: ["General questions"],
     paragraphs: [
-      "Business address: 1320 W El Segundo Blvd Ste E, Gardena, CA 90247, United States. This address is for business correspondence and is not a retail showroom or an authorized return location.",
-      "Website: https://droviia.us. Email: info@droviia.us. Phone: +1 (424) 329-0223.",
+      "Business address: 6715 4th St NW, Los Ranchos De Albuquerque, NM 87107, United States. This address is for business correspondence and is not a retail showroom or an authorized return location.",
+      "Website: https://lumeero.us. Email: info@lumeero.site. Phone: +1 (505) 345-4232.",
     ],
   },
   {
     slug: "accessibility-statement",
     title: "Accessibility Statement",
     description:
-      "How we aim to keep the DROVIIA store easier to navigate, and how to ask for help.",
+      "How we aim to keep the lumeero store easier to navigate, and how to ask for help.",
     intro:
       "We want our website and shopping information to be easier for customers to navigate and understand. This statement describes that aim and how to reach us if a page, listing, or checkout step is difficult to use.",
     groupTitles: [],
@@ -235,7 +235,7 @@ export const POLICY_PAGES: PolicyPageDef[] = [
       {
         title: "Our commitment",
         paragraphs: [
-          "DROVIIA, operated by Modern Closet Spaces LLC, is working to keep product information, policies, and checkout steps clearer over time. We treat accessibility as an ongoing effort, not a one-time audit claim.",
+          "lumeero, operated by Stone Canyon Leathers, is working to keep product information, policies, and checkout steps clearer over time. We treat accessibility as an ongoing effort, not a one-time audit claim.",
         ],
       },
       {
@@ -259,8 +259,8 @@ export const POLICY_PAGES: PolicyPageDef[] = [
       {
         title: "Request assistance",
         paragraphs: [
-          "If you have trouble using a page, product listing, or checkout step, email info@droviia.us or call +1 (424) 329-0223. Tell us the page you were on and what you were trying to do. We will help you complete your request.",
-          "Live chat is available 24/7. Phone support hours are Monday-Friday, 9:00 AM-5:00 PM Pacific Time. Our business address is 1320 W El Segundo Blvd Ste E, Gardena, CA 90247, United States, for correspondence only.",
+          "If you have trouble using a page, product listing, or checkout step, email info@lumeero.site or call +1 (505) 345-4232. Tell us the page you were on and what you were trying to do. We will help you complete your request.",
+          "Live chat is available 24/7. Phone support hours are Monday-Friday, 9:00 AM-5:00 PM Mountain Time. Our business address is 6715 4th St NW, Los Ranchos De Albuquerque, NM 87107, United States, for correspondence only.",
         ],
       },
     ],
@@ -268,9 +268,9 @@ export const POLICY_PAGES: PolicyPageDef[] = [
   {
     slug: "your-privacy-choices",
     title: "Your Privacy Choices",
-    description: "How to ask about personal data used for your DROVIIA orders.",
+    description: "How to ask about personal data used for your lumeero orders.",
     intro:
-      "You may contact info@droviia.us with a privacy-related request. Applicable rights depend on relevant privacy laws.",
+      "You may contact info@lumeero.site with a privacy-related request. Applicable rights depend on relevant privacy laws.",
     groupTitles: ["Accounts, privacy, and security"],
   },
 ];

@@ -1,718 +1,480 @@
 {
   "about": {
-    "eyebrow": "About DROVIIA",
-    "title": "Technology for Everyday Living. Confidence in Every Purchase.",
-    "intro": "At DROVIIA, we believe technology should make life easier, more connected, and more enjoyable. From electronics that support your everyday routine to accessories that enhance your home, work, and entertainment, our goal is to make shopping for technology simple, convenient, and accessible.",
-    "body": "Operated by Modern Closet Spaces LLC, DROVIIA is a US-focused online electronics store built around a straightforward idea: great technology deserves a better shopping experience. We bring together product information, flexible payment options, free standard shipping, and accessible customer support to help you shop with greater confidence.",
-    "image": "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "eyebrow": "About lumeero",
+    "title": "Everyday Technology. A Simpler Way to Shop.",
+    "intro": "At lumeero, we believe shopping for electronics should be straightforward, convenient, and enjoyable.",
+    "body": "Operated by Stone Canyon Leathers, lumeero is a US-based online electronics store focused on helping customers discover products, compare their options, and shop with greater confidence.",
+    "image": "/brand/footer-image.jpg",
     "values": [
       {
-        "title": "Transparency",
-        "text": "Customers deserve clear information about products, prices, payments, shipping, and returns."
+        "title": "Clarity",
+        "text": "We aim to present product information, pricing, and purchasing details in a way customers can easily understand."
       },
       {
-        "title": "Customer focus",
-        "text": "We aim to make every stage of the shopping journey easier to understand and navigate."
+        "title": "Convenience",
+        "text": "From browsing and comparing products to completing checkout, we want the shopping process to feel simple and organized."
       },
       {
-        "title": "Accessibility",
-        "text": "Useful technology and convenient purchasing options should be available to more customers."
-      },
-      {
-        "title": "Continuous improvement",
-        "text": "We strive to improve our product selection, website experience, and support processes over time."
-      },
-      {
-        "title": "Accountability",
-        "text": "When you contact us with a concern, we review it carefully, communicate clearly, and work toward an appropriate resolution."
+        "title": "Customer support",
+        "text": "We believe customers should have a clear way to ask questions, request assistance, and find information about their orders."
       }
     ],
     "sections": [
       {
-        "title": "Our story",
+        "title": "Discover technology that fits your life",
         "paragraphs": [
-          "Built around a better way to shop. Technology is constantly evolving. New devices, smarter accessories, and innovative solutions are changing how people live and work. Finding the right product should not feel complicated.",
-          "DROVIIA was created to offer a more straightforward online shopping experience, one where customers can explore electronics, compare features, understand their options, and make informed purchasing decisions.",
-          "A good electronics store should offer more than a product catalog. It should provide clarity, convenience, and dependable support throughout the customer journey. That is the experience we are working to build at DROVIIA."
-        ]
-      },
-      {
-        "title": "What we offer",
-        "paragraphs": [
-          "Our store focuses on electronics, electronic accessories, and technology-related products designed to support modern lifestyles. Whether you are upgrading your setup, discovering useful technology, or shopping for something that makes everyday tasks more convenient, we aim to help you find products that suit your needs.",
-          "As our product selection evolves, our commitment to a clear and dependable shopping experience remains the same."
+          "Technology plays an important role in how we work, connect, create, learn, and enjoy entertainment.",
+          "Whether you're upgrading your computer, improving your gaming setup, exploring new electronics, or replacing an essential accessory, our online catalog is designed to help you find products that suit your needs."
         ],
         "bullets": [
-          "Product discovery: Clear product listings that help you explore features and specifications.",
-          "Everyday convenience: A shopping experience designed to be simple from browsing to checkout.",
-          "Flexible payments: Access to eligible Buy Now, Pay Later options.",
-          "Delivery transparency: Published shipping timelines and free standard domestic shipping.",
-          "Customer support: Help with product questions, orders, deliveries, and returns."
+          "Computers & Components: Explore computing hardware, memory, and essential upgrades.",
+          "Graphics Cards: Discover graphics solutions for gaming, productivity, and creative applications.",
+          "Gaming Consoles & Accessories: Browse gaming hardware and related accessories.",
+          "Computer Monitors: Find displays for work, entertainment, and everyday computing.",
+          "3D Printers: Explore technology for creative projects, prototyping, and personal fabrication.",
+          "I/O Cards & Adapters: Find connectivity solutions and computer expansion accessories.",
+          "Audio & Electronics: Discover products designed for entertainment and everyday use.",
+          "Power Adapters & Chargers: Explore accessories that help keep compatible devices connected and powered."
         ]
       },
       {
         "title": "Our mission",
         "paragraphs": [
-          "To make technology shopping more accessible, transparent, and convenient for customers across the United States.",
-          "We work toward this mission by focusing on three essentials: useful product information, a straightforward purchasing process, and responsive customer assistance. We want customers to feel informed before ordering, supported while their order is on its way, and confident about the options available if something does not go as expected."
-        ]
-      },
-      {
-        "title": "Our vision",
-        "paragraphs": [
-          "To become a trusted destination for electronics and accessories by putting clarity, convenience, and customer experience at the center of online shopping.",
-          "We see DROVIIA as more than a place to purchase products. Our vision is to create a shopping destination where technology feels approachable, product choices are easier to understand, and customers know where to turn when they need help."
-        ]
-      },
-      {
-        "title": "Why shop with DROVIIA?",
-        "items": [
-          {
-            "title": "Free standard shipping",
-            "text": "Enjoy free standard shipping on eligible orders within the United States, with no minimum purchase requirement. Typical processing is 1-2 business days, followed by an estimated 3-7 business days in transit."
-          },
-          {
-            "title": "Flexible ways to pay",
-            "text": "Eligible Buy Now, Pay Later options include Afterpay as a primary payment service. Affirm, PayPal, or card payments may be available depending on checkout configuration and provider eligibility."
-          },
-          {
-            "title": "A clear 30-day return policy",
-            "text": "We offer a 30-calendar-day return window for eligible products, along with a $0 restocking fee on approved returns."
-          },
-          {
-            "title": "Customer support when you need it",
-            "text": "24/7 live chat is a convenient way to reach out. Our customer support team is also available through email and phone."
-          },
-          {
-            "title": "Transparent shopping information",
-            "text": "We publish information about product specifications, shipping timelines, payment options, return conditions, and store policies so you can make informed decisions."
-          }
-        ]
-      },
-      {
-        "title": "A shopping experience designed around you",
-        "paragraphs": [
-          "From the moment you begin browsing to the day your order arrives, we want the process to feel straightforward. Discover. Choose. Order. Enjoy.",
-          "Explore product information, select your preferred available payment method, and follow your shipment with carrier tracking information. If you need assistance, our customer support team is here to help with questions about your order or the next steps for an eligible return."
-        ]
-      },
-      {
-        "title": "Proudly serving customers across the United States",
-        "paragraphs": [
-          "DROVIIA is operated under Modern Closet Spaces LLC, with a business address in Gardena, California. Our online store focuses on serving eligible delivery addresses throughout the United States.",
-          "Whether you are shopping for everyday electronics or exploring your next technology upgrade, we aim to make the experience convenient wherever you are located within our supported delivery area."
+          "Our mission is to provide a convenient online shopping destination where customers can explore electronics with the information they need to make informed purchasing decisions."
         ]
       }
     ],
-    "ctaTitle": "Your next technology discovery starts here",
-    "ctaBody": "Whether you are looking for something practical, exploring new electronics, or upgrading the technology you use every day, DROVIIA is here to make the shopping experience simpler. Explore technology. Shop with confidence. Experience DROVIIA."
+    "ctaTitle": "Let's find the right technology for you",
+    "ctaBody": "Whether you're exploring computer upgrades, gaming equipment, electronics accessories, or new technology for everyday use, lumeero is here to help make your shopping journey simpler."
   },
   "contact": {
     "eyebrow": "Contact us",
-    "title": "We're here to help",
-    "intro": "Welcome to DROVIIA. Whether you have a question about a product, need assistance with an existing order, or want to learn more about our shipping, payment, and return policies, our customer support team is here to help. We believe great customer service is an essential part of a great shopping experience.",
+    "title": "We're Here to Help",
+    "intro": "At lumeero, we believe great customer service begins with clear communication and accessible support.",
     "channels": [
       {
         "title": "Email support",
-        "detail": "info@droviia.us",
-        "text": "For product inquiries, order updates, returns, refunds, payment questions, and general customer assistance."
+        "detail": "info@lumeero.site",
+        "text": "Send product, order, shipping, return, and payment questions to info@lumeero.site."
       },
       {
         "title": "Phone support",
-        "detail": "+1 (424) 329-0223",
-        "text": "Business hours: Monday-Friday, 9:00 AM-5:00 PM Pacific Time (PT)."
+        "detail": "+1 (505) 345-4232",
+        "text": "Business hours: Monday-Friday, 9:00 AM-5:00 PM Mountain Time (MT)."
       },
       {
         "title": "24/7 live chat",
         "detail": "Available 24 hours a day, 7 days a week",
-        "text": "Need help outside regular business hours? Use the chat option on our website to start a conversation whenever you need assistance."
+        "text": "Our live chat channel is available around the clock for customer inquiries."
       }
     ],
-    "businessNote": "Our listed address is a business contact address, not a designated customer returns facility. Do not send products to this address without prior authorization.",
+    "businessNote": "Our published business address is not automatically a retail pickup or product return location.",
     "helpTopics": [
       {
-        "title": "Product questions",
-        "text": "Need more information before making a purchase? Contact us for assistance understanding product features, specifications, compatibility information, or available options."
+        "title": "Product information",
+        "text": "Looking for a specific electronic product or comparing different options? Our team can assist with available product information."
       },
       {
         "title": "Order status and tracking",
-        "text": "Already placed an order? Our team can help you review your order status, locate available tracking information, and investigate delivery concerns. Please include your order number when contacting us."
+        "text": "Already placed an order? Contact us with your order number and we can help you review status and tracking."
       },
       {
         "title": "Shipping and delivery",
-        "text": "We offer free standard shipping on eligible domestic orders, with an estimated total delivery timeframe of 4-9 business days."
+        "text": "Shipping availability and timelines are governed by our published policy and the information provided during checkout."
       },
       {
         "title": "Returns and refunds",
-        "text": "We offer a 30-calendar-day return window and no restocking fees on approved returns. Please contact us before sending any item back so we can provide the correct return instructions."
-      },
-      {
-        "title": "Payment and Buy Now, Pay Later",
-        "text": "Afterpay is one of our primary payment services. Affirm and other payment options may also be available, depending on eligibility and the options displayed at checkout. For installment schedules, financing approvals, or payment collection questions, please contact the relevant financing provider."
+        "text": "Please contact us before shipping any item back. We can explain eligibility, instructions, and refund timing."
       }
     ],
-    "formNote": "Have a question or need assistance? Use this form or email us directly. Please provide as much relevant information as possible so our team can understand your request.",
-    "securityNote": "For your security, do not include passwords, full payment card numbers, card security codes, or other sensitive financial credentials in your message.",
     "hours": [
-      { "channel": "Live chat", "availability": "24/7" },
-      { "channel": "Email", "availability": "info@droviia.us" },
-      { "channel": "Phone", "availability": "Monday-Friday, 9 AM-5 PM PT" },
-      { "channel": "Business office hours", "availability": "Monday-Friday, 9 AM-5 PM PT" }
-    ],
-    "faqs": [
       {
-        "question": "How can I track my order?",
-        "answer": "Once your order ships, tracking information will typically be sent to your email address. You can use the tracking details to monitor delivery progress."
+        "channel": "Live chat",
+        "availability": "24/7"
       },
       {
-        "question": "Do you offer free shipping?",
-        "answer": "Yes. We offer free standard shipping on eligible orders within our supported United States delivery area, with no minimum order requirement."
+        "channel": "Phone",
+        "availability": "Monday-Friday, 9:00 AM-5:00 PM MT"
       },
       {
-        "question": "Can I cancel my order?",
-        "answer": "You may request cancellation before your order enters fulfillment. Please contact us immediately so we can review its status."
-      },
-      {
-        "question": "How do I request a return?",
-        "answer": "Email info@droviia.us or contact our live chat within the applicable return window. Our team will review your request and provide return instructions."
-      },
-      {
-        "question": "Can I visit your business address to return an item?",
-        "answer": "Our listed address is for business correspondence. Returns must be authorized and sent to the designated return location provided by our support team."
-      },
-      {
-        "question": "Which payment methods do you accept?",
-        "answer": "Afterpay is a primary payment option. Other methods, including Affirm, PayPal, or card payments, may be available. The checkout page displays the payment methods currently supported for your purchase."
+        "channel": "Email",
+        "availability": "info@lumeero.site"
       }
     ]
   },
   "commitment": {
     "eyebrow": "Our commitment",
-    "title": "Better technology. Clearer choices. A shopping experience built around you.",
-    "intro": "At DROVIIA, we believe purchasing technology should be simple, transparent, and convenient. Every product you explore, every order you place, and every question you ask matters to us.",
-    "body": "Operated by Modern Closet Spaces LLC, DROVIIA is committed to creating an online shopping experience where customers can make informed decisions, understand their purchasing options, and access support when they need it. Our commitment goes beyond offering electronics and accessories. It is about building customer confidence through clear information, straightforward policies, and a consistent focus on service. Because great technology deserves a shopping experience you can feel confident about.",
+    "title": "Making Technology Shopping Simpler, Clearer, and More Convenient.",
+    "intro": "At lumeero, we believe a great shopping experience begins with trust, transparency, and a genuine commitment to customer satisfaction.",
+    "body": "Your Confidence. Our Priority.",
     "sections": [
       {
-        "title": "1. Our promise to you",
+        "title": "1. Our Promise to Every Customer",
         "paragraphs": [
-          "We believe a positive shopping experience begins with transparency and continues through delivery and after-sales support. Our commitments are built around six principles. These principles guide how we aim to serve our customers every day."
-        ],
-        "bullets": [
-          "Transparency: Clear information about products, pricing, shipping, and policies.",
-          "Convenience: A straightforward online shopping experience.",
-          "Payment flexibility: Eligible installment payment options.",
-          "Customer support: Accessible assistance throughout the purchasing journey.",
-          "Fair returns: Clearly explained return and refund procedures.",
-          "Continuous improvement: Ongoing attention to the quality of our customer experience."
+          "We believe customer confidence is earned through consistent service, accurate information, and responsible business practices."
         ]
       },
       {
-        "title": "2. Transparency at every step",
+        "title": "Customer Support",
         "paragraphs": [
-          "Know what you are buying. Electronics can involve important purchasing decisions. Product specifications, compatibility, features, and intended uses can influence whether a product is right for you. We aim to present useful product information that helps customers understand their options before ordering.",
-          "We encourage every customer to review product descriptions, specifications, and compatibility requirements carefully. If something is unclear, our support team is available to assist with questions before you purchase.",
-          "Clear pricing and checkout information: product prices are displayed in United States Dollars (USD), with applicable taxes and final order totals presented during checkout. Where financing is available, the payment provider will disclose the relevant repayment terms before you accept a financing agreement."
+          "Offering accessible communication channels for questions, order assistance, and product-related concerns."
         ]
       },
       {
-        "title": "3. Free shipping without a minimum purchase",
+        "title": "Responsibility",
         "paragraphs": [
-          "Eligible domestic orders receive free standard shipping, with no minimum purchase requirement.",
-          "Standard shipping cost: free. Minimum order requirement: none. Order processing: 1-2 business days. Estimated transit: 3-7 business days. Estimated total delivery: 4-9 business days. Order cut-off: 4:00 PM Pacific Time.",
-          "Delivery estimates may vary because of carrier conditions, holidays, weather, or other circumstances outside our control. We aim to communicate shipping expectations clearly so customers can plan accordingly."
+          "Reviewing customer concerns carefully and working toward appropriate solutions."
         ]
       },
       {
-        "title": "4. Flexible payment options",
+        "title": "Continuous Improvement",
         "paragraphs": [
-          "DROVIIA offers eligible Buy Now, Pay Later services, with Afterpay as one of our primary payment options. Other payment methods, including Affirm, PayPal, and supported card payments, may be available depending on checkout configuration and provider eligibility.",
-          "Financing approval, installment schedules, interest rates, and fees are determined by the financing provider. Customers should always review the full repayment terms before selecting a financing option."
+          "Using customer feedback and operational experience to identify opportunities to improve our store."
         ]
       },
       {
-        "title": "5. A clear and fair return experience",
+        "title": "Know What You're Buying Before You Order",
         "paragraphs": [
-          "We understand that sometimes a product may not meet your expectations or an order may arrive with an issue. That is why we provide a clearly documented return process.",
-          "For change-of-mind returns, customers generally cover the return shipping cost and must meet the applicable product-condition requirements. Approved refunds for returned products are typically processed within 10 business days after receipt, inspection, and approval."
-        ],
-        "bullets": [
-          "A 30-calendar-day return window for eligible products.",
-          "A $0.00 restocking fee.",
-          "Prepaid return shipping for verified damaged, defective, or incorrect products when a return is required.",
-          "Clear return instructions through our support team.",
-          "Approved refunds processed through the original payment method."
+          "Electronics purchases often involve important technical considerations."
         ]
       },
       {
-        "title": "6. Support beyond checkout",
+        "title": "Organized Product Categories",
         "paragraphs": [
-          "We believe customer service should remain accessible after an order has been placed. Whether you are checking an order, asking about a product, or requesting return assistance, our team is available through multiple contact channels.",
-          "Live chat is available 24/7. Email info@droviia.us. Phone +1 (424) 329-0223. Business hours Monday-Friday, 9:00 AM-5:00 PM Pacific Time. Response times and resolution requirements may vary depending on the issue."
-        ]
-      },
-      {
-        "title": "7. Honest product and warranty information",
-        "paragraphs": [
-          "Some products may include manufacturer warranty coverage, while others may have different terms or no manufacturer warranty. We do not promise a universal warranty period across every product.",
-          "Instead, we aim to help customers identify applicable product-specific coverage and available claim procedures. For products that arrive damaged, defective, or incorrect, customers may also qualify for assistance under our return and refund policy."
-        ]
-      },
-      {
-        "title": "8. Respect for your privacy",
-        "paragraphs": [
-          "When you shop online, you may share information such as your name, email address, shipping details, and order information. We recognize the importance of handling this information responsibly. Payments are handled through participating third-party payment providers."
-        ],
-        "bullets": [
-          "Processing orders",
-          "Arranging delivery",
-          "Providing customer assistance",
-          "Supporting secure checkout",
-          "Maintaining website functionality",
-          "Meeting applicable legal obligations"
-        ]
-      },
-      {
-        "title": "9. Responsible and informed shopping",
-        "paragraphs": [
-          "We want customers to make purchasing decisions that suit their needs. Buy Now, Pay Later services can offer flexibility, but they also create financial commitments. We encourage customers to select payment arrangements they understand and can manage responsibly. Our goal is not simply to help customers complete a purchase, but to support informed choices."
-        ],
-        "bullets": [
-          "Product specifications and compatibility",
-          "Total purchase costs",
-          "Shipping estimates",
-          "Warranty availability",
-          "Return eligibility",
-          "Financing terms and repayment obligations"
-        ]
-      },
-      {
-        "title": "10. Accountability when things go wrong",
-        "paragraphs": [
-          "Even with careful processes, unexpected issues can occur. An order may be delayed, a product may arrive damaged, or a customer may need additional assistance. Resolutions depend on the circumstances, applicable policies, and legal requirements. We believe accountability means addressing concerns thoughtfully rather than leaving customers uncertain about what happens next."
-        ],
-        "bullets": [
-          "Review the customer's information and order details.",
-          "Understand the issue and any supporting documentation.",
-          "Explain the applicable policy or available options.",
-          "Coordinate appropriate next steps.",
-          "Communicate the outcome as clearly as possible."
-        ]
-      },
-      {
-        "title": "11. Continuously improving the DROVIIA experience",
-        "paragraphs": [
-          "Technology evolves, and so do customer expectations. We aim to keep improving how customers discover products, navigate our website, complete checkout, and receive support. We believe trust is built through consistent effort and clear communication."
-        ],
-        "items": [
-          {
-            "title": "Shopping experience",
-            "text": "Making product discovery and website navigation more convenient."
-          },
-          {
-            "title": "Product information",
-            "text": "Improving clarity around specifications, features, and compatibility."
-          },
-          {
-            "title": "Customer communication",
-            "text": "Providing understandable information about orders, delivery, and policies."
-          },
-          {
-            "title": "Payment convenience",
-            "text": "Maintaining appropriate payment choices as provider availability changes."
-          },
-          {
-            "title": "Support experience",
-            "text": "Learning from customer questions and concerns to identify areas for improvement."
-          }
-        ]
-      },
-      {
-        "title": "12. The values that guide us",
-        "items": [
-          {
-            "title": "Customer focus",
-            "text": "We aim to consider the customer's experience in the decisions we make."
-          },
-          {
-            "title": "Integrity",
-            "text": "We believe information should be accurate, understandable, and not misleading."
-          },
-          {
-            "title": "Transparency",
-            "text": "We aim to explain important purchasing conditions before customers commit to an order."
-          },
-          {
-            "title": "Responsibility",
-            "text": "We take customer concerns seriously and seek appropriate resolutions."
-          },
-          {
-            "title": "Accessibility",
-            "text": "We want our website and shopping information to be easier for customers to navigate and understand."
-          },
-          {
-            "title": "Progress",
-            "text": "We recognize that improvement is an ongoing process and that customer feedback can help us identify opportunities to do better."
-          }
-        ]
-      },
-      {
-        "title": "13. Your feedback matters",
-        "paragraphs": [
-          "We welcome questions, suggestions, and constructive feedback about your shopping experience. Whether you have an idea for improving our website, need clarification about a product, or want to share a concern, you can contact our team. Customer feedback can help us understand what is working and where improvement may be needed.",
-          "Email: info@droviia.us. Phone: +1 (424) 329-0223. Live chat: available 24/7."
-        ]
-      },
-      {
-        "title": "14. Our commitment to the future",
-        "paragraphs": [
-          "We want DROVIIA to become a shopping destination customers associate with clarity, convenience, and helpful service. We understand that customer trust must be earned through actions and consistency. That is the standard we aim to work toward."
-        ],
-        "bullets": [
-          "Useful technology",
-          "Transparent product information",
-          "Straightforward purchasing",
-          "Accessible support",
-          "Clear customer policies",
-          "Responsible business practices"
+          "Helping customers explore different types of electronics without unnecessary confusion."
         ]
       }
     ],
-    "ctaTitle": "More than electronics. A commitment to your experience.",
-    "ctaBody": "At DROVIIA, our commitment is simple: make technology easier to discover, purchasing easier to understand, and customer support easier to access. We appreciate the opportunity to be part of your technology shopping journey."
+    "ctaTitle": "Your confidence. Our priority.",
+    "ctaBody": "Provide clear information, create a convenient shopping experience, and treat every customer inquiry with care and professionalism."
   },
   "faq": {
-    "eyebrow": "Help Center",
-    "title": "Everything you need to know about shopping at DROVIIA",
-    "intro": "We've answered common questions about our products, orders, shipping, payments, Buy Now Pay Later options, returns, refunds, and warranty support. Can't find what you're looking for? Email info@droviia.us, call +1 (424) 329-0223, or use live chat, available 24/7.",
+    "eyebrow": "FAQs",
+    "title": "Frequently Asked Questions (FAQs)",
+    "intro": "Find answers to common questions about shopping, products, payments, shipping, order tracking, returns, refunds, and customer support.",
     "groups": [
       {
-        "title": "General questions",
+        "title": "1. General Questions About lumeero",
         "items": [
           {
-            "question": "What is DROVIIA?",
-            "answer": "DROVIIA is an online store offering electronics, electronic accessories, and technology-related products to customers across our supported delivery areas in the United States. Our store is operated by Modern Closet Spaces LLC."
+            "question": "What is lumeero?",
+            "answer": "lumeero is a US-based online electronics store offering a selection of technology products, computer components, gaming equipment, and electronic accessories. Our goal is to make shopping for electronics more convenient by providing organized product categories, useful product information, and accessible customer support."
           },
           {
-            "question": "Where is DROVIIA located?",
-            "answer": "Our business address is 1320 W El Segundo Blvd Ste E, Gardena, CA 90247, United States. We operate an online shopping website at https://droviia.us. Our business address should not be treated as a retail showroom or an authorized return location."
+            "question": "What is the legal business name behind lumeero?",
+            "answer": "lumeero operates under the legal business name Stone Canyon Leathers. Our published business contact address is: 6715 4th St NW Los Ranchos De Albuquerque, NM 87107 United States"
           },
           {
-            "question": "Do you have a physical store?",
-            "answer": "DROVIIA operates as an online store. We do not currently advertise a public retail showroom or in-person shopping service."
+            "question": "Where is lumeero located?",
+            "answer": "Our business contact address is located in Los Ranchos De Albuquerque, New Mexico, United States. Our store operates online through https://lumeero.us. Our published business address is not automatically a retail pickup or product return location."
           },
           {
-            "question": "Is DROVIIA available to customers outside the USA?",
-            "answer": "No. We currently focus on orders delivered to eligible addresses within the United States."
+            "question": "Is lumeero an online store?",
+            "answer": "Yes. lumeero operates as an online electronics shopping destination. Customers can browse available products, review specifications, and place orders through our website."
           },
           {
-            "question": "How can I contact customer support?",
-            "answer": "You can reach us through email, phone, or our website's live chat. Email: info@droviia.us. Phone: +1 (424) 329-0223. Live chat: available 24/7. Business hours: Monday-Friday, 9 AM-5 PM Pacific Time."
+            "question": "What types of products does lumeero sell?",
+            "answer": "Our electronics catalog may include: Computers and computer components Graphics cards Gaming consoles and accessories Computer monitors 3D printers Computer memory and storage accessories I/O cards and adapters Audio equipment Chargers and power adapters Other electronic devices and accessories Product categories and availability may change."
+          },
+          {
+            "question": "How can I contact lumeero?",
+            "answer": "You can contact us through: Email: info@lumeero.site Phone: +1 (505) 345-4232 Live Chat: Available 24/7 Our regular telephone business hours are Monday–Friday, 9:00 AM–5:00 PM Mountain Time. Contact Us"
+          },
+          {
+            "question": "What are your customer service hours?",
+            "answer": "Our live chat channel is available 24 hours a day, 7 days a week. Our regular telephone business hours are Monday through Friday, 9:00 AM to 5:00 PM Mountain Time (MT). Email inquiries can be submitted at any time."
+          },
+          {
+            "question": "Can I visit your business address to purchase products?",
+            "answer": "lumeero operates as an online store. We do not advertise walk-in shopping or in-person pickup through our published business address. Please contact customer support before making any plans involving our business location."
           }
         ]
       },
       {
-        "title": "Products and availability",
+        "title": "2. Products, Pricing & Availability",
         "items": [
           {
-            "question": "What types of products do you sell?",
-            "answer": "We offer electronics, accessories, and technology-related products. Browse our website to see our current product selection."
+            "question": "Are the products listed on your website available for purchase?",
+            "answer": "Products shown as available can generally be added to your cart and submitted for purchase. However, inventory information can occasionally change or require verification. If an ordered product becomes unavailable, we will review the situation and communicate the available options, including a refund where applicable."
           },
           {
-            "question": "Are your products new?",
-            "answer": "Product condition should be identified on the relevant product listing. Unless a listing expressly identifies an item as refurbished, open-box, or otherwise, contact support if the condition is unclear before ordering."
+            "question": "Are your electronics brand new?",
+            "answer": "Product condition should be identified on the individual product listing. Where a product is described as New, it is represented as new according to the listing details. If a product is refurbished, open-box, or otherwise not new, its condition should be disclosed before purchase. Please review the individual product description or contact our support team if you need clarification."
           },
           {
-            "question": "How do I know whether a product is in stock?",
-            "answer": "Product availability is generally displayed on the product page. Availability may change before an order is confirmed."
+            "question": "Are your products genuine?",
+            "answer": "We aim to describe products accurately, including their brand, model, specifications, and condition. Customers should review the relevant product listing for identifying details. If you have questions about a particular manufacturer's product, contact our team before ordering."
           },
           {
-            "question": "What if a product becomes unavailable after I order?",
-            "answer": "If we cannot fulfill your order because a product is unavailable, we will contact you regarding the available options, including an appropriate refund."
+            "question": "Why are some of your products priced lower than other retailers?",
+            "answer": "Retail prices can vary for several reasons, including purchasing costs, inventory availability, promotional pricing, product configurations, and market conditions. We aim to offer competitive prices while providing clear product information. A lower price does not necessarily indicate a difference in product condition. Always review the individual listing for the exact product model, condition, and included accessories."
           },
           {
-            "question": "Can I get help choosing a product?",
-            "answer": "Yes. Contact our support team with the product name or link and your questions about specifications or compatibility."
+            "question": "Do you offer discounts or promotional codes?",
+            "answer": "Promotional discounts may be offered from time to time. When a promotion is available, its terms, eligibility requirements, and expiration date will be provided through the relevant offer. If you have a valid promotional code, enter it during checkout where supported."
           },
           {
-            "question": "Do your products include manufacturer warranties?",
-            "answer": "Some products may include manufacturer warranty coverage. The terms and duration depend on the specific product and manufacturer."
+            "question": "Can I request a discount on a product?",
+            "answer": "You can contact customer support to ask about currently available promotions. Discounts are not guaranteed and depend on active offers and product eligibility."
+          },
+          {
+            "question": "Can I purchase multiple units of the same product?",
+            "answer": "You can order available quantities shown on the product page, subject to inventory and any applicable purchase limits. For larger orders, contact our support team to discuss product availability and order requirements."
+          },
+          {
+            "question": "Do product prices include sales tax?",
+            "answer": "Applicable sales taxes, if any, are calculated according to the relevant transaction and displayed during checkout. Review your final order total before confirming payment."
+          },
+          {
+            "question": "Are product specifications always accurate?",
+            "answer": "We aim to provide accurate and useful product information. However, specifications, images, and manufacturer information can occasionally contain errors or change. For compatibility-sensitive purchases, we recommend confirming the exact model number and technical requirements before ordering."
+          },
+          {
+            "question": "Can you help me choose the right electronic product?",
+            "answer": "Our customer support team can assist with available product information and specifications. For compatibility questions, provide the relevant model numbers, intended use, and technical requirements. We encourage customers to verify compatibility before purchasing."
           }
         ]
       },
       {
-        "title": "Placing and managing orders",
+        "title": "3. Ordering & Checkout",
         "items": [
           {
             "question": "How do I place an order?",
-            "answer": "Browse droviia.us, select your products, add them to your cart, and proceed to checkout. Enter your shipping details, select an available payment method, review the total, and complete your purchase."
+            "answer": "Ordering from lumeero is straightforward: 1. Browse our electronics collection. 2. Select the product you want. 3. Review the product specifications and price. 4. Add the item to your cart. 5. Proceed to checkout. 6. Enter your billing and shipping information. 7. Review the available payment options and final order total. 8. Submit your order. Once an order is accepted, you should receive confirmation through the contact information provided during checkout."
           },
           {
-            "question": "Will I receive an order confirmation?",
-            "answer": "After a successful order, an order confirmation is normally sent to the email address entered during checkout. If you don't receive it, check your spam or junk folder and contact our support team."
+            "question": "Do I need an account to place an order?",
+            "answer": "Account requirements depend on the checkout options available on our website. If guest checkout is offered, you can place an order without creating a customer account."
           },
           {
-            "question": "Can I change my order after placing it?",
-            "answer": "You may request changes before fulfillment begins. Changes cannot be guaranteed once processing is underway."
+            "question": "How do I know my order was successfully placed?",
+            "answer": "After successfully submitting an order, you should receive an order confirmation or see a confirmation page. If you do not receive confirmation, check your spam or junk email folder and contact customer support before attempting another payment."
           },
           {
-            "question": "Can I cancel an order?",
-            "answer": "Yes, you may request cancellation before fulfillment begins. Once an order enters fulfillment or ships, cancellation may no longer be possible. Cancellation fee: $0.00."
+            "question": "Can I modify my order after placing it?",
+            "answer": "Contact us as soon as possible if you need to request a change. Depending on the order's fulfillment status, certain modifications may be possible. Changes cannot be guaranteed once processing or shipment has begun."
           },
           {
             "question": "Can I change my shipping address?",
-            "answer": "Contact us immediately with your order number and corrected address. We will review whether the change can be made before dispatch."
+            "answer": "If your order has not been shipped, contact customer support immediately with your order number and the requested correction. We will review whether the address can still be updated. Once a package has entered the carrier's delivery network, changes may be restricted or unavailable."
           },
           {
-            "question": "What happens if I entered the wrong email address?",
-            "answer": "Contact our customer support team and provide your order details so we can review your request."
+            "question": "Can I cancel an order?",
+            "answer": "You can request cancellation by contacting customer support. Cancellation eligibility depends on the order's fulfillment status and our published Cancellation Policy. Read Our Order Cancellation Policy"
+          },
+          {
+            "question": "What should I do if I placed an order by mistake?",
+            "answer": "Contact us promptly through live chat or email and provide your order number. Our team can review the order's current status and explain the available options."
           }
         ]
       },
       {
-        "title": "Shipping and delivery",
+        "title": "4. Payment Methods & Checkout Security",
         "items": [
           {
-            "question": "Do you offer free shipping?",
-            "answer": "Yes. We offer free standard shipping on eligible domestic orders within our supported United States delivery area, with no minimum order amount."
+            "question": "What payment methods does lumeero accept?",
+            "answer": "Available payment methods are displayed during checkout. Depending on the active payment integrations, options may include eligible credit or debit cards, digital payment services, or installment payment providers. Please refer to checkout for the payment methods currently supported. View Our Payment Policy"
           },
           {
-            "question": "How long does shipping take?",
-            "answer": "Order processing is typically 1-2 business days. Shipping transit is typically 3-7 business days. Total estimated delivery is 4-9 business days. These are estimates, not guaranteed delivery dates."
+            "question": "Is it safe to make payments on your website?",
+            "answer": "We aim to provide a secure checkout experience using supported payment integrations and appropriate website security measures. Payment processing may be handled by independent payment service providers. No online system can guarantee absolute security, so customers should also take reasonable precautions to protect their accounts and payment information."
           },
           {
-            "question": "What is your daily order cut-off time?",
-            "answer": "Our standard order cut-off is 4:00 PM Pacific Time, Monday through Friday, excluding applicable holidays. Orders placed after the cut-off generally begin processing the next business day."
+            "question": "Do you offer Buy Now, Pay Later?",
+            "answer": "Buy Now, Pay Later options may be available if an eligible financing provider is enabled at checkout. Availability depends on the payment services currently supported and the customer's eligibility. If no installment payment option is displayed, it is not currently available for that checkout. Learn About Buy Now, Pay Later"
           },
           {
-            "question": "Which shipping carriers do you use?",
-            "answer": "We may use USPS, UPS, FedEx, DHL, or other appropriate shipping services depending on the order and destination."
-          },
-          {
-            "question": "Do you ship internationally?",
-            "answer": "No. We currently serve eligible delivery addresses in the United States."
-          },
-          {
-            "question": "Can I track my order?",
-            "answer": "Yes. Once tracking information becomes available, it will generally be sent to your email address. Carrier tracking may take approximately 24-48 hours after pickup to display initial updates."
-          },
-          {
-            "question": "What if my package is delayed?",
-            "answer": "Check your tracking information first. If the package is significantly delayed or tracking is not progressing, contact us so we can investigate."
-          },
-          {
-            "question": "What if my tracking says delivered but I haven't received my package?",
-            "answer": "Check the delivery location, nearby entrances, household members, and neighbors. If the package is still missing, contact our support team with your order number and tracking details so we can review the issue."
-          },
-          {
-            "question": "Can my order arrive in multiple packages?",
-            "answer": "Yes. Orders containing multiple items may be shipped separately, with different tracking numbers."
-          }
-        ]
-      },
-      {
-        "title": "Payments and checkout",
-        "items": [
-          {
-            "question": "What currency do you accept?",
-            "answer": "Prices and checkout payments are displayed in United States Dollars (USD)."
-          },
-          {
-            "question": "What payment methods do you accept?",
-            "answer": "Afterpay is one of our primary payment options. Other methods, including Affirm, PayPal, and supported card payments, may be available at different times. The payment methods displayed at checkout are the options currently available for your purchase."
-          },
-          {
-            "question": "Can I pay using a credit or debit card?",
-            "answer": "Card payments may be available when supported by our active checkout providers. Please review the available options at checkout."
-          },
-          {
-            "question": "Is my payment information secure?",
-            "answer": "Payments are processed through participating third-party payment services using their security and authentication systems. For your protection, never send full card numbers, security codes, or payment passwords to our customer support team."
-          },
-          {
-            "question": "Will I be charged sales tax?",
-            "answer": "Applicable sales tax, if any, will be calculated and displayed during checkout based on the order and relevant tax requirements."
+            "question": "Can I pay in installments?",
+            "answer": "Installment payment availability depends on whether an eligible provider is offered during checkout. Approval, payment schedules, interest, and fees are determined by the relevant provider."
           },
           {
             "question": "Why was my payment declined?",
-            "answer": "Payment declines may occur because of insufficient funds, incorrect details, verification requirements, provider restrictions, or financing eligibility decisions. Contact your payment provider for more information or choose another available payment method."
+            "answer": "A payment may be declined for several reasons, including: Incorrect payment details Insufficient available funds Card issuer restrictions Failed authentication Payment provider eligibility requirements Temporary processing errors If your payment is declined, verify your details and contact your bank or payment provider if necessary."
+          },
+          {
+            "question": "My payment was charged, but I did not receive an order confirmation. What should I do?",
+            "answer": "Please avoid repeatedly submitting payment. Contact us at info@lumeero.site with the approximate transaction time, payment method, and email address used during checkout. Do not send your complete card number, card security code, or banking credentials."
+          },
+          {
+            "question": "Can I use multiple payment methods for one order?",
+            "answer": "Split-payment functionality depends on the checkout capabilities currently available. If the website does not offer this option, multiple payment methods cannot be combined for a single order through the standard checkout."
+          },
+          {
+            "question": "What currency are prices displayed in?",
+            "answer": "Prices on our US storefront are displayed in United States Dollars (USD) unless otherwise stated."
           }
         ]
       },
       {
-        "title": "Buy Now, Pay Later (BNPL)",
+        "title": "5. Shipping & Delivery",
         "items": [
           {
-            "question": "What is Buy Now, Pay Later?",
-            "answer": "Buy Now, Pay Later allows eligible customers to purchase products and pay according to an installment or deferred payment arrangement offered by a third-party provider."
+            "question": "Where does lumeero ship?",
+            "answer": "Our storefront is intended for customers in the United States. Delivery eligibility is determined by the available shipping destinations and restrictions shown during checkout. For questions about a specific destination, contact our support team before ordering."
           },
           {
-            "question": "Does DROVIIA accept Afterpay?",
-            "answer": "Yes. Afterpay is one of our primary payment options, subject to availability and provider approval."
+            "question": "Do you offer free shipping?",
+            "answer": "Shipping charges, including any free-shipping offers, are determined by our published Shipping Policy and the shipping options displayed during checkout. Any applicable shipping charges should be shown before you confirm your order. Review Shipping & Delivery"
           },
           {
-            "question": "Do you offer Affirm?",
-            "answer": "Affirm may be available for eligible transactions when displayed during checkout."
+            "question": "How long does shipping take?",
+            "answer": "Estimated processing and delivery times depend on the product, destination, shipping method, and carrier. The applicable delivery information is provided in our Shipping Policy or during checkout. Delivery estimates are not guarantees unless expressly stated otherwise."
           },
           {
-            "question": "How does Afterpay work?",
-            "answer": "Depending on the plan offered, Afterpay may allow qualifying purchases to be divided into installments. For example, an eligible Pay in 4 arrangement may divide the purchase into four payments over approximately six weeks. Actual payment dates, eligibility, and terms are determined by Afterpay."
+            "question": "How can I track my order?",
+            "answer": "If tracking information is available, it will be provided through the applicable order communication or tracking service. You can also contact customer support with your order number for assistance. Track Your Order"
           },
           {
-            "question": "Is Buy Now, Pay Later interest-free?",
-            "answer": "Not all financing plans are interest-free. Some plans may offer 0% APR, while others may involve interest or fees. Review the provider's complete terms before confirming the agreement."
+            "question": "Why is my tracking number not updating?",
+            "answer": "Tracking updates may take time to appear after a shipment is prepared or handed to the carrier. Carrier scans may also be delayed during transit. If your tracking information has not updated as expected, contact our support team for assistance."
           },
           {
-            "question": "Can my BNPL application be declined?",
-            "answer": "Yes. Financing approval is determined independently by the provider."
+            "question": "What happens if my delivery is delayed?",
+            "answer": "Shipping delays can occur because of carrier disruptions, weather, holidays, or other circumstances. If your delivery is taking longer than expected, contact us with your order number so we can review the available shipment information."
           },
           {
-            "question": "Can I return an order purchased with Afterpay or Affirm?",
-            "answer": "Yes. Eligible purchases remain subject to our standard return and refund policy. Approved refunds are processed through the original financing provider, which handles the resulting installment adjustments."
+            "question": "What if my package is marked delivered but I haven't received it?",
+            "answer": "First, check the delivery location, nearby entrances, and any available carrier delivery details. If you still cannot locate the package, contact our support team. We can review the available tracking information and explain the next steps."
           },
           {
-            "question": "Should I keep paying installments while waiting for a refund?",
-            "answer": "Follow your financing provider's instructions until the refund or repayment adjustment has been confirmed."
+            "question": "Can I request expedited shipping?",
+            "answer": "Expedited shipping is available only when specifically offered during checkout or confirmed by our support team. Please do not assume faster shipping is available for every product or destination."
+          },
+          {
+            "question": "Do you offer international shipping?",
+            "answer": "International delivery is not advertised as a standard service on our US storefront. Customers should rely on the eligible destinations displayed during checkout or contact support for clarification."
           }
         ]
       },
       {
-        "title": "Returns and exchanges",
+        "title": "6. Returns & Refunds",
         "items": [
           {
             "question": "What is your return policy?",
-            "answer": "We offer a 30-calendar-day return window for eligible products, starting from the date of delivery."
+            "answer": "Our Return and Refund Policy explains which purchases may be returned, the applicable return period, product-condition requirements, and the process for requesting a return. Please review the policy before initiating a return. Read Our Return and Refund Policy"
+          },
+          {
+            "question": "How do I request a return?",
+            "answer": "To request a return: 1. Contact customer support. 2. Provide your order number. 3. Explain the reason for your return. 4. Provide photographs or supporting information if requested. 5. Wait for the applicable return instructions and authorization. 6. Follow the approved return procedure. Do not send products to our business contact address without receiving return instructions."
           },
           {
             "question": "Can I return a product if I change my mind?",
-            "answer": "Yes, eligible products may be returned within the return window if they meet our return conditions. For standard change-of-mind returns, products generally must be unused, uninstalled, and in their original condition with required packaging and accessories."
+            "answer": "Change-of-mind return eligibility depends on the product, its condition, the applicable return period, and our published Return and Refund Policy. Please review the policy or contact customer support before sending an item back."
+          },
+          {
+            "question": "What if I receive a damaged product?",
+            "answer": "Contact us promptly with your order number, a description of the damage, and relevant photographs. Our team will review the report and explain the available options under the applicable policies and consumer protection laws."
+          },
+          {
+            "question": "What if I receive the wrong item?",
+            "answer": "Contact customer support with your order number and photographs of the item received. We will review the discrepancy and explain the appropriate next steps."
+          },
+          {
+            "question": "Do I have to pay for return shipping?",
+            "answer": "Return shipping responsibilities depend on the reason for the return and the applicable policy. For example, change-of-mind returns may be handled differently from verified incorrect, damaged, or defective product claims. Please review our Return and Refund Policy for the applicable conditions."
           },
           {
             "question": "Do you charge restocking fees?",
-            "answer": "No. Our restocking fee is $0.00."
+            "answer": "Any applicable restocking fees or other return-related charges must be disclosed in our published Return and Refund Policy. Contact customer support if you need clarification before requesting a return."
           },
           {
-            "question": "Who pays return shipping?",
-            "answer": "For approved change-of-mind returns, the customer generally pays return shipping. For verified damaged, defective, or incorrectly supplied products, we provide a prepaid return label when a return is required."
+            "question": "How long does a refund take?",
+            "answer": "Refund processing times depend on the applicable return process, approval status, and payment provider. After a refund is initiated, your bank or payment provider may require additional time to make the funds available. Refer to our Return and Refund Policy for the applicable timeline."
           },
           {
-            "question": "How do I start a return?",
-            "answer": "Email info@droviia.us or contact our live chat with your order number and reason for return. Our team will review the request and provide the appropriate return instructions."
+            "question": "Will my refund go back to my original payment method?",
+            "answer": "Approved refunds are generally directed through the original payment method where supported. The final refund process may depend on the payment provider and transaction circumstances."
           },
           {
-            "question": "Can I send a return to your business address?",
-            "answer": "No. Do not send returns to our Gardena, California business address unless our team specifically authorizes that destination."
+            "question": "Can I exchange a product?",
+            "answer": "Exchange availability depends on the product and applicable store policy. Contact customer support to discuss the available options."
           },
           {
-            "question": "Do you offer exchanges?",
-            "answer": "We generally recommend returning an eligible product and placing a new order. For verified seller errors or defective items, replacement options may be available."
-          },
-          {
-            "question": "What if my product arrives damaged?",
-            "answer": "Contact us as soon as possible, preferably within 48 hours of delivery, with your order number and photographs of the product and packaging. This preferred reporting timeframe does not limit your applicable legal rights."
+            "question": "Can I return a product directly to your business address?",
+            "answer": "No product should be sent to our published business contact address without prior authorization. Contact our support team for the correct return instructions and designated destination."
           }
         ]
       },
       {
-        "title": "Refunds",
+        "title": "7. Warranty & Product Support",
         "items": [
           {
-            "question": "How long do refunds take?",
-            "answer": "For approved returned products, refunds are typically processed within 10 business days after the returned item has been received, inspected, and approved. Additional time may be required for the payment provider or bank to credit your account."
+            "question": "Do your electronics come with a warranty?",
+            "answer": "Warranty coverage varies by product and manufacturer. Where applicable, product listings or accompanying documentation may identify available warranty terms. Not every product necessarily includes the same warranty coverage. Read Warranty & Product Support"
           },
           {
-            "question": "How will I receive my refund?",
-            "answer": "Refunds are generally issued to the original payment method."
+            "question": "How can I check whether a product has a warranty?",
+            "answer": "Review the product description, manufacturer documentation, and any applicable warranty information. If the information is unclear, contact customer support with the product name or model number."
           },
           {
-            "question": "Can I receive a refund through a different payment method?",
-            "answer": "Refunds are normally returned through the original payment provider. Alternative arrangements are not guaranteed."
+            "question": "What should I do if my product stops working?",
+            "answer": "Contact customer support with your order number and a description of the issue. Depending on the product and circumstances, return eligibility, manufacturer warranty terms, or other support options may apply."
           },
           {
-            "question": "What happens if my order is canceled before shipping?",
-            "answer": "If cancellation is approved and payment was collected, we will initiate the applicable refund promptly after cancellation confirmation."
+            "question": "Are you an authorized retailer for every brand you sell?",
+            "answer": "Authorization relationships vary by manufacturer and should not be assumed. Unless a specific authorization is expressly stated and verifiable, the presence of a branded product on our website does not imply an official manufacturer partnership or endorsement."
           },
           {
-            "question": "What happens to my Afterpay installments after a refund?",
-            "answer": "Afterpay determines how the approved refund affects your remaining installments and amounts already paid."
-          },
-          {
-            "question": "Will I receive a refund for a discounted product?",
-            "answer": "An approved refund generally reflects the amount actually paid for the returned product, subject to applicable adjustments and legal requirements."
+            "question": "Do you provide installation or technical repair services?",
+            "answer": "Installation and repair services should not be assumed to be included with a product purchase. Review the product listing or contact support to determine whether any additional services are specifically available."
           }
         ]
       },
       {
-        "title": "Warranty and product support",
+        "title": "8. Account, Privacy & Website Assistance",
         "items": [
-          {
-            "question": "Do all electronics come with a warranty?",
-            "answer": "No. Warranty availability varies by product and manufacturer."
-          },
-          {
-            "question": "Does DROVIIA provide a universal one-year warranty?",
-            "answer": "No. We do not promise a blanket one-year warranty on all products."
-          },
-          {
-            "question": "What if my product stops working after the return window?",
-            "answer": "Contact our support team. We can help identify any applicable manufacturer warranty or other available remedy."
-          },
-          {
-            "question": "Do I need proof of purchase for warranty support?",
-            "answer": "A receipt, order number, or other proof of purchase may be required."
-          },
-          {
-            "question": "Can you repair my product?",
-            "answer": "Repair services depend on the applicable manufacturer warranty and authorized service arrangements. We do not guarantee direct repair services for every product."
-          }
-        ]
-      },
-      {
-        "title": "Accounts, privacy, and security",
-        "items": [
-          {
-            "question": "Do I need an account to shop?",
-            "answer": "Account requirements depend on the checkout options available on our website. Follow the instructions shown during checkout."
-          },
           {
             "question": "How is my personal information used?",
-            "answer": "We may use customer information to process orders, provide support, arrange shipping, maintain website functionality, and perform other activities described in our Privacy Policy."
+            "answer": "Personal information may be used to process orders, provide customer support, manage transactions, and operate our website. For details about the information collected and how it is handled, review our Privacy Policy. Privacy Policy"
           },
           {
-            "question": "Do you use cookies?",
-            "answer": "Yes. Essential cookies may support shopping carts, checkout, security, and other website functions. Additional cookies depend on the services enabled."
+            "question": "Do you share customer information with third parties?",
+            "answer": "Certain service providers may receive information necessary to support payment processing, order fulfillment, website operations, or other legitimate business activities. Our Privacy Policy explains the applicable data-handling practices."
           },
           {
-            "question": "Can I request information about my personal data?",
-            "answer": "You may contact info@droviia.us with a privacy-related request. Applicable rights depend on relevant privacy laws."
+            "question": "Does your website use cookies?",
+            "answer": "Our website may use cookies and similar technologies to support essential functionality, remember preferences, and provide other website features. Review our Cookie Policy for additional information. Cookie Policy"
           },
           {
-            "question": "Will you ask for my payment password?",
-            "answer": "No. Our customer support team does not need your payment account password, full card number, or card security code."
+            "question": "How can I request access to or deletion of my personal information?",
+            "answer": "You can contact info@lumeero.site with your privacy-related request. Requests will be reviewed according to applicable law and our published privacy procedures. Your Privacy Choices"
+          },
+          {
+            "question": "What should I do if the website is not working correctly?",
+            "answer": "Try refreshing the page, checking your internet connection, or using an updated browser. If the problem continues, contact our support team with a description of the issue and, if possible, a screenshot."
+          },
+          {
+            "question": "How can I report an accessibility issue?",
+            "answer": "If you experience difficulty using our website, please email info@lumeero.site. Include the page URL and a description of the accessibility barrier so we can review the issue. Accessibility Statement"
           }
         ]
       },
       {
-        "title": "Customer support",
+        "title": "9. Customer Service & Additional Assistance",
         "items": [
           {
-            "question": "What are your customer support hours?",
-            "answer": "Our business support hours are Monday through Friday, 9:00 AM-5:00 PM Pacific Time. Our website also offers 24/7 live chat."
-          },
-          {
-            "question": "What is your customer support email?",
-            "answer": "info@droviia.us"
-          },
-          {
-            "question": "What is your customer support phone number?",
-            "answer": "+1 (424) 329-0223"
-          },
-          {
             "question": "What information should I provide when contacting support?",
-            "answer": "For order-related requests, please provide your order number, email address used during checkout, and a brief description of the issue. For product concerns, include relevant photos or videos where helpful."
+            "answer": "For order-related questions, please provide: Your order number The name associated with the order The email address used during checkout A brief explanation of your inquiry For product-related concerns, include the relevant product name, model, or listing URL."
           },
           {
-            "question": "Can I contact you about an order outside business hours?",
-            "answer": "Yes. You can send an email at any time or use our 24/7 live chat. Response times may vary."
+            "question": "Can I contact support before purchasing?",
+            "answer": "Yes. Customers are welcome to contact us before placing an order. Our team can assist with available product details, purchasing information, and general store policies."
+          },
+          {
+            "question": "What should I do if I haven't received a response?",
+            "answer": "If you have already contacted us, please allow time for your inquiry to be reviewed. You can follow up through the same email thread or use our live chat for additional assistance."
+          },
+          {
+            "question": "How can I submit feedback about my shopping experience?",
+            "answer": "We welcome constructive feedback. Send your comments or suggestions to info@lumeero.site, or use the contact form on our website."
+          },
+          {
+            "question": "Can I contact lumeero for business inquiries?",
+            "answer": "Yes. General business inquiries can be submitted through our published email address. Email: info@lumeero.site"
+          },
+          {
+            "question": "What should I do if my question isn't answered here?",
+            "answer": "Contact our support team through one of the following channels: Live Chat: Available 24/7 Email: info@lumeero.site Phone: +1 (505) 345-4232 Telephone Hours: Monday–Friday, 9:00 AM–5:00 PM Mountain Time (MT) Contact Our Team Still Have Questions? We're Here to Make Shopping Easier At lumeero, we believe customers should have access to clear information and helpful support throughout their shopping experience. Whether you're exploring our electronics catalog, checking an order, or requesting assistance after a purchase, our customer support channels are available to help. Shop Electronics: https://lumeero.us/shop/ Contact Support: https://lumeero.us/contact-us/ Email: info@lumeero.site Live Chat: Available 24/7 Business Information Store Name: lumeero Legal Business Name: Stone Canyon Leathers Website: https://lumeero.us Email: info@lumeero.site Phone: +1 (505) 345-4232 Address: 6715 4th St NW, Los Ranchos De Albuquerque, NM 87107, United States Business Hours: Monday–Friday, 9:00 AM–5:00 PM Mountain Time (MT) Live Chat: 24/7 lumeero. Everyday Technology. A Simpler Way to Shop. © 2026 lumeero. Operated by Stone Canyon Leathers. All rights reserved."
           }
         ]
       }

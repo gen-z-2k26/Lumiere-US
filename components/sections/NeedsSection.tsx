@@ -7,35 +7,35 @@ import { cn } from "@/lib/utils";
 
 const needs = [
   {
-    title: "Kitchen and laundry",
-    text: "Refrigerators, wine fridges, range hoods, and laundry appliances for everyday household needs.",
-    image: "/brand/collection-kitchen.jpg",
-    alt: "Kitchen with a refrigerator, range hood, and stacked laundry",
-    imageClass: "object-[62%_center]",
+    title: "Computers and components",
+    text: "Computing hardware, memory, and essential upgrades.",
+    image: "/brand/collection-computers.jpg",
+    alt: "Desktop PC with a glass side panel, cooling fans, and internal components",
+    imageClass: "object-[center_42%]",
     tile: "feature" as const,
   },
   {
-    title: "Heating and air",
-    text: "Air conditioners, furnaces, boilers, humidifiers, and space heaters.",
-    image: "/brand/collection-climate.jpg",
-    alt: "Living room with a wall-mounted air conditioner",
-    imageClass: "object-[center_22%]",
+    title: "Graphics and gaming",
+    text: "Graphics cards, consoles, and gaming accessories.",
+    image: "/brand/collection-gaming.jpg",
+    alt: "Two graphics cards on a dark surface",
+    imageClass: "object-center",
     tile: "wide" as const,
   },
   {
-    title: "Hair and personal care",
-    text: "Dryers, straighteners, curling irons, and styling sets.",
-    image: "/brand/collection-care.jpg",
-    alt: "Hair dryer and straightener on a bathroom vanity",
-    imageClass: "object-[center_58%]",
+    title: "Monitors and audio",
+    text: "Displays for work and entertainment, plus everyday audio.",
+    image: "/brand/collection-monitors.jpg",
+    alt: "Computer monitor on a desk with a keyboard",
+    imageClass: "object-[center_40%]",
     tile: "compact" as const,
   },
   {
-    title: "Home and commercial",
-    text: "Garage door openers and hand dryers for practical spaces.",
-    image: "/brand/collection-home.jpg",
-    alt: "Garage with a sectional door and opener rail",
-    imageClass: "object-[24%_42%]",
+    title: "Adapters and power",
+    text: "I/O cards, adapters, chargers, and power accessories.",
+    image: "/brand/collection-power.jpg",
+    alt: "Power adapter with a coiled charging cable",
+    imageClass: "object-[center_45%]",
     tile: "compact" as const,
   },
 ];
@@ -68,7 +68,7 @@ export function NeedsSection() {
       <div className={pageContainer(sectionStackClass)}>
         <SectionHeader
           eyebrow="Collections"
-          title="Shop by what your home needs"
+          title="Shop electronics by what you are building"
           subtitle="Four places to start. The products themselves come from the live catalog."
           titleId="needs-heading"
         />
@@ -78,7 +78,7 @@ export function NeedsSection() {
               key={item.title}
               href="/products"
               className={cn(
-                "group relative isolate flex overflow-hidden rounded-2xl bg-[#101613] text-white",
+                "group relative isolate flex overflow-hidden rounded-2xl bg-[var(--dark-background)] text-white",
                 tileClass[item.tile],
               )}
             >
@@ -98,7 +98,7 @@ export function NeedsSection() {
               />
               <div
                 aria-hidden
-                className="absolute inset-0 bg-gradient-to-t from-[#101613]/92 via-[#101613]/45 to-[#101613]/10"
+                className="absolute inset-0 bg-gradient-to-t from-[var(--dark-background)]/92 via-[var(--dark-background)]/40 to-[var(--dark-background)]/10"
               />
               <div
                 className={cn(
@@ -110,7 +110,7 @@ export function NeedsSection() {
                   {item.title}
                 </h3>
                 <p className={copyClass[item.tile]}>{item.text}</p>
-                <span className="mt-4 inline-flex items-center gap-1.5 text-sm font-medium text-[#9DCFB0]">
+                <span className="mt-4 inline-flex items-center gap-1.5 text-sm font-medium text-[var(--dark-accent)]">
                   Shop collection
                   <ArrowRight className="size-4 transition-transform duration-200 group-hover:translate-x-0.5" />
                 </span>

@@ -101,8 +101,13 @@ export function hrefForAbsoluteUrl(url: string) {
   try {
     const parsed = new URL(url);
     const host = parsed.hostname.replace(/^www\./, "");
-    if (host === "droviia.us" || host === "orvexo.us") {
+    if (
+      host === "lumeero.us" ||
+      host === "lumeero.site" ||
+      host === "orvexo.us"
+    ) {
       const path = parsed.pathname.replace(/\/$/, "") || "/";
+      if (path === "/shop") return "/products";
       return path;
     }
   } catch {

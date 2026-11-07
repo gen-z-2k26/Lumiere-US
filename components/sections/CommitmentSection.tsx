@@ -16,11 +16,11 @@ const pillars = [
   },
   {
     title: "Shipping you can review",
-    text: "Standard shipping is $5 under $100 and free at $100 or more. Freight for large appliances is shown at checkout.",
+    text: "Eligible orders to the contiguous United States ship free, with no minimum. Any exception is shown at checkout.",
   },
   {
     title: "Straightforward returns",
-    text: "Eligible items have a 30-day window. Conditions apply, return shipping is paid by the customer, and a $5 restocking fee applies to standard non-defective returns.",
+    text: "Eligible products have a 30-calendar-day window and a $0 restocking fee. Change-of-mind return shipping is the customer's responsibility.",
   },
 ];
 
@@ -34,7 +34,7 @@ export function CommitmentSection() {
         <SectionHeader
           eyebrow="Our commitment"
           title="Clear information, then support when you need it"
-          subtitle="The same standards apply whether the order is a styling tool or a major appliance."
+          subtitle="The same standards apply whether the order is a cable, a component, or a larger piece of gear."
           titleId="commitment-heading"
           action={
             <Link
